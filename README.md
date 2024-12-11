@@ -17,6 +17,8 @@ Bacterial_TRN_Dominance_and_Independence/
 │   ├── Create_P1K_Merged.ipynb #Calculate exploratory metrics for all the genes
 │   └── Create_RegulonDB_TRN.ipynb #Convert RegulonDB information to presence matrix
 │
+├── bitome2/ # Bitome data from https://academic.oup.com/nar/article/48/18/10157/5911745
+│
 ├── 1_Compare_Inference_Methods/
 │   ├── Presence_Matrices/ # Gene presence/absence matrices for all the evaluated methods
 │   ├── Results/ # Original Output from all the evaluated methods
