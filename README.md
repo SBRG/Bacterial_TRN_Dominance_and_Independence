@@ -62,7 +62,7 @@ Bacterial_TRN_Dominance_and_Independence/
 
 All the datasets analyzed in this study have been deposited in this repository.
 
-You could also explore and download the PRECISER-1K dataset from https://imodulondb.org/dataset.html?organism=e_coli&dataset=precise1k
+You could also explore and download the PRECISE-1K dataset from https://imodulondb.org/dataset.html?organism=e_coli&dataset=precise1k
 
 ## Environment Setup
 
