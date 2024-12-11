@@ -55,3 +55,22 @@ Bacterial_TRN_Dominance_and_Independence/
     └── A_confidence_case_study_plotting.ipynb
 ````
 
+## Environment Setup
+
+Two environments were used in this study:
+
+1. python 3.7 'modulome' from https://github.com/SBRG/iModulonMiner
+   - pymodulon 0.2.1
+   - scikit-learn 1.0.2
+   - matplotlib 3.5.3
+   - numpy 1.21.6
+   - pandas 1.3.5
+   - seaborn 0.12.2
+
+2. python 3.12.4
+   - scikit-learn 1.5.1
+   - matplotlib 3.8.4
+   - numpy 2.0.0
+   - pandas 2.2.2
+   - seaborn 0.13.2
+
