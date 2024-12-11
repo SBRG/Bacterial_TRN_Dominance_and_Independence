@@ -11,7 +11,7 @@ Bacterial_TRN_Dominance_and_Independence/
 ├── Data/
 │   ├── RegulonDB_v13_08042024/ #E.coli experimental TRN from RegulonDB v13
 │   ├── mg1655/ #E.coli K-12 MG1655 genomic information
-│   └── p1k/ #PRECISE-1K dataset
+│   └── p1k/ #PRECISE-1K dataset, you could also explore and download this dataset from https://imodulondb.org/dataset.html?organism=e_coli&dataset=precise1k
 │
 ├── Data_Prep_Notebooks/
 │   ├── Create_P1K_Merged.ipynb #Calculate exploratory metrics for all the genes
