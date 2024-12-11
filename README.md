@@ -5,7 +5,6 @@ This repository contains code and data for the manuscript 'Dominance and Indepen
 ## Repository Structure
 
 ````
-```plaintext
 Bacterial_TRN_Dominance_and_Independence/
 ├── README.md
 ├── Data/
@@ -54,6 +53,5 @@ Bacterial_TRN_Dominance_and_Independence/
 ├── 5_Co_expression_confidence/
     ├── A_confidence_P1K.ipynb
     └── A_confidence_case_study_plotting.ipynb
-```
 ````
 
