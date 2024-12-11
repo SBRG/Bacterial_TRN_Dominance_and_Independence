@@ -12,9 +12,11 @@ Bacterial_TRN_Dominance_and_Independence/
 │   ├── RegulonDB_v13_08042024/ #E.coli experimental TRN from RegulonDB v13
 │   ├── mg1655/ #E.coli K-12 MG1655 genomic information
 │   └── p1k/ #PRECISE-1K dataset
+│
 ├── Data_Prep_Notebooks/
 │   ├── Create_P1K_Merged.ipynb #Calculate exploratory metrics for all the genes
 │   └── Create_RegulonDB_TRN.ipynb #Convert RegulonDB information to presence matrix
+│
 ├── 1_Compare_Inference_Methods/
 │   ├── Presence_Matrices/ # Gene presence/absence matrices for all the evaluated methods
 │   ├── Results/ # Original Output from all the evaluated methods
@@ -28,16 +30,30 @@ Bacterial_TRN_Dominance_and_Independence/
 │   ├── 6_High_MI_PCs.ipynb
 │   ├── 6.1_High_MI_NMF.ipynb
 │   ├── 7_Compare_GENIE3_Clutering_Biclustering.ipynb
-│   ├── 8_Benchmark_Clustering_Biclustering.ipynb
+│   └── 8_Benchmark_Clustering_Biclustering.ipynb
+│
 ├── 2_Expression_Survey/
-│   ├── Rat data/
+│   ├── Gene_Category/ # Figure 3 Gene Category
+│   ├── 0_Import_Data.ipynb
+│   ├── 1_Expression_Survey.ipynb
+│   ├── 2_Find_the_Best_Split.ipynb
+│   ├── 3_Decision_Tree.ipynb
+│   ├── 4_Case_Study_Plotting.ipynb
+│   └── 5_Genes_captured_by_ICA.ipynb
+│
 ├── 3_Regulator_Survey/
-│   ├── Rat data/
+│   ├── data/
+│   └── notebooks/
+│       ├── 1_compare_all_methods.ipynb
+│       ├── 2_regulator_captured_sunburst.ipynb
+│       └── 3_reg_size_boxplot.ipynb
+│
 ├── 4_Case_Study/
-│   ├── Rat data/
+│   ├── Figure_4_ArgR.ipynb
+│
 ├── 5_Co_expression_confidence/
-│   ├── Rat data/
-
+    ├── A_confidence_P1K.ipynb
+    └── A_confidence_case_study_plotting.ipynb
 ```
 ````
 
