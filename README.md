@@ -7,6 +7,7 @@ This repository contains code and data for the manuscript 'Dominance and Indepen
 ````
 Bacterial_TRN_Dominance_and_Independence/
 ├── README.md
+│
 ├── Data/
 │   ├── RegulonDB_v13_08042024/ #E.coli experimental TRN from RegulonDB v13
 │   ├── mg1655/ #E.coli K-12 MG1655 genomic information
