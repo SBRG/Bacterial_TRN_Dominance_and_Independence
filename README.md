@@ -1,6 +1,6 @@
 # Dominance and Independence within Bacterial Transcriptional Regulation
 
-This repository contains code and data for the manuscript 'Dominance and Independence within Bacterial Transcriptional Regulation'.
+This repository contains the codes and data for the manuscript 'Dominance and Independence within Bacterial Transcriptional Regulation'.
 
 ## Repository Structure
 
