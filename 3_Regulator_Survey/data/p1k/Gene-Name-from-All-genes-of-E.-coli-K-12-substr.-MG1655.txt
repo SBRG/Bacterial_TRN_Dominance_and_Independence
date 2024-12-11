@@ -1,0 +1,4748 @@
+All-Genes	Accession-1	Names
+3'ETS-<i>leuZ</i>	b4759	UNCLASSIFIED
+aaaD	b4634	aaaD // ylcF // b4634 // ECK4439
+aaaE	b4693	aaaE // b4693 // ECK1135
+aaeA	b3241	aaeA // yhcQ // b3241 // ECK3230
+aaeB	b3240	aaeB // yhcP // b3240 // ECK3229
+aaeR	b3243	aaeR // yhcS // qseA // b3243 // ECK3232
+aaeX	b3242	aaeX // yhcR // b3242 // ECK3231
+aas	b2836	aas // b2836 // ECK2832
+aat	b0885	aat // ycaA // b0885 // ECK0876
+abgA	b1338	abgA // ydaJ // b1338 // ECK1334
+abgB	b1337	abgB // ydaI // b1337 // ECK1333
+abgR	b1339	abgR // b1339 // ECK1335
+abgT	b1336	abgT // ydaH // b1336 // ECK1332
+abpA	b2628	abpA // yfjL // b2628 // ECK2624
+abpB	b2627	abpB // yfjK // b2627 // ECK2623
+abrB	b0715	abrB // ybgN // b0715 // ECK0704
+accA	b0185	accA // b0185 // ECK0184
+accB	b3255	accB // fabE // b3255 // ECK3242
+accC	b3256	accC // fabG // b3256 // ECK3243
+accD	b2316	accD // dedB // usg // b2316 // ECK2310
+aceA	b4015	aceA // icl // b4015 // ECK4007
+aceB	b4014	aceB // mas // b4014 // ECK4006
+aceE	b0114	aceE // b0114 // ECK0113
+aceF	b0115	aceF // b0115 // ECK0114
+aceK	b4016	aceK // b4016 // ECK4008
+aceK-int	b4830	UNCLASSIFIED
+ackA	b2296	ackA // b2296 // ECK2290
+ackB		ackB
+acnA	b1276	acnA // acn // b1276 // ECK1271
+acnB	b0118	acnB // yacJ // yacI // b0118 // ECK0117
+acpH	b0404	acpH // yajB // b0404 // ECK0398
+acpP	b1094	acpP // b1094 // ECK1080
+acpS	b2563	acpS // dpj // b2563 // ECK2561
+acpT	b3475	acpT // yhhU // b3475 // ECK3459
+acrA	b0463	acrA // sipB // Mb // lir // mbl // mtcA // nbsA // b0463 // ECK0457
+acrB	b0462	acrB // acrE // b0462 // ECK0456
+acrD	b2470	acrD // yffA // b2470 // ECK2465
+acrE	b3265	UNCLASSIFIED
+acrF	b3266	acrF // envD // b3266 // ECK3253
+acrR	b0464	acrR // ybaH // b0464 // ECK0458
+acrZ	b0762	acrZ // ybhT // b0762 // ECK0751
+acs	b4069	acs // yfaC // acsA // b4069 // ECK4062
+actP	b4067	actP // yjcG // b4067 // ECK4060
+actS	b2865	actS // ygeR // b2865 // ECK2861
+ada	b2213	ada // b2213 // ECK2205
+add	b1623	add // b1623 // ECK1618
+adeD	b3665	adeD // adu // yicP // ade // b3665 // ECK3656
+adeP	b3714	adeP // yieG // purP // b3714 // ECK3707
+adeQ	b3664	adeQ // yicO // b3664 // ECK3655
+adhE	b1241	adhE // adhC // ana // b1241 // ECK1235
+adhP	b1478	adhP // yddN // b1478 // ECK1472
+adiA	b4117	adiA // adi // b4117 // ECK4110
+adiC	b4115	adiC // yjdD // yjdE // b4115 // ECK4108
+adiY	b4116	adiY // b4116 // ECK4109
+adk	b0474	adk // dnaW // plsA // b0474 // ECK0468
+aegA	b2468	aegA // yffG // b2468 // ECK2463
+aer	b3072	aer // yqjJ // air // b3072 // ECK3062
+aes	b0476	aes // ybaC // b0476 // ECK0470
+afuB	b0263	afuB // fbpB // b0263 // ECK0265
+afuC	b0262	afuC // fbpC // yagC // b0262 // ECK0264
+agaA	b3135	agaA // yraA // b3135 // ECK3123
+agaB	b3138	agaB // yraD // b3138 // ECK3126
+agaC	b3139	agaC // yraE // b3139 // ECK3127
+agaD	b3140	agaD // yraF // b3140 // ECK3128
+agaI	b3141	agaI // yraG // b3141 // ECK3129
+agaR	b3131	agaR // yhaW // b3131 // ECK3119
+agaS	b3136	agaS // yraB // b3136 // ECK3124
+agaV	b3133	agaV // yhaY // b3133 // ECK3121
+agaW	b3134	agaW // yhaZ // b3134 // ECK3122
+agp	b1002	agp // b1002 // ECK0993
+agrA	b4712	agrA // b4712 // ECK4569
+agrB	b4713	agrB // b4713 // ECK4570
+ahpC	b0605	ahpC // tpx // ssi8 // b0605 // ECK0599
+ahpF	b0606	ahpF // b0606 // ECK0600
+ahr	b4269	UNCLASSIFIED
+aidB	b4187	aidB // b4187 // ECK4183
+ais	b2252	ais // pagH // pmrG // b2252 // ECK2245
+alaA	b2290	alaA // yfbQ // b2290 // ECK2284
+alaB		alaB
+alaC	b2379	alaC // yfdZ // b2379 // ECK2375
+alaE	b2670	alaE // ygaW // b2670 // ECK2664
+alaS	b2697	alaS // act // ala-act // lovB // b2697 // ECK2692
+alaT	b3853	alaT // talA // b3853 // ECK3845
+alaU	b3276	alaU // talD // b3276 // ECK3263
+alaV	b0203	alaV // b0203 // ECK0203
+alaW	b2397	alaW // alaWalpha // b2397 // ECK2391
+alaX	b2396	alaX // alaWbeta // b2396 // ECK2390
+aldA	b1415	aldA // ald // b1415 // ECK1408
+aldB	b3588	aldB // yiaX // b3588 // ECK3577
+alkA	b2068	alkA // aidA // b2068 // ECK2062
+alkB	b2212	alkB // aidD // b2212 // ECK2204
+allA	b0505	allA // glxA2 // ybbT // b0505 // ECK0498
+allB	b0512	allB // glxB3 // ybbX // b0512 // ECK0505
+allC	b0516	allC // glxB7 // ylbB // b0516 // ECK0509
+allD	b0517	allD // glxB8 // ylbC // b0517 // ECK0510
+allE	b0515	allE // glxB6 // ylbA // ughY // b0515 // ECK0508
+allR	b0506	allR // glxA3 // ybbU // b0506 // ECK0499
+allS	b0504	allS // ybbS // glxA1 // b0504 // ECK0497
+allW	b0511	allW // allP // glxB2 // ybbW // b0511 // ECK0504
+allZ	b4831	UNCLASSIFIED
+alpA	b2624	alpA // b2624 // ECK2620
+alr	b4053	alr // alr5 // b4053 // ECK4045
+alsA	b4087	alsA // yjcW // b4087 // ECK4080
+alsB	b4088	alsB // yjcX // b4088 // ECK4081
+alsC	b4086	alsC // yjcV // b4086 // ECK4079
+alsE	b4085	alsE // yjcU // b4085 // ECK4078
+alsK	b4084	alsK // yjcT // b4084 // ECK4077
+alsR	b4089	alsR // yjcY // rpiR // b4089 // ECK4082
+alx	b3088	alx // ygjT // b3088 // ECK3079
+ameF	b4844	ameF // b4844 // ECK4701
+amiA	b2435	amiA // yfeE // b2435 // ECK2430
+amiB	b4169	amiB // yjeD // b4169 // ECK4165
+amiC	b2817	amiC // ygdN // b2817 // ECK2813
+amiD	b0867	amiD // ybjR // b0867 // ECK0858
+amn	b1982	amn // b1982 // ECK1977
+ampC	b4150	ampC // ampA // b4150 // ECK4146
+ampD	b0110	ampD // b0110 // ECK0109
+ampE	b0111	ampE // b0111 // ECK0110
+ampG	b0433	ampG // b0433 // ECK0427
+ampH	b0376	ampH // yaiH // b0376 // ECK0371
+amtB	b0451	amtB // ybaG // b0451 // ECK0445
+amyA	b1927	amyA // yedC // b1927 // ECK1926
+anmK	b1640	anmK // ydhH // b1640 // ECK1636
+ansA	b1767	ansA // b1767 // ECK1765
+ansB	b2957	ansB // b2957 // ECK2952
+ansP	b1453	ansP // yncF // b1453 // ECK1447
+apaG	b0050	apaG // b0050 // ECK0051
+apaH	b0049	apaH // cfcB // b0049 // ECK0050
+aphA	b4055	aphA // yjbP // hobH // b4055 // ECK4047
+appA	b0980	appA // b0980 // ECK0971
+appB	b0979	appB // cbdB // cyxB // b0979 // ECK0970
+appC	b0978	appC // cbdA // cyxA // b0978 // ECK0969
+appX	b4592	appX // yccB // cbdX // b4592 // ECK4402
+appY	b0564	appY // b0564 // ECK0556
+apt	b0469	apt // b0469 // ECK0463
+aqpZ	b0875	aqpZ // bniP // b0875 // ECK0866
+araA	b0062	araA // b0062 // ECK0063
+araB	b0063	araB // b0063 // ECK0064
+araC	b0064	araC // b0064 // ECK0065
+araD	b0061	araD // b0061 // ECK0062
+araE	b2841	araE // b2841 // ECK2839
+araF	b1901	araF // b1901 // ECK1899
+araG	b1900	araG // b1900 // ECK1898
+araH	b4460	araH // b1898 // b1899 // b4460 // ECK1897
+araJ	b0396	araJ // araT // b0396 // ECK0390
+arcA	b4401	arcA // sfrA // cpxC // dye // fexA // msp // seg // b4401 // ECK4393
+arcB	b3210	arcB // b3210 // ECK3200
+arcZ	b4450	arcZ // psrA16 // sraH // ryhA // b4450 // ECK3199
+arfA	b4550	arfA // yhdL // b4550 // ECK3278
+arfB	b0191	arfB // yaeJ // b0191 // ECK0191
+argA	b2818	argA // Arg2 // Arg1 // b2818 // ECK2814
+argB	b3959	argB // b3959 // ECK3950
+argC	b3958	argC // Arg2 // b3958 // ECK3949
+argD	b3359	argD // Arg1 // dapC // dtu // b3359 // ECK3347
+argE	b3957	argE // b3957 // ECK3948
+argF	b0273	argF // b0273 // ECK0274
+argG	b3172	argG // b3172 // ECK3161
+argH	b3960	argH // b3960 // ECK3951
+argI	b4254	argI // b4254 // ECK4247
+argK	b2918	UNCLASSIFIED
+argL	b4766	argL // b4766 // ECK4623
+argO	b2923	argO // yggA // b2923 // ECK2919
+argP	b2916	argP // iciA // b2916 // ECK2912
+argQ	b2691	argQ // argVdelta // b2691 // ECK2686
+argR	b3237	argR // Rarg // xerA // b3237 // ECK3226
+argS	b1876	argS // lov // lov-1 // b1876 // ECK1877
+argT	b2310	argT // b2310 // ECK2304
+argU	b0536	argU // dnaY // pin // b0536 // ECK0529
+argV	b2694	argV // argValpha // b2694 // ECK2689
+argW	b2348	argW // b2348 // ECK2342
+argX	b3796	argX // b3796 // ECK3789
+argY	b2693	argY // argVbeta // b2693 // ECK2688
+argZ	b2692	argZ // argVgamma // b2692 // ECK2687
+ariR	b1166	ariR // ymgB // b1166 // ECK1153
+arnA	b2255	arnA // SAF // yfbG // pmrI // b2255 // ECK2248
+arnB	b2253	arnB // pmrH // yfbE // b2253 // ECK2246
+arnC	b2254	arnC // pmrF // yfbF // b2254 // ECK2247
+arnD	b2256	UNCLASSIFIED
+arnE	b4544	arnE // yfbW // b4544 // ECK2251
+arnF	b2258	arnF // yfbJ // b2258 // ECK2252
+arnT	b2257	arnT // yfbI // pmrK // b2257 // ECK2250
+aroA	b0908	aroA // b0908 // ECK0899
+aroB	b3389	aroB // b3389 // ECK3376
+aroC	b2329	aroC // b2329 // ECK2323
+aroD	b1693	aroD // b1693 // ECK1691
+aroE	b3281	aroE // b3281 // ECK3268
+aroF	b2601	aroF // b2601 // ECK2598
+aroG	b0754	aroG // b0754 // ECK0743
+aroH	b1704	aroH // b1704 // ECK1702
+aroK	b3390	aroK // b3390 // ECK3377
+aroL	b0388	aroL // b0388 // ECK0383
+aroM	b0390	UNCLASSIFIED
+aroP	b0112	aroP // aroR // b0112 // ECK0111
+arpA	b4017	arpA // arp // yjaC // b4017 // ECK4009
+arpB	b4494	arpB // ydiW // ydiX // b1721 // b1720 // b4494 // ECK1718
+arrS	b4704	UNCLASSIFIED
+arsB	b3502	arsB // arsF // b3502 // ECK3487
+arsC	b3503	arsC // arsG // b3503 // ECK3488
+arsR	b3501	arsR // arsE // b3501 // ECK3486
+artI	b0863	artI // b0863 // ECK0854
+artJ	b0860	artJ // b0860 // ECK0851
+artM	b0861	artM // b0861 // ECK0852
+artP	b0864	artP // b0864 // ECK0855
+artQ	b0862	artQ // b0862 // ECK0853
+ascB	b2716	ascB // sac // b2716 // ECK2711
+ascF	b2715	ascF // sac // b2715 // ECK2710
+ascG	b2714	ascG // sac // b2714 // ECK2709
+ascrp	b4841	ascrp // b4841 // ECK4698
+asd	b3433	asd // dap // hom // b3433 // ECK3419
+asflhD	b4839	asflhD // b4839 // ECK4696
+aslA	b3801	aslA // gppB // atsA // b3801 // ECK3794
+aslB	b3800	aslB // gppB // atsB // b3800 // ECK3793
+asmA	b2064	asmA // yegA // b2064 // ECK2058
+asnA	b3744	asnA // b3744 // ECK3738
+asnB	b0674	asnB // b0674 // ECK0662
+asnC	b3743	asnC // b3743 // ECK3737
+asnS	b0930	asnS // lcs // tss // b0930 // ECK0921
+asnT	b1977	asnT // b1977 // ECK1973
+asnU	b1986	asnU // b1986 // ECK1981
+asnV	b1989	asnV // b1989 // ECK1984
+asnW	b1984	asnW // b1984 // ECK1979
+asompR	b4842	UNCLASSIFIED
+aspA	b4139	aspA // b4139 // ECK4133
+aspC	b0928	aspC // b0928 // ECK0919
+asphoP	b4843	UNCLASSIFIED
+aspS	b1866	aspS // tls // b1866 // ECK1867
+aspT	b3760	aspT // tasC // b3760 // ECK3754
+aspU	b0206	aspU // b0206 // ECK0206
+aspV	b0216	aspV // b0216 // ECK0216
+aspX	b4825	aspX // b4825 // ECK4682
+asr	b1597	asr // b1597 // ECK1592
+astA	b1747	astA // ydjV // b1747 // ECK1745
+astB	b1745	astB // ydjT // b1745 // ECK1743
+astC	b1748	astC // ydjW // argM // cstC // b1748 // ECK1746
+astD	b1746	astD // ydjU // b1746 // ECK1744
+astE	b1744	astE // ydjS // b1744 // ECK1742
+atoA	b2222	atoA // b2222 // ECK2215
+atoB	b2224	atoB // b2224 // ECK2217
+atoC	b2220	atoC // b2220 // ECK2213
+atoD	b2221	atoD // b2221 // ECK2214
+atoE	b2223	atoE // b2223 // ECK2216
+atoS	b2219	atoS // b2219 // ECK2212
+atpA	b3734	atpA // papA // uncA // b3734 // ECK3727
+atpB	b3738	atpB // papD // uncB // b3738 // ECK3731
+atpC	b3731	atpC // papG // uncC // b3731 // ECK3724
+atpD	b3732	atpD // papB // uncD // b3732 // ECK3725
+atpE	b3737	atpE // papH // uncE // b3737 // ECK3730
+atpF	b3736	atpF // papF // uncF // b3736 // ECK3729
+atpG	b3733	atpG // papC // uncG // b3733 // ECK3726
+atpH	b3735	atpH // papE // uncH // b3735 // ECK3728
+atpI	b3739	atpI // uncI // b3739 // ECK3732
+avtA	b3572	avtA // b3572 // ECK3561
+azoR	b1412	azoR // acpD // b1412 // ECK1405
+azuC	b4663	azuC // b4663 // ECK4478
+azuR	b4434	azuR // isrB // IS092 // G0-8904 // b4434 // ECK1902
+b0017	b0017	yi82_1 // b0017
+b0100	b0100	b0100 // b0100
+b0105	b0105	b0105 // b0105
+b0165	b0165	b0165 // b0165
+b0309	b0309	b0309 // b0309
+b0538	b0538	b0538
+b0609	b0609	b0609
+b0701	b0701	rhsC // b0701
+b0725	b0725	b0725 // b0725
+b1052	b1052	b1052 // b1052
+b1354	b1354	b1354
+b1364	b1364	b1364 // b1364
+b1367	b1367	b1367
+b1425	b1425	b1425
+b1437	b1437	b1437
+b1903	b1903	b1903
+b2084	b2084	b2084
+b2191	b2191	b2191 // b2191
+b2596	b2596	b2596
+b2651	b2651	b2651 // b2651
+b2653	b2653	b2653
+b3004	b3004	b3004
+b3007	b3007	b3007
+b3254	b3254	b3254 // b3254
+b3975	b3975	b3975
+b4247	b4247	b4247
+b4250	b4250	b4250
+b4700	b4700	b4700 // b4700 // ECK4512
+bacA	b3057	bacA // uppP // b3057 // ECK3047
+baeR	b2079	baeR // b2079 // ECK2075
+baeS	b2078	baeS // b2078 // ECK2074
+bamA	b0177	bamA // yzzY // yzzN // ecfK // yaeT // b0177 // ECK0176
+bamB	b2512	bamB // yfgL // b2512 // ECK2508
+bamC	b2477	bamC // dapX // nlpB // b2477 // ECK2473
+bamD	b2595	bamD // ecfD // yfiO // b2595 // ECK2593
+bamE	b2617	bamE // smpA // smqA // b2617 // ECK2613
+barA	b2786	barA // airS // b2786 // ECK2780
+basR	b4113	basR // pmrA // b4113 // ECK4106
+basS	b4112	basS // pmrB // dgkR // b4112 // ECK4105
+bax	b3570	UNCLASSIFIED
+baxL	b4794	baxL // b4794 // ECK4651
+bcp	b2480	bcp // b2480 // ECK2476
+bcr	b2182	bcr // bicA // bicR // sur // suxA // b2182 // ECK2176
+bcsA	b3533	bcsA // yhjP // yhjO // b3533 // ECK3518
+bcsB	b3532	bcsB // yhjN // b3532 // ECK3517
+bcsC	b3530	bcsC // yhjL // b3530 // ECK3515
+bcsE	b3536	UNCLASSIFIED
+bcsF	b3537	bcsF // yhjT // b3537 // ECK3522
+bcsG	b3538	bcsG // yhjU // b3538 // ECK3523
+bcsQ	b3534	bcsQ // yhjQ // b3534 // ECK3519
+bcsZ	b3531	bcsZ // bcsC // yhjM // b3531 // ECK3516
+bdcA	b4249	bdcA // yjgI // b4249 // ECK4243
+bdcR	b4251	bdcR // yjgJ // b4251 // ECK4244
+bdm	b1481	bdm // yddX // b1481 // ECK1475
+beeE	b1151	beeE // ymfO // b1151 // ECK1137
+bepA	b2494	bepA // yfgC // b2494 // ECK2490
+betA	b0311	betA // b0311 // ECK0309
+betB	b0312	betB // b0312 // ECK0310
+betI	b0313	betI // b0313 // ECK0311
+betT	b0314	betT // b0314 // ECK0312
+bfd	b3337	bfd // yheA // b3337 // ECK3324
+bfr	b3336	bfr // b3336 // ECK3323
+bglA	b2901	bglA // yqfC // bglD // b2901 // ECK2896
+bglB	b3721	bglB // blgA // b3721 // ECK3714
+bglF	b3722	bglF // bglS // b3722 // ECK3715
+bglG	b3723	bglG // bglC // b3723 // ECK3716
+bglH	b3720	bglH // yieC // b3720 // ECK3713
+bglJ	b4366	bglJ // yjjR // b4366 // ECK4356
+bglX	b2132	bglX // glh // yohA // b2132 // ECK2125
+bhsA	b1112	bhsA // ycfR // comC // b1112 // ECK1098
+bhsB	b4832	UNCLASSIFIED
+bidA	b1593	bidA // ynfK // b1593 // ECK1588
+bioA	b0774	bioA // b0774 // ECK0763
+bioB	b0775	bioB // b0775 // ECK0764
+bioC	b0777	bioC // b0777 // ECK0766
+bioD	b0778	bioD // b0778 // ECK0767
+bioF	b0776	bioF // b0776 // ECK0765
+bioH	b3412	bioH // bioB // b3412 // ECK3399
+bioP	b3827	bioP // yigM // b3827 // ECK3821
+bipA	b3871	bipA // typA // yihK // b3871 // ECK3864
+birA	b3973	birA // bioR // dhbB // b3973 // ECK3965
+bisC	b3551	bisC // b3551 // ECK3538
+blc	b4149	UNCLASSIFIED
+blr	b4409	blr // b4409 // ECK1620
+bluF	b1163	bluF // ycgF // b1163 // ECK1150
+bluR	b1162	bluR // ycgE // b1162 // ECK1149
+bolA	b0435	bolA // b0435 // ECK0429
+borD	b0557	borD // iss // vboR // bor // ybcU // b0557 // ECK0549
+brnQ	b0401	brnQ // hrbA // b0401 // ECK0395
+bsmA	b4189	bsmA // yjfO // b4189 // ECK4185
+bssR	b0836	bssR // yliH // b0836 // ECK0826
+bssS	b1060	bssS // yceP // b1060 // ECK1045
+btsR	b2125	btsR // yehT // b2125 // ECK2117
+btsS	b2126	btsS // yehU // b2126 // ECK2118
+btsT	b4354	btsT // yjiY // b4354 // ECK4344
+btuB	b3966	btuB // bfe // cer // b3966 // ECK3958
+btuC	b1711	btuC // b1711 // ECK1709
+btuD	b1709	btuD // b1709 // ECK1707
+btuE	b1710	btuE // b1710 // ECK1708
+btuF	b0158	btuF // yadT // b0158 // ECK0157
+btuR	b1270	btuR // cobA // b1270 // ECK1264
+C0067		C0067
+C0293	b4806	C0293 // b4806 // ECK4663
+C0299		C0299
+C0362		C0362
+C0465		C0465
+C0614		C0614
+C0664		C0664
+C0719		C0719
+cadA	b4131	cadA // ldcI // b4131 // ECK4125
+cadB	b4132	cadB // b4132 // ECK4126
+cadC	b4133	cadC // b4133 // ECK4127
+caiA	b0039	caiA // yaaO // b0039 // ECK0040
+caiB	b0038	caiB // yaaN // b0038 // ECK0039
+caiC	b0037	caiC // yaaM // b0037 // ECK0038
+caiD	b0036	caiD // yaaL // b0036 // ECK0037
+caiE	b0035	caiE // b0035 // ECK0036
+caiF	b0034	caiF // b0034 // ECK0035
+caiT	b0040	caiT // yaaP // b0040 // ECK0041
+can	b0126	can // yadF // b0126 // ECK0125
+carA	b0032	carA // arg // pyrA // b0032 // ECK0033
+carB	b0033	carB // pyrA // b0033 // ECK0034
+cas1	b2755	cas1 // ygbT // b2755 // ECK2750
+cas2	b2754	cas2 // ygbF // b2754 // ECK2749
+cas3	b2761	cas3 // ygcB // b2761 // ECK2756
+casA	b2760	casA // ygcL // cse1 // b2760 // ECK2755
+casB	b2759	casB // ygcK // cse2 // b2759 // ECK2754
+casC	b2758	casC // ygcJ // cse4 // cas7 // b2758 // ECK2753
+casD	b2757	casD // ygcI // cas5e // b2757 // ECK2752
+casE	b2756	casE // ygcH // cse3 // cas6e // b2756 // ECK2751
+cbeA	b2004	cbeA // yeeU // b2004 // ECK1997
+cbl	b1987	cbl // b1987 // ECK1982
+cbpA	b1000	cbpA // b1000 // ECK0991
+cbpM	b0999	cbpM // yccD // b0999 // ECK0990
+cbrA	b3690	cbrA // yidS // b3690 // ECK3682
+cbrB	b3716	cbrB // yieI // b3716 // ECK3709
+cbrC	b3717	cbrC // yieJ // b3717 // ECK3710
+cbtA	b2005	cbtA // yeeV // b2005 // ECK1998
+cca	b3056	cca // b3056 // ECK3046
+ccmA	b2201	ccmA // yejW // b2201 // ECK2193
+ccmB	b2200	ccmB // yejV // b2200 // ECK2192
+ccmC	b2199	ccmC // yejT // yejU // b2199 // ECK2191
+ccmD	b2198	ccmD // yojM // b2198 // ECK2190
+ccmE	b2197	ccmE // yejS // b2197 // ECK2189
+ccmF	b2196	ccmF // yejR // b2196 // ECK2188
+ccmG	b2195	ccmG // yejQ // dsbE // b2195 // ECK2187
+ccmH	b2194	ccmH // yejP // b2194 // ECK2186
+ccp	b3518	ccp // yhjA // b3518 // ECK3503
+cdaR	b0162	cdaR // sdaR // yaeG // b0162 // ECK0161
+cdd	b2143	cdd // b2143 // ECK2136
+cdgI	b1785	cdgI // yeaI // b1785 // ECK1783
+cdh	b3918	cdh // b3918 // ECK3910
+cdsA	b0175	cdsA // cds // b0175 // ECK0174
+cecR	b0796	cecR // ybiH // b0796 // ECK0785
+cedA	b1731	cedA // ydjP // b1731 // ECK1729
+cfa	b1661	cfa // cdfA // b1661 // ECK1657
+chaA	b1216	chaA // b1216 // ECK1210
+chaB	b1217	chaB // b1217 // ECK1211
+chaC	b1218	chaC // b1218 // ECK1212
+chbA	b1736	chbA // celC // b1736 // ECK1734
+chbB	b1738	chbB // celA // b1738 // ECK1736
+chbC	b1737	chbC // celB // hic // b1737 // ECK1735
+chbF	b1734	chbF // ydjD // celF // b1734 // ECK1732
+chbG	b1733	chbG // celG // ydjC // b1733 // ECK1731
+chbR	b1735	chbR // celD // b1735 // ECK1733
+cheA	b1888	cheA // b1888 // ECK1889
+cheB	b1883	cheB // b1883 // ECK1884
+cheR	b1884	cheR // cheX // b1884 // ECK1885
+cheW	b1887	cheW // b1887 // ECK1888
+cheY	b1882	cheY // b1882 // ECK1883
+cheZ	b1881	cheZ // b1881 // ECK1882
+chiA	b3338	chiA // yheB // b3338 // ECK3325
+chiP	b0681	chiP // ybfM // b0681 // ECK0669
+chiQ	b0682	chiQ // ybfN // b0682 // ECK0670
+chiX	b4585	chiX // sroB // rybC // micM // b4585 // ECK4396
+chiZ	b4808	chiZ // b4808 // ECK4665
+cho	b1741	cho // ydjQ // b1741 // ECK1739
+chpB	b4225	chpB // yjfE // chpBK // b4225 // ECK4221
+chpS	b4224	chpS // chpBI // yjfB // b4224 // ECK4220
+cirA	b2155	cirA // cir // feuA // b2155 // ECK2148
+citC	b0618	citC // ybeO // b0618 // ECK0611
+citD	b0617	citD // ybdX // b0617 // ECK0610
+citE	b0616	citE // ybdW // b0616 // ECK0609
+citF	b0615	citF // ybdV // b0615 // ECK0608
+citG	b0613	citG // ybdT // b0613 // ECK0606
+citR	b0603	citR // ybdO // b0603 // ECK0597
+citT	b0612	citT // ybdS // b0612 // ECK0605
+citX	b0614	citX // ybdU // b0614 // ECK0607
+clcA	b0155	clcA // eriC // yadQ // b0155 // ECK0154
+clcB	b1592	clcB // ynfJ // mriT // b1592 // ECK1587
+clpA	b0882	clpA // lopD // b0882 // ECK0873
+clpB	b2592	clpB // htpM // b2592 // ECK2590
+clpP	b0437	clpP // lopP // b0437 // ECK0431
+clpS	b0881	clpS // yljA // b0881 // ECK0872
+clpX	b0438	clpX // lopC // b0438 // ECK0432
+clsA	b1249	clsA // yciJ // nov // cls // b1249 // ECK1243
+clsB	b0789	clsB // ybhO // b0789 // ECK0778
+clsC	b1046	clsC // ymdC // b1046 // ECK1032
+cmk	b0910	cmk // ycaF // mssA // ycaG // b0910 // ECK0901
+cmoA	b1870	cmoA // yecO // b1870 // ECK1871
+cmoB	b1871	cmoB // yecP // b1871 // ECK1872
+cmoM	b0921	cmoM // ycbD // smtA // b0921 // ECK0912
+cmtA	b2933	cmtA // b2933 // ECK2928
+cmtB	b2934	cmtB // tolM // b2934 // ECK2929
+cnoX	b0492	cnoX // ybbN // b0492 // ECK0486
+cnu	b1625	cnu // ydgT // b1625 // ECK1621
+coaA	b3974	coaA // panK // rts // ts-9 // b3974 // ECK3966
+coaD	b3634	coaD // yicA // kdtB // b3634 // ECK3624
+coaE	b0103	coaE // yacE // b0103 // ECK0103
+cobB	b1120	cobB // ycfY // b1120 // ECK1106
+cobC	b0638	cobC // phpB // b0638 // ECK0631
+cobS	b1992	cobS // b1992 // ECK1987
+cobT	b1991	cobT // b1991 // ECK1986
+cobU	b1993	cobU // b1993 // ECK1988
+codA	b0337	codA // b0337 // ECK0334
+codB	b0336	codB // b0336 // ECK0333
+cof	b0446	cof // b0446 // ECK0440
+comR	b1111	comR // ycfQ // b1111 // ECK1097
+copA	b0484	copA // ybaR // b0484 // ECK0478
+corA	b3816	corA // b3816 // ECK3810
+cpdA	b3032	cpdA // icc // b3032 // ECK3023
+cpdB	b4213	cpdB // b4213 // ECK4209
+cpoB	b0742	cpoB // ybgF // b0742 // ECK0731
+cpsB	b2049	cpsB // rfbM // manC // mni // b2049 // ECK2043
+cpsG	b2048	cpsG // rfbK // manB // b2048 // ECK2042
+cpxA	b3911	cpxA // rssE // ecfB // eup // ssd // ecf // b3911 // ECK3904
+cpxP	b4484	cpxP // yiiO // b3913 // b4484 // ECK3906
+cpxQ	b4716	cpxQ // b4716 // ECK4573
+cpxR	b3912	cpxR // yiiA // b3912 // ECK3905
+cra	b0080	cra // fruR // fruC // shl // b0080 // ECK0081
+crcB	b0624	crcB // ybeI // b0624 // ECK0617
+creA	b4397	UNCLASSIFIED
+creB	b4398	creB // yjjE // ORF2 // b4398 // ECK4390
+creC	b4399	creC // phoM // b4399 // ECK4391
+creD	b4400	creD // refII // cet // b4400 // ECK4392
+crl	b0240	crl // b0240 // ECK0241
+crp	b3357	crp // cap // csm // gurB // b3357 // ECK3345
+crr	b2417	crr // treD // gsr // iex // tgs // b2417 // ECK2412
+csdA	b2810	csdA // ygdJ // b2810 // ECK2806
+csdE	b2811	csdE // ygdK // b2811 // ECK2807
+csgA	b1042	csgA // b1042 // ECK1028
+csgB	b1041	csgB // b1041 // ECK1027
+csgC	b1043	csgC // ycdE // b1043 // ECK1029
+csgD	b1040	csgD // b1040 // ECK1026
+csgE	b1039	csgE // b1039 // ECK1025
+csgF	b1038	csgF // b1038 // ECK1024
+csgG	b1037	csgG // b1037 // ECK1023
+csgI	b0964	csgI // yccT // b0964 // ECK0955
+csiE	b2535	csiE // csi-16 // b2535 // ECK2532
+cspA	b3556	cspA // b3556 // ECK3543
+cspB	b1557	cspB // b1557 // ECK1551
+cspC	b1823	cspC // msmB // b1823 // ECK1821
+cspD	b0880	cspD // ybjA // cspH // b0880 // ECK0871
+cspE	b0623	cspE // gicA // msmC // b0623 // ECK0616
+cspF	b1558	cspF // b1558 // ECK1552
+cspG	b0990	cspG // b0990 // ECK0980
+cspH	b0989	cspH // cspK // b0989 // ECK0979
+cspI	b1552	cspI // cspJ // b1552 // ECK1546
+csqR	b3884	csqR // yihW // b3884 // ECK3877
+csrA	b2696	csrA // zfiA // b2696 // ECK2691
+csrB	b4408	csrB // b4408 // ECK2787
+csrC	b4457	csrC // sraK // psrA21 // ryiB // tpk2 // IS198 // b4457 // ECK3858
+csrD	b3252	csrD // yhdA // b3252 // ECK3240
+cstA	b0598	cstA // ybdC // b0598 // ECK0591
+cueO	b0123	cueO // yacK // b0123 // ECK0122
+cueR	b0487	cueR // copR // ybbI // b0487 // ECK0481
+curA	b1449	UNCLASSIFIED
+cusA	b0575	cusA // ybdE // b0575 // ECK0567
+cusB	b0574	cusB // ylcD // b0574 // ECK0566
+cusC	b0572	cusC // ibeB // ylcB // b0572 // ECK0564
+cusF	b0573	cusF // cusX // ylcC // b0573 // ECK0565
+cusR	b0571	cusR // ylcA // b0571 // ECK0563
+cusS	b0570	cusS // ybcZ // b0570 // ECK0562
+cutA	b4137	cutA // cutA1 // b4137 // ECK4131
+cutC	b1874	UNCLASSIFIED
+cvpA	b2313	cvpA // dedE // b2313 // ECK2307
+cvrA	b1191	cvrA // ycgO // b1191 // ECK1179
+cyaA	b3806	cyaA // cya // b3806 // ECK3800
+cyaR	b4438	cyaR // ryeE // b4438 // ECK2078
+cyaY	b3807	cyaY // b3807 // ECK3801
+cybB	b1418	cybB // b1418 // ECK1410
+cybC	b4236	cybC // cytochrome b562 // b4236 // ECK4231
+cycA	b4208	cycA // ytfD // dagA // b4208 // ECK4204
+cydA	b0733	cydA // cyd-1 // b0733 // ECK0721
+cydB	b0734	cydB // cyd-2 // b0734 // ECK0722
+cydC	b0886	cydC // mdrA // mdrH // surB // ycaB // b0886 // ECK0877
+cydD	b0887	cydD // htrD // b0887 // ECK0878
+cydH	b4602	cydH // ynhF // cydY // b4602 // ECK4411
+cydX	b4515	cydX // ybgT // b4515 // ECK0723
+cynR	b0338	cynR // b0338 // ECK0335
+cynS	b0340	cynS // cnt // cyaN // b0340 // ECK0337
+cynT	b0339	cynT // b0339 // ECK0336
+cynX	b0341	cynX // b0341 // ECK0338
+cyoA	b0432	cyoA // b0432 // ECK0426
+cyoB	b0431	cyoB // b0431 // ECK0425
+cyoC	b0430	cyoC // b0430 // ECK0424
+cyoD	b0429	cyoD // b0429 // ECK0423
+cyoE	b0428	cyoE // b0428 // ECK0422
+cysA	b2422	cysA // b2422 // ECK2417
+cysB	b1275	cysB // b1275 // ECK1269
+cysC	b2750	cysC // b2750 // ECK2745
+cysD	b2752	cysD // b2752 // ECK2747
+cysE	b3607	cysE // b3607 // ECK3597
+cysG	b3368	cysG // b3368 // ECK3356
+cysH	b2762	cysH // b2762 // ECK2757
+cysI	b2763	cysI // b2763 // ECK2758
+cysJ	b2764	cysJ // b2764 // ECK2759
+cysK	b2414	cysK // ssi5 // b2414 // ECK2409
+cysM	b2421	cysM // b2421 // ECK2416
+cysN	b2751	cysN // b2751 // ECK2746
+cysP	b2425	cysP // b2425 // ECK2420
+cysQ	b4214	cysQ // amt // amtA // b4214 // ECK4210
+cysS	b0526	cysS // syc // b0526 // ECK0519
+cysT	b1910	cysT // b1910 // ECK1909
+cysU	b2424	cysU // cysT // b2424 // ECK2419
+cysW	b2423	cysW // b2423 // ECK2418
+cysZ	b2413	cysZ // b2413 // ECK2408
+cytR	b3934	cytR // b3934 // ECK3926
+cyuA	b4470	cyuA // b3109 // yhaN // b3108 // yhaM // b4470 // ECK3099
+cyuP	b3110	cyuP // dlsT // yhaO // b3110 // ECK3100
+dacA	b0632	dacA // pfv // b0632 // ECK0625
+dacB	b3182	dacB // b3182 // ECK3171
+dacC	b0839	dacC // b0839 // ECK0829
+dacD	b2010	dacD // phsE // yeeC // b2010 // ECK2004
+dadA	b1189	dadA // dadR // b1189 // ECK1177
+dadX	b1190	dadX // alnA // alnB // dadB // b1190 // ECK1178
+dam	b3387	dam // b3387 // ECK3374
+damX	b3388	damX // yhfB // b3388 // ECK3375
+dapA	b2478	dapA // b2478 // ECK2474
+dapB	b0031	dapB // b0031 // ECK0032
+dapD	b0166	dapD // ssa // b0166 // ECK0164
+dapE	b2472	dapE // msgB // b2472 // ECK2467
+dapF	b3809	dapF // b3809 // ECK3804
+dauA	b1206	dauA // ychM // b1206 // ECK1194
+dbpA	b1343	dbpA // rhlC // b1343 // ECK1340
+dcd	b2065	dcd // dus // paxA // b2065 // ECK2059
+dcm	b1961	dcm // mec // b1961 // ECK1959
+dcp	b1538	dcp // b1538 // ECK1531
+dcrB	b3472	UNCLASSIFIED
+dctA	b3528	dctA // b3528 // ECK3513
+dctR	b3507	dctR // yhiF // b3507 // ECK3491
+dcuA	b4138	dcuA // genA // b4138 // ECK4132
+dcuB	b4123	dcuB // genF // b4123 // ECK4116
+dcuC	b0621	dcuC // b0621 // ECK0614
+dcuD	b3227	dcuD // yhcL // b3227 // ECK3216
+dcuR	b4124	dcuR // yjdG // b4124 // ECK4117
+dcuS	b4125	dcuS // yjdH // b4125 // ECK4118
+dcyD	b1919	dcyD // yedO // b1919 // ECK1918
+ddlA	b0381	ddlA // b0381 // ECK0376
+ddlB	b0092	ddlB // ddl // b0092 // ECK0093
+ddpA	b1487	ddpA // yddS // b1487 // ECK1481
+ddpB	b1486	ddpB // yddR // b1486 // ECK1480
+ddpC	b1485	ddpC // yddQ // b1485 // ECK1479
+ddpD	b1484	ddpD // yddP // b1484 // ECK1478
+ddpF	b1483	ddpF // yddO // b1483 // ECK1477
+ddpX	b1488	ddpX // vanX // yddT // b1488 // ECK1482
+deaD	b3162	deaD // csdA // mssB // rhlD // b3162 // ECK3150
+decR	b0447	decR // ybaO // cyuR // b0447 // ECK0441
+dedA	b2317	dedA // b2317 // ECK2311
+dedD	b2314	dedD // b2314 // ECK2308
+def	b3287	def // fms // b3287 // ECK3273
+degP	b0161	degP // htrA // ptd // b0161 // ECK0160
+degQ	b3234	degQ // hhoA // b3234 // ECK3223
+degS	b3235	degS // hhoB // htrH // b3235 // ECK3224
+deoA	b4382	deoA // TP // tpp // ttg // b4382 // ECK4374
+deoB	b4383	deoB // tlr // drm // thyR // b4383 // ECK4375
+deoC	b4381	deoC // tlr // dra // thyR // b4381 // ECK4373
+deoD	b4384	deoD // pup // b4384 // ECK4376
+deoR	b0840	deoR // nucR // b0840 // ECK0830
+der	b2511	der // engA // yfgK // b2511 // ECK2507
+dfp	b3639	dfp // coaBC // b3639 // ECK3629
+dgcC	b0385	dgcC // yaiC // adrA // b0385 // ECK0380
+dgcE	b2067	dgcE // yegE // b2067 // ECK2061
+dgcF	b1522	UNCLASSIFIED
+dgcI	b0834	UNCLASSIFIED
+dgcJ	b1786	dgcJ // yeaJ // b1786 // ECK1784
+dgcM	b1341	dgcM // ydaM // b1341 // ECK1338
+dgcN	b2604	dgcN // yfiN // b2604 // ECK2601
+dgcP	b1794	UNCLASSIFIED
+dgcQ	b1956	dgcQ // yedQ // b1956 // ECK1954
+dgcT	b1025	dgcT // ycdT // b1025 // ECK1015
+dgcZ	b1535	dgcZ // ydeG // ydeH // b1535 // ECK1528
+dgd		UNCLASSIFIED
+dgkA	b4042	dgkA // b4042 // ECK4034
+dgoA	b4477	dgoA // b3692 // yidU // b4477 // ECK3685
+dgoD	b4478	dgoD // b3692 // yidU // b4478 // ECK3684
+dgoK	b3693	dgoK // yidV // b3693 // ECK3686
+dgoR	b4479	dgoR // yidW // b3695 // b3694 // b4479 // ECK3687
+dgoT	b3691	dgoT // yidT // b3691 // ECK3683
+dgt	b0160	dgt // optA // b0160 // ECK0159
+dhaK	b1200	dhaK // ycgT // dhaK1 // b1200 // ECK1188
+dhaL	b1199	dhaL // ysgS // ycgS // dhaK2 // b1199 // ECK1187
+dhaM	b1198	dhaM // ycgC // dhaH // ptsD // b1198 // ECK1186
+dhaR	b1201	dhaR // ycgU // b1201 // ECK1189
+diaA	b3149	diaA // yraO // b3149 // ECK3137
+dicA	b1570	dicA // ftsT // b1570 // ECK1564
+dicB	b1575	dicB // ftsT // b1575 // ECK1569
+dicC	b1569	dicC // ftsT // b1569 // ECK1563
+dicD	b4135	dicD // yjdC // cutA3 // b4135 // ECK4129
+dicF	b1574	dicF // b1574 // ECK1568
+digH	b1491	digH // yddW // b1491 // ECK1485
+dinB	b0231	dinB // dinP // b0231 // ECK0232
+dinD	b3645	dinD // pcsA // yicD // b3645 // ECK3635
+dinF	b4044	dinF // b4044 // ECK4036
+dinG	b0799	dinG // rarB // b0799 // ECK0788
+dinI	b1061	dinI // b1061 // ECK1046
+dinJ	b0226	dinJ // sosA // b0226 // ECK0227
+dinQ	b4613	dinQ // b4613 // ECK4422
+djlA	b0055	djlA // yabH // b0055 // ECK0056
+djlB	b0646	djlB // ybeS // b0646 // ECK0639
+djlC	b0649	djlC // hscD // ybeV // hsc56 // b0649 // ECK0642
+dkgA	b3012	dkgA // yqhE // b3012 // ECK3004
+dkgB	b0207	dkgB // yafB // b0207 // ECK0207
+dksA	b0145	dksA // msmA // b0145 // ECK0144
+dld	b2133	dld // ldh // b2133 // ECK2126
+dmlA	b1800	dmlA // ttuC // yeaU // b1800 // ECK1798
+dmlR	b1799	dmlR // yeaT // b1799 // ECK1797
+dmsA	b0894	dmsA // b0894 // ECK0885
+dmsB	b0895	dmsB // b0895 // ECK0886
+dmsC	b0896	dmsC // b0896 // ECK0887
+dmsD	b1591	dmsD // ynfI // b1591 // ECK1586
+dnaA	b3702	dnaA // b3702 // ECK3694
+dnaB	b4052	dnaB // groP // grpA // grpD // b4052 // ECK4044
+dnaC	b4361	dnaC // dnaD // b4361 // ECK4351
+dnaE	b0184	dnaE // sdgC // polC // b0184 // ECK0183
+dnaG	b3066	dnaG // dnaP // parB // sdgA // b3066 // ECK3056
+dnaJ	b0015	dnaJ // groP // grpC // b0015 // ECK0015
+dnaK	b0014	dnaK // groPF // groPC // seg // grpF // grpC // groPAB // b0014 // ECK0014
+dnaN	b3701	dnaN // b3701 // ECK3693
+dnaQ	b0215	dnaQ // mutD // b0215 // ECK0215
+dnaT	b4362	dnaT // b4362 // ECK4352
+dnaX	b0470	dnaX // dnaZ // b0470 // ECK0464
+dolP	b3150	dolP // ecfH // yraP // b3150 // ECK3138
+dosC	b1490	dosC // yddV // dgcO // b1490 // ECK1484
+dosP	b1489	dosP // yddU // dos // pdeO // b1489 // ECK1483
+dpaA	b0224	UNCLASSIFIED
+dpiA	b0620	dpiA // citB // criR // mpdA // b0620 // ECK0613
+dpiB	b0619	dpiB // ybeP // mpdB // citA // b0619 // ECK0612
+dppA	b3544	dppA // alu // dpp // fpp // b3544 // ECK3531
+dppB	b3543	dppB // b3543 // ECK3530
+dppC	b3542	dppC // b3542 // ECK3529
+dppD	b3541	dppD // b3541 // ECK3528
+dppF	b3540	dppF // dppE // b3540 // ECK3527
+dps	b0812	dps // pexB // vtm // b0812 // ECK0801
+drpB	b1963	drpB // yedR // b1963 // ECK1961
+dsbA	b3860	dsbA // dsf // iarA // ppfA // b3860 // ECK3852
+dsbB	b1185	dsbB // ycgA // roxB // dsbX // iarB // rosB // b1185 // ECK1173
+dsbC	b2893	dsbC // xprA // b2893 // ECK2888
+dsbD	b4136	dsbD // htrI // cutA2 // cycZ // dipZ // b4136 // ECK4130
+dsbG	b0604	dsbG // ybdP // b0604 // ECK0598
+dsdA	b2366	dsdA // b2366 // ECK2362
+dsdC	b2364	dsdC // b2364 // ECK2360
+dsdX	b2365	dsdX // yfdD // yfdA // dsdC // b2365 // ECK2361
+dsrA	b1954	dsrA // b1954 // ECK1952
+dsrB	b1952	dsrB // b1952 // ECK1950
+dtd	b3887	dtd // yihZ // b3887 // ECK3880
+dtpA	b1634	dtpA // ydgR // tppB // b1634 // ECK1630
+dtpB	b3496	dtpB // yhiP // b3496 // ECK3481
+dtpC	b4130	dtpC // yjdL // b4130 // ECK4124
+dtpD	b0709	dtpD // ybgH // b0709 // ECK0698
+dusA	b4049	dusA // yjbN // b4049 // ECK4041
+dusB	b3260	dusB // yhdG // b3260 // ECK3247
+dusC	b2140	dusC // yohI // b2140 // ECK2133
+dut	b3640	dut // dnaS // sof // b3640 // ECK3630
+dxr	b0173	dxr // yaeM // ispC // b0173 // ECK0172
+dxs	b0420	dxs // yajP // b0420 // ECK0414
+eaeH	b0297	eaeH // b0297 // ECK0297
+eamA	b1533	eamA // ydeD // b1533 // ECK1526
+eamB	b2578	eamB // yfiK // b2578 // ECK2576
+ebgA	b3076	ebgA // b3076 // ECK3066
+ebgC	b3077	ebgC // b3077 // ECK3067
+ebgR	b3075	ebgR // b3075 // ECK3065
+ecnA	b4410	ecnA // b4410 // ECK4142
+ecnB	b4411	ecnB // yjeU // b4411 // ECK4143
+eco	b2209	eco // eti // b2209 // ECK2201
+ecpA	b0293	ecpA // yagZ // matB // b0293 // ECK0292
+ecpB	b0292	ecpB // yagY // matC // b0292 // ECK0291
+ecpC	b0291	UNCLASSIFIED
+ecpD	b0290	ecpD // yagW // matE // b0290 // ECK0289
+ecpE	b0289	ecpE // yagV // matF // b0289 // ECK0288
+eda	b1850	eda // hga // kdgA // kga // b1850 // ECK1851
+edd	b1851	edd // b1851 // ECK1852
+efeB	b1019	UNCLASSIFIED
+efeO	b1018	UNCLASSIFIED
+efeU	b4490	efeU // ycdN // b1016 // b1017 // b4490 // ECK1007
+efp	b4147	efp // b4147 // ECK4141
+elaA	b2267	elaA // yfbC // b2267 // ECK2261
+elaB	b2266	UNCLASSIFIED
+elaD	b2269	elaD // b2269 // ECK2263
+elbB	b3209	UNCLASSIFIED
+elfA	b0938	elfA // ycbQ // b0938 // ECK0929
+elfC	b0940	UNCLASSIFIED
+elfD	b0939	elfD // ycbR // b0939 // ECK0930
+elfG	b0941	elfG // ycbT // b0941 // ECK0932
+elyC	b0920	elyC // ycbC // b0920 // ECK0911
+emrA	b2685	emrA // b2685 // ECK2679
+emrB	b2686	emrB // b2686 // ECK2680
+emrD	b3673	emrD // yicQ // b3673 // ECK3664
+emrE	b0543	emrE // eb // mvrC // b0543 // ECK0534
+emrK	b2368	emrK // b2368 // ECK2364
+emrY	b2367	emrY // b2367 // ECK2363
+emtA	b1193	emtA // ycgP // mltE // sltZ // b1193 // ECK1181
+endA	b2945	endA // b2945 // ECK2940
+eno	b2779	eno // b2779 // ECK2773
+entA	b0596	entA // b0596 // ECK0589
+entB	b0595	entB // entG // b0595 // ECK0588
+entC	b0593	entC // fepF // b0593 // ECK0586
+entD	b0583	entD // b0583 // ECK0575
+entE	b0594	entE // b0594 // ECK0587
+entF	b0586	entF // b0586 // ECK0579
+entH	b0597	entH // ybdB // b0597 // ECK0590
+entS	b0591	entS // ybdA // b0591 // ECK0584
+envC	b3613	envC // yibP // slm11 // b3613 // ECK3603
+envR	b3264	envR // acrS // yhdK // b3264 // ECK3251
+envY	b0566	envY // b0566 // ECK0558
+envZ	b3404	envZ // tpo // perA // ompB // b3404 // ECK3391
+epd	b2927	epd // gapB // gap2 // b2927 // ECK2923
+epmA	b4155	epmA // genX // poxA // yjeA // b4155 // ECK4151
+epmB	b4146	epmB // yjeK // b4146 // ECK4140
+epmC	b2326	epmC // yfcM // b2326 // ECK2320
+eptA	b4114	eptA // yjdB // b4114 // ECK4107
+eptB	b3546	eptB // yhjW // b3546 // ECK3533
+eptC	b3955	eptC // yijP // b3955 // ECK3946
+era	b2566	era // rbaA // sdgE // b2566 // ECK2564
+erpA	b0156	erpA // yadR // b0156 // ECK0155
+esrE	b4707	UNCLASSIFIED
+essD	b0554	essD // vlyS // ybcR // b0554 // ECK0545
+essQ	b1556	essQ // ydfS // b1556 // ECK1550
+etk	b0981	etk // yccC // b0981 // ECK0972
+etp	b0982	etp // yccY // b0982 // ECK0973
+ettA	b4391	ettA // yjjK // b4391 // ECK4383
+eutA	b2451	eutA // yffT // b2451 // ECK2446
+eutB	b2441	eutB // b2441 // ECK2436
+eutC	b2440	eutC // b2440 // ECK2435
+eutD	b2458	eutD // ypfA // eutI // b2458 // ECK2453
+eutE	b2455	eutE // yffX // b2455 // ECK2450
+eutG	b2453	eutG // yffV // b2453 // ECK2448
+eutH	b2452	eutH // yffU // b2452 // ECK2447
+eutJ	b2454	eutJ // yffW // b2454 // ECK2449
+eutK	b2438	eutK // yffI // b2438 // ECK2433
+eutL	b2439	eutL // yffJ // b2439 // ECK2434
+eutM	b2457	eutM // yffZ // cchA // b2457 // ECK2452
+eutN	b2456	UNCLASSIFIED
+eutP	b2461	eutP // ypfD // b2461 // ECK2456
+eutQ	b2460	eutQ // ypfC // b2460 // ECK2455
+eutR	b2437	eutR // yfeG // b2437 // ECK2432
+eutS	b2462	eutS // ypfE // b2462 // ECK2457
+eutT	b2459	eutT // ypfB // b2459 // ECK2454
+evgA	b2369	evgA // b2369 // ECK2365
+evgL	b4781	evgL // b4781 // ECK4638
+evgS	b2370	evgS // b2370 // ECK2366
+exbB	b3006	exbB // b3006 // ECK2999
+exbD	b3005	exbD // b3005 // ECK2998
+exoD	b0539	exoD // ybcC // b0539 // ECK0531
+exoX	b1844	exoX // yobC // b1844 // ECK1845
+exuR	b3094	exuR // b3094 // ECK3085
+exuT	b3093	exuT // b3093 // ECK3084
+eyeA	b4690	eyeA // b4690 // ECK4506
+fabA	b0954	fabA // b0954 // ECK0945
+fabB	b2323	fabB // fabC // b2323 // ECK2317
+fabD	b1092	fabD // tfpA // b1092 // ECK1078
+fabF	b1095	fabF // vtr // cvc // fabJ // vtrB // b1095 // ECK1081
+fabG	b1093	fabG // b1093 // ECK1079
+fabH	b1091	fabH // b1091 // ECK1077
+fabI	b1288	fabI // envM // gts // qmeA // b1288 // ECK1283
+fabR	b3963	fabR // yijC // b3963 // ECK3955
+fabY	b3888	fabY // yiiD // b3888 // ECK3881
+fabZ	b0180	fabZ // sfhC21 // sabA1 // sefA // yaeA // b0180 // ECK0179
+fadA	b3845	fadA // oldA // b3845 // ECK3837
+fadB	b3846	fadB // oldB // b3846 // ECK3838
+fadD	b1805	fadD // oldD // b1805 // ECK1803
+fadE	b0221	fadE // yafH // b0221 // ECK0222
+fadH	b3081	fadH // ygjL // b3081 // ECK3071
+fadI	b2342	fadI // yfcY // b2342 // ECK2336
+fadJ	b2341	fadJ // yfcX // b2341 // ECK2335
+fadK	b1701	fadK // ydiD // b1701 // ECK1699
+fadL	b2344	fadL // ttr // b2344 // ECK2338
+fadM	b0443	fadM // ybaW // tesC // b0443 // ECK0437
+fadR	b1187	fadR // dec // ole // oleR // thdB // b1187 // ECK1175
+fau	b2912	fau // ygfA // b2912 // ECK2907
+fbaA	b2925	fbaA // ald // fba // fda // b2925 // ECK2921
+fbaB	b2097	fbaB // dhnA // b2097 // ECK2090
+fbp	b4232	fbp // fdp // b4232 // ECK4227
+fcl	b2052	fcl // wcaG // yefB // b2052 // ECK2046
+fdhD	b3895	fdhD // b3895 // ECK3888
+fdhE	b3891	fdhE // b3891 // ECK3884
+fdhF	b4079	fdhF // chlF // b4079 // ECK4072
+fdnG	b1474	fdnG // b1474 // ECK1468
+fdnH	b1475	fdnH // b1475 // ECK1469
+fdnI	b1476	fdnI // b1476 // ECK1470
+fdoG	b3894	fdoG // b3894 // ECK3887
+fdoH	b3893	fdoH // b3893 // ECK3886
+fdoI	b3892	fdoI // b3892 // ECK3885
+fdrA	b0518	UNCLASSIFIED
+fdx	b2525	fdx // b2525 // ECK2522
+feaB	b1385	feaB // ydbG // padA // b1385 // ECK1382
+feaR	b1384	feaR // ydbM // maoX // maoB // b1384 // ECK1381
+fecA	b4291	fecA // b4291 // ECK4281
+fecB	b4290	fecB // b4290 // ECK4280
+fecC	b4289	fecC // b4289 // ECK4279
+fecD	b4288	fecD // b4288 // ECK4278
+fecE	b4287	fecE // b4287 // ECK4277
+fecI	b4293	fecI // b4293 // ECK4283
+fecR	b4292	fecR // b4292 // ECK4282
+feoA	b3408	feoA // b3408 // ECK3395
+feoB	b3409	feoB // b3409 // ECK3396
+feoC	b3410	feoC // yhgG // b3410 // ECK3397
+fepA	b0584	fepA // cbr // cbt // fep // feuB // b0584 // ECK0576
+fepB	b0592	fepB // b0592 // ECK0585
+fepC	b0588	fepC // b0588 // ECK0581
+fepD	b0590	fepD // b0590 // ECK0583
+fepE	b0587	fepE // b0587 // ECK0580
+fepG	b0589	fepG // b0589 // ECK0582
+fes	b0585	fes // b0585 // ECK0577
+fetA	b0490	fetA // ybbL // b0490 // ECK0484
+fetB	b0491	fetB // ybbM // b0491 // ECK0485
+ffh	b2610	ffh // b2610 // ECK2607
+ffs	b0455	ffs // b0455 // ECK0449
+fhlA	b2731	fhlA // fhl // b2731 // ECK2726
+fhuA	b0150	fhuA // T1 // T5rec // tonA // b0150 // ECK0149
+fhuB	b0153	fhuB // b0153 // ECK0152
+fhuC	b0151	fhuC // b0151 // ECK0150
+fhuD	b0152	fhuD // b0152 // ECK0151
+fhuE	b1102	fhuE // b1102 // ECK1088
+fhuF	b4367	fhuF // yjjS // b4367 // ECK4357
+fic	b3361	UNCLASSIFIED
+fieF	b3915	fieF // yiiP // b3915 // ECK3907
+fimA	b4314	fimA // fimD // pilA // b4314 // ECK4305
+fimB	b4312	fimB // pil // b4312 // ECK4303
+fimC	b4316	fimC // pilB // b4316 // ECK4307
+fimD	b4317	fimD // fimD_1 // fimD_2 // b4317 // ECK4308
+fimE	b4313	fimE // hyp // pilH // b4313 // ECK4304
+fimF	b4318	fimF // b4318 // ECK4309
+fimG	b4319	fimG // b4319 // ECK4310
+fimH	b4320	fimH // pilE // b4320 // ECK4311
+fimI	b4315	fimI // b4315 // ECK4306
+fimR2	b4838	UNCLASSIFIED
+fimZ	b0535	fimZ // ybcA // b0535 // ECK0528
+fis	b3261	fis // nbp // b3261 // ECK3248
+fiu	b0805	fiu // ybiL // b0805 // ECK0794
+fixA	b0041	fixA // yaaQ // b0041 // ECK0042
+fixB	b0042	fixB // yaaR // b0042 // ECK0043
+fixC	b0043	fixC // yaaS // b0043 // ECK0044
+fixX	b0044	fixX // yaaT // b0044 // ECK0045
+fklB	b4207	fklB // ytfC // b4207 // ECK4203
+fkpA	b3347	fkpA // yzzS // b3347 // ECK3334
+fkpB	b0028	fkpB // slpA // yaaD // b0028 // ECK0029
+fldA	b0684	fldA // b0684 // ECK0672
+fldB	b2895	fldB // b2895 // ECK2890
+flgA	b1072	flgA // flaU // b1072 // ECK1057
+flgB	b1073	flgB // flbA // b1073 // ECK1058
+flgC	b1074	flgC // flaW // b1074 // ECK1059
+flgD	b1075	flgD // flaV // b1075 // ECK1060
+flgE	b1076	flgE // flaK // b1076 // ECK1061
+flgF	b1077	flgF // flaX // b1077 // ECK1062
+flgG	b1078	flgG // flaL // b1078 // ECK1063
+flgH	b1079	flgH // flaY // b1079 // ECK1064
+flgI	b1080	flgI // flaM // b1080 // ECK1065
+flgJ	b1081	flgJ // flaZ // b1081 // ECK1066
+flgK	b1082	flgK // flaS // b1082 // ECK1067
+flgL	b1083	flgL // flaT // b1083 // ECK1068
+flgM	b1071	flgM // b1071 // ECK1056
+flgN	b1070	flgN // b1070 // ECK1055
+flgO	b4826	UNCLASSIFIED
+flhA	b1879	flhA // flaH // b1879 // ECK1880
+flhB	b1880	flhB // yecQ // flaG // b1880 // ECK1881
+flhC	b1891	flhC // flaI // b1891 // ECK1892
+flhD	b1892	flhD // flbB // b1892 // ECK1893
+flhE	b1878	UNCLASSIFIED
+fliA	b1922	fliA // rpoF // flaD // b1922 // ECK1921
+fliC	b1923	fliC // H // flaF // hag // b1923 // ECK1922
+fliD	b1924	fliD // flbC // rfs // b1924 // ECK1923
+fliE	b1937	fliE // fla // flaAI // flaN // b1937 // ECK1935
+fliF	b1938	fliF // flaAII.1 // flaBI // b1938 // ECK1936
+fliG	b1939	fliG // flaAII.2 // flaBII // b1939 // ECK1937
+fliH	b1940	fliH // flaAII.3 // flaBIII // b1940 // ECK1938
+fliI	b1941	fliI // fla // flaAIII // flaC // b1941 // ECK1939
+fliJ	b1942	fliJ // flaO // b1942 // ECK1940
+fliK	b1943	fliK // flaE // b1943 // ECK1941
+fliL	b1944	fliL // flaQI // flaAI // cheC1 // b1944 // ECK1942
+fliM	b1945	fliM // flaQ // fla // flaQII // flaAII // flaA // cheC2 // b1945 // ECK1943
+fliN	b1946	fliN // motD // b1946 // ECK1944
+fliO	b1947	fliO // flbD // b1947 // ECK1945
+fliP	b1948	fliP // flaR // b1948 // ECK1946
+fliQ	b1949	fliQ // flaQ // b1949 // ECK1947
+fliR	b1950	fliR // flaP // b1950 // ECK1948
+fliS	b1925	fliS // b1925 // ECK1924
+fliT	b1926	fliT // b1926 // ECK1925
+fliX	b4827	UNCLASSIFIED
+fliZ	b1921	fliZ // yedH // b1921 // ECK1920
+flk	b2321	flk // div // b2321 // ECK2315
+flu	b2000	flu // agn43 // yzzX // yeeQ // agn // b2000 // ECK1993
+flxA	b1566	flxA // b1566 // ECK1560
+fmt	b3288	fmt // ftm // yhdD // b3288 // ECK3274
+fnr	b1334	fnr // nirA // nirR // ossA // oxrA // b1334 // ECK1330
+fnrS	b4699	fnrS // rydA // b4699 // ECK4511
+focA	b0904	focA // ycaE // b0904 // ECK0895
+focB	b2492	focB // b2492 // ECK2488
+folA	b0048	folA // tmr // tmrA // b0048 // ECK0049
+folB	b3058	folB // ygiG // b3058 // ECK3048
+folC	b2315	folC // dedC // b2315 // ECK2309
+folD	b0529	folD // ads // b0529 // ECK0522
+folE	b2153	folE // b2153 // ECK2146
+folK	b0142	folK // b0142 // ECK0141
+folM	b1606	folM // ydgB // b1606 // ECK1601
+folP	b3177	folP // dhpS // b3177 // ECK3166
+folX	b2303	folX // b2303 // ECK2297
+fpr	b3924	fpr // flxR // mvrA // b3924 // ECK3916
+frc	b2374	frc // yfdW // b2374 // ECK2370
+frdA	b4154	frdA // b4154 // ECK4150
+frdB	b4153	frdB // b4153 // ECK4149
+frdC	b4152	frdC // b4152 // ECK4148
+frdD	b4151	frdD // b4151 // ECK4147
+fre	b3844	fre // fadI // flrD // fsrC // b3844 // ECK3836
+frlA	b3370	frlA // yhfM // b3370 // ECK3358
+frlB	b3371	frlB // yhfN // b3371 // ECK3359
+frlC	b4474	frlC // b3373 // yhfP // yhfO // b3372 // b4474 // ECK3360
+frlD	b3374	frlD // yhfQ // b3374 // ECK3361
+frlR	b3375	frlR // yhfR // b3375 // ECK3362
+frmA	b0356	frmA // adhC // b0356 // ECK0353
+frmB	b0355	frmB // yaiM // b0355 // ECK0352
+frmR	b0357	frmR // yaiN // b0357 // ECK0354
+frr	b0172	frr // rrf // b0172 // ECK0171
+frsA	b0239	frsA // yafA // b0239 // ECK0240
+fruA	b2167	fruA // ptsF // b2167 // ECK2160
+fruB	b2169	fruB // fpr // fruF // b2169 // ECK2162
+fruK	b2168	fruK // fpk // b2168 // ECK2161
+fruL	b0079	fruL // b0079
+frvA	b3900	frvA // yiiK // b3900 // ECK3893
+frvB	b3899	frvB // yiiJ // b3899 // ECK3892
+frvR	b3897	frvR // yiiH // b3897 // ECK3890
+frvX	b3898	frvX // yiiI // b3898 // ECK3891
+frwB	b3950	frwB // yijK // b3950 // ECK3941
+frwC	b3949	frwC // yijJ // b3949 // ECK3940
+frwD	b3953	frwD // yijN // b3953 // ECK3944
+fryA	b2383	fryA // ypdD // b2383 // ECK2379
+fryB	b2387	fryB // ypdH // b2387 // ECK2383
+fryC	b2386	fryC // ypdG // b2386 // ECK2382
+fsaA	b0825	fsaA // ybiZ // fsa // mipB // b0825 // ECK0815
+fsaB	b3946	fsaB // yijG // talC // b3946 // ECK3938
+fsr	b0479	fsr // b0479 // ECK0473
+ftnA	b1905	ftnA // ftn // gen-165 // rsgA // b1905 // ECK1904
+ftnB	b1902	ftnB // yecI // b1902 // ECK1900
+ftp	b2214	ftp // yojK // yojL // apbE // b2214 // ECK2206
+ftsA	b0094	ftsA // divA // b0094 // ECK0095
+ftsB	b2748	ftsB // ygbQ // b2748 // ECK2743
+ftsE	b3463	ftsE // b3463 // ECK3447
+ftsH	b3178	ftsH // std // hflB // mrsC // tolZ // b3178 // ECK3167
+ftsI	b0084	ftsI // pbpB // sep // b0084 // ECK0085
+ftsK	b0890	ftsK // dinH // b0890 // ECK0881
+ftsL	b0083	ftsL // mraR // yabD // b0083 // ECK0084
+ftsN	b3933	ftsN // msgA // b3933 // ECK3925
+ftsO	b4810	ftsO // b4810 // ECK4667
+ftsP	b3017	ftsP // sui // sufI // b3017 // ECK3008
+ftsQ	b0093	ftsQ // b0093 // ECK0094
+ftsW	b0089	ftsW // b0089 // ECK0090
+ftsX	b3462	ftsX // ftsS // b3462 // ECK3446
+ftsY	b3464	ftsY // b3464 // ECK3448
+ftsZ	b0095	ftsZ // sfiB // sulB // b0095 // ECK0096
+fucA	b2800	fucA // fucC // prd // b2800 // ECK2795
+fucI	b2802	fucI // b2802 // ECK2797
+fucK	b2803	fucK // b2803 // ECK2798
+fucO	b2799	fucO // b2799 // ECK2794
+fucP	b2801	fucP // b2801 // ECK2796
+fucR	b2805	fucR // b2805 // ECK2800
+fucU	b2804	fucU // b2804 // ECK2799
+fumA	b1612	fumA // b1612 // ECK1607
+fumB	b4122	fumB // b4122 // ECK4115
+fumC	b1611	fumC // b1611 // ECK1606
+fumD	b1675	fumD // ydhZ // b1675 // ECK1671
+fumE	b2929	fumE // yggD // b2929 // ECK2925
+fur	b0683	fur // b0683 // ECK0671
+fusA	b3340	fusA // far // fus // b3340 // ECK3327
+fxsA	b4140	fxsA // yjeG // b4140 // ECK4134
+G0-10697		
+G0-10698		
+G0-10700		
+G0-10702		
+G0-10703		
+G0-10704		
+G0-10705		
+G0-10706		UNCLASSIFIED
+gabD	b2661	gabD // b2661 // ECK2655
+gabP	b2663	gabP // b2663 // ECK2657
+gabT	b2662	gabT // b2662 // ECK2656
+gadA	b3517	gadA // gadS // b3517 // ECK3502
+gadB	b1493	gadB // b1493 // ECK1487
+gadC	b1492	gadC // acsA // xasA // b1492 // ECK1486
+gadE	b3512	gadE // yhiE // yhiT // b3512 // ECK3496
+gadF	b4718	UNCLASSIFIED
+gadW	b3515	gadW // yhiW // b3515 // ECK3499
+gadX	b3516	gadX // yhiX // b3516 // ECK3501
+gadY	b4452	gadY // IS183 // b4452 // ECK3500
+galE	b0759	galE // galD // b0759 // ECK0748
+galF	b2042	galF // wcaN // yefG // b2042 // ECK2036
+galK	b0757	galK // galA // b0757 // ECK0746
+galM	b0756	galM // b0756 // ECK0745
+galP	b2943	galP // Pgal // b2943 // ECK2938
+galR	b2837	galR // Rgal // b2837 // ECK2835
+galS	b2151	galS // mglD // b2151 // ECK2144
+galT	b0758	galT // galB // b0758 // ECK0747
+galU	b1236	galU // ychD // b1236 // ECK1231
+gapA	b1779	gapA // gad // gap1 // b1779 // ECK1777
+gapC	b4493	gapC // b1416 // b1417 // b4493 // ECK1409
+garD	b3128	garD // yhaG // b3128 // ECK3116
+garK	b3124	garK // yhaD // b3124 // ECK3112
+garL	b3126	garL // yhaF // b3126 // ECK3114
+garP	b3127	garP // yhaU // b3127 // ECK3115
+garR	b3125	garR // yhaE // b3125 // ECK3113
+gatA	b2094	gatA // b2094 // ECK2087
+gatB	b2093	gatB // b2093 // ECK2086
+gatC	b2092	gatC // b2092 // ECK2085
+gatD	b2091	gatD // b2091 // ECK2084
+gatR	b4498	gatR // b2090 // b2087 // b4498 // ECK2083
+gatY	b2096	gatY // yegF // b2096 // ECK2089
+gatZ	b2095	gatZ // b2095 // ECK2088
+gcd	b0124	gcd // b0124 // ECK0123
+gcl	b0507	gcl // b0507 // ECK0500
+gcvA	b2808	gcvA // b2808 // ECK2803
+gcvB	b4443	gcvB // psrA11 // IS145 // b4443 // ECK2804
+gcvH	b2904	gcvH // gcv // b2904 // ECK2899
+gcvP	b2903	gcvP // b2903 // ECK2898
+gcvR	b2479	gcvR // yffD // b2479 // ECK2475
+gcvT	b2905	gcvT // b2905 // ECK2900
+gdhA	b1761	gdhA // b1761 // ECK1759
+gdx	b4148	gdx // sugE // b4148 // ECK4144
+gfcA	b0987	gfcA // ymcD // b0987 // ECK0978
+gfcB	b0986	UNCLASSIFIED
+gfcC	b0985	UNCLASSIFIED
+gfcD	b0984	UNCLASSIFIED
+gfcE	b0983	UNCLASSIFIED
+ggt	b3447	ggt // b3447 // ECK3431
+ghoS	b4128	ghoS // yjdK // b4128 // ECK4121
+ghoT	b4559	ghoT // yjdO // b4559 // ECK4122
+ghrA	b1033	ghrA // ycdW // b1033 // ECK1019
+ghrB	b3553	ghrB // tkrA // yiaE // b3553 // ECK3540
+ghxP	b4064	ghxP // yjcD // b4064 // ECK4057
+ghxQ	b4464	ghxQ // b2885 // ygfR // b2884 // ygfQ // b4464 // ECK2880
+glaH	b2659	glaH // csi-12 // ygaT // csiD // b2659 // ECK2653
+glaR	b2664	glaR // ygaE // gabC // csiR // b2664 // ECK2658
+glcA	b2975	glcA // yghK // b2975 // ECK2969
+glcB	b2976	glcB // glc // b2976 // ECK2970
+glcC	b2980	glcC // yghN // b2980 // ECK2975
+glcD	b2979	glcD // yghM // gox // b2979 // ECK2974
+glcE	b4468	glcE // yghL // gox // b2978 // b4468 // ECK2973
+glcF	b4467	glcF // gox // yghL // b2978 // b4467 // ECK2972
+glcG	b2977	glcG // yghC // b2977 // ECK2971
+gldA	b3945	gldA // b3945 // ECK3937
+glf	b2036	glf // yefE // b2036 // ECK2030
+glgA	b3429	glgA // b3429 // ECK3415
+glgB	b3432	glgB // b3432 // ECK3418
+glgC	b3430	glgC // b3430 // ECK3416
+glgP	b3428	glgP // glgY // b3428 // ECK3414
+glgS	b3049	glgS // scoR // b3049 // ECK3038
+glgX	b3431	glgX // b3431 // ECK3417
+glk	b2388	glk // b2388 // ECK2384
+glmM	b3176	glmM // yhbF // mrsA // b3176 // ECK3165
+glmS	b3729	glmS // b3729 // ECK3722
+glmU	b3730	glmU // yieA // b3730 // ECK3723
+glmY	b4441	glmY // tke1 // sroF // b4441 // ECK2554
+glmZ	b4456	glmZ // psrA20 // sraJ // k19 // ryiA // b4456 // ECK3795
+glnA	b3870	glnA // b3870 // ECK3863
+glnB	b2553	glnB // b2553 // ECK2550
+glnD	b0167	glnD // glnD5 // b0167 // ECK0165
+glnE	b3053	glnE // b3053 // ECK3043
+glnG	b3868	glnG // glnT // ntrC // b3868 // ECK3861
+glnH	b0811	glnH // b0811 // ECK0800
+glnK	b0450	glnK // ybaI // b0450 // ECK0444
+glnL	b3869	glnL // glnR // ntrB // b3869 // ECK3862
+glnP	b0810	glnP // b0810 // ECK0799
+glnQ	b0809	glnQ // b0809 // ECK0798
+glnS	b0680	glnS // b0680 // ECK0668
+glnU	b0670	glnU // glnUalpha // supB // trnA // b0670 // ECK0659
+glnV	b0665	glnV // Su2 // glnValpha // suII // supE // b0665 // ECK0656
+glnW	b0668	glnW // glnU-beta // glnUbeta // b0668 // ECK0658
+glnX	b0664	glnX // supE // glnV-beta // glnVbeta // b0664 // ECK0655
+glnZ	b4836	glnZ // b4836 // ECK4693
+gloA	b1651	gloA // b1651 // ECK1647
+gloB	b0212	gloB // yafR // b0212 // ECK0212
+gloC	b0927	gloC // ycbL // b0927 // ECK0918
+glpA	b2241	glpA // b2241 // ECK2233
+glpB	b2242	glpB // psi-51 // b2242 // ECK2234
+glpC	b2243	glpC // b2243 // ECK2235
+glpD	b3426	glpD // glyD // b3426 // ECK3412
+glpE	b3425	glpE // b3425 // ECK3411
+glpF	b3927	glpF // b3927 // ECK3919
+glpG	b3424	glpG // b3424 // ECK3410
+glpK	b3926	glpK // b3926 // ECK3918
+glpQ	b2239	glpQ // b2239 // ECK2231
+glpR	b3423	glpR // b3423 // ECK3409
+glpT	b2240	glpT // b2240 // ECK2232
+glpX	b3925	glpX // b3925 // ECK3917
+glrK	b2556	glrK // yfhZ // yfhK // qseE // b2556 // ECK2553
+glrR	b2554	glrR // yfhA // qseF // b2554 // ECK2551
+glsA	b0485	glsA // ybaS // b0485 // ECK0479
+glsB	b1524	glsB // yneH // b1524 // ECK1517
+gltA	b0720	gltA // gluT // icdB // b0720 // ECK0709
+gltB	b3212	gltB // psiQ // ossB // aspB // b3212 // ECK3202
+gltD	b3213	gltD // psiQ // ossB // aspB // b3213 // ECK3203
+gltF	b3214	gltF // ossB // b3214 // ECK3204
+gltI	b0655	gltI // yzzK // ybeJ // b0655 // ECK0648
+gltJ	b0654	gltJ // b0654 // ECK0647
+gltK	b0653	gltK // b0653 // ECK0646
+gltL	b0652	gltL // b0652 // ECK0645
+gltP	b4077	gltP // b4077 // ECK4070
+gltS	b3653	gltS // gltC // b3653 // ECK3643
+gltT	b3969	gltT // tgtB // b3969 // ECK3961
+gltU	b3757	gltU // tgtC // b3757 // ECK3751
+gltV	b4008	gltV // tgtE // b4008 // ECK4000
+gltW	b2590	gltW // b2590 // ECK2588
+gltX	b2400	gltX // gltM // gluRS // b2400 // ECK2394
+gluQ	b0144	gluQ // yadB // b0144 // ECK0143
+glvB	b3682	glvB // yidN // yidO // b3682 // ECK3674
+glvC	b3683	glvC // ptiC // b3683 // ECK3675
+glvG	b4556	glvG // b3681 (obsolete) // ECK3672 (obsolete) // ysdC // yidM // b4556 // ECK3673
+glxK	b0514	glxK // glxB5 // ybbZ // b0514 // ECK0507
+glxR	b0509	glxR // glxB1 // ybbQ // b0509 // ECK0502
+glyA	b2551	glyA // b2551 // ECK2548
+glyQ	b3560	glyQ // cfcA // glyS(A) // b3560 // ECK3548
+glyS	b3559	glyS // b3559 // ECK3547
+glyT	b3978	glyT // sumA // sup15B // supA36 // b3978 // ECK3969
+glyU	b2864	glyU // supT // suA36 // sufD // sumA // sumB // b2864 // ECK2860
+glyV	b4163	glyV // glyValpha // ins // mutA // suA58 // suA78 // b4163 // ECK4159
+glyW	b1911	glyW // ins // mutC // suA58 // suA78 // b1911 // ECK1910
+glyX	b4164	glyX // glyVbeta // b4164 // ECK4160
+glyY	b4165	glyY // glyVgamma // b4165 // ECK4161
+gmd	b2053	gmd // yefN // yefA // b2053 // ECK2047
+gmhA	b0222	gmhA // yafI // lpcA // tfrA // b0222 // ECK0223
+gmhB	b0200	gmhB // yaeD // b0200 // ECK0200
+gmk	b3648	gmk // spoR // b3648 // ECK3638
+gmm	b2051	gmm // nudD // wcaH // yefC // b2051 // ECK2045
+gnd	b2029	gnd // b2029 // ECK2024
+gndA		UNCLASSIFIED
+gnsA	b4517	gnsA // yccL // sfa // b4517 // ECK0982
+gnsB	b1550	gnsB // ydfY // b1550 // ECK1544
+gntK	b3437	gntK // b3437 // ECK3422
+gntP	b4321	gntP // yjiB // b4321 // ECK4312
+gntR	b3438	gntR // b3438 // ECK3423
+gntT	b3415	gntT // gntTalpha // yhgC // gntM // usgA // b3415 // ECK3402
+gntU	b4476	gntU // b3435 // b3436 // b4476 // ECK3421
+gor	b3500	UNCLASSIFIED
+gph	b3385	gph // yhfE // b3385 // ECK3372
+gpmA	b0755	gpmA // gpm // b0755 // ECK0744
+gpmM	b3612	gpmM // gpmC // pgmI // gpmI // yibO // b3612 // ECK3602
+gpp	b3779	gpp // gppA // b3779 // ECK3771
+gpr	b3001	gpr // mgrA // yghZ // b3001 // ECK2995
+gpsA	b3608	gpsA // b3608 // ECK3598
+gpt	b0238	gpt // glyD // gpp // gxu // b0238 // ECK0239
+grcA	b2579	grcA // yfiD // b2579 // ECK2577
+greA	b3181	greA // b3181 // ECK3170
+greB	b3406	greB // b3406 // ECK3393
+groL	b4143	groL // groEL // mopA // b4143 // ECK4137
+groS	b4142	groS // groES // mopB // b4142 // ECK4136
+grpE	b2614	grpE // b2614 // ECK2610
+grxA	b0849	grxA // grx // b0849 // ECK0840
+grxB	b1064	grxB // b1064 // ECK1049
+grxC	b3610	grxC // yibM // b3610 // ECK3600
+grxD	b1654	grxD // ydhD // b1654 // ECK1650
+gshA	b2688	gshA // gsh-I // b2688 // ECK2683
+gshB	b2947	gshB // gsh-II // b2947 // ECK2942
+gsiA	b0829	gsiA // yliA // b0829 // ECK0819
+gsiB	b0830	gsiB // yliB // b0830 // ECK0820
+gsiC	b0831	gsiC // yliC // b0831 // ECK0821
+gsiD	b0832	gsiD // yliD // b0832 // ECK0822
+gsk	b0477	gsk // b0477 // ECK0471
+gspA	b3323	gspA // yheD // b3323 // ECK3310
+gspB	b3322	UNCLASSIFIED
+gspC	b3324	gspC // yheE // b3324 // ECK3311
+gspD	b3325	gspD // yheF // b3325 // ECK3312
+gspE	b3326	gspE // yheG // b3326 // ECK3313
+gspF	b3327	gspF // hofF // hopF // b3327 // ECK3314
+gspG	b3328	gspG // hofG // hopG // b3328 // ECK3315
+gspH	b3329	gspH // hofH // hopH // b3329 // ECK3316
+gspI	b3330	gspI // yheH // b3330 // ECK3317
+gspJ	b3331	gspJ // yheI // b3331 // ECK3318
+gspK	b3332	gspK // yheJ // b3332 // ECK3319
+gspL	b3333	gspL // yheK // b3333 // ECK3320
+gspM	b3334	gspM // hopZ // pshM // b3334 // ECK3321
+gspO	b3335	gspO // hofD // hopD // hopO // yheC // b3335 // ECK3322
+gss	b2988	gss // gsp // b2988 // ECK2982
+gstA	b1635	gstA // gst // b1635 // ECK1631
+gstB	b0838	gstB // yliJ // b0838 // ECK0828
+guaA	b2507	guaA // b2507 // ECK2503
+guaB	b2508	guaB // guaR // b2508 // ECK2504
+guaC	b0104	guaC // b0104 // ECK0104
+guaD	b2883	guaD // ygfP // b2883 // ECK2879
+gudD	b2787	gudD // ygcX // b2787 // ECK2781
+gudP	b2789	gudP // gudT // ygcZ // b2789 // ECK2783
+gudX	b2788	gudX // ygcY // b2788 // ECK2782
+gutM	b2706	gutM // gut // srlM // b2706 // ECK2701
+gutQ	b2708	gutQ // srlQ // b2708 // ECK2703
+gyrA	b2231	gyrA // hisW // nalA // nfxA // norA // parD // b2231 // ECK2223
+gyrB	b3699	gyrB // hopA // pcpA // pcbA // parA // nalC // Cou // acrB // himB // hisU // b3699 // ECK3691
+hcaB	b2541	hcaB // yfhX // phdD // b2541 // ECK2538
+hcaC	b2540	hcaC // yfhW // hcaa3 // phdB // b2540 // ECK2537
+hcaD	b2542	hcaD // hcaa4 // phdA // yfhY // b2542 // ECK2539
+hcaE	b2538	hcaE // yfhU // digA // phdC1 // hcaA // hcaA1 // b2538 // ECK2535
+hcaF	b2539	hcaF // yfhV // hcaA // phdC2 // digB // hcaB // hcaA2 // b2539 // ECK2536
+hcaR	b2537	hcaR // phdR // yfhT // b2537 // ECK2534
+hcaT	b2536	hcaT // yfhS // b2536 // ECK2533
+hchA	b1967	hchA // yzzC // yedU // b1967 // ECK1963
+hcp	b0873	hcp // priS // ybjW // b0873 // ECK0864
+hcr	b0872	hcr // ybjV // b0872 // ECK0863
+hcxA	b0599	hcxA // ybdH // b0599 // ECK0593
+hcxB	b0801	UNCLASSIFIED
+hda	b2496	hda // idaB // yfgE // b2496 // ECK2492
+hdeA	b3510	hdeA // yhiB // yhhC // b3510 // ECK3494
+hdeB	b3509	hdeB // yhiC // yhhD // b3509 // ECK3493
+hdeD	b3511	hdeD // yhiA // b3511 // ECK3495
+hdfR	b4480	hdfR // b3762 // yifA // yifD // b3763 // b4480 // ECK3756
+hdhA	b1619	hdhA // hsd // hsdH // b1619 // ECK1614
+helD	b0962	helD // srjB // b0962 // ECK0953
+hemA	b1210	hemA // gtrA // b1210 // ECK1198
+hemB	b0369	hemB // ncf // b0369 // ECK0366
+hemC	b3805	hemC // popE // b3805 // ECK3799
+hemD	b3804	hemD // b3804 // ECK3798
+hemE	b3997	hemE // b3997 // ECK3989
+hemF	b2436	hemF // popB // sec // b2436 // ECK2431
+hemG	b3850	hemG // yihB // b3850 // ECK3842
+hemH	b0475	hemH // popA // visA // b0475 // ECK0469
+hemL	b0154	hemL // gsa // popC // b0154 // ECK0153
+hemN	b3867	hemN // yihJ // b3867 // ECK3860
+hemW	b2955	hemW // yggW // b2955 // ECK2950
+hemX	b3803	UNCLASSIFIED
+hemY	b3802	hemY // b3802 // ECK3796
+hflC	b4175	hflC // hflA // b4175 // ECK4171
+hflD	b1132	UNCLASSIFIED
+hflK	b4174	hflK // hslY // hflA // b4174 // ECK4170
+hflX	b4173	hflX // hslX // hflA // b4173 // ECK4169
+hfq	b4172	hfq // b4172 // ECK4168
+hha	b0460	hha // b0460 // ECK0454
+hicA	b4532	hicA // yncN // b4532 // ECK1431
+hicB	b1438	hicB // ydcQ // b1438 // ECK1432
+higA	b3082	higA // ygjM // b3082 // ECK3072
+higB	b3083	higB // ygjN // b3083 // ECK3073
+hinT	b1103	hinT // ycfF // b1103 // ECK1089
+hipA	b1507	hipA // b1507 // ECK1500
+hipB	b1508	hipB // b1508 // ECK1501
+hipH	b4385	UNCLASSIFIED
+hisA	b2024	hisA // b2024 // ECK2019
+hisB	b2022	hisB // b2022 // ECK2017
+hisC	b2021	hisC // b2021 // ECK2016
+hisD	b2020	hisD // b2020 // ECK2015
+hisF	b2025	hisF // b2025 // ECK2020
+hisG	b2019	hisG // b2019 // ECK2014
+hisH	b2023	hisH // b2023 // ECK2018
+hisI	b2026	hisI // hisE // hisIE // b2026 // ECK2021
+hisJ	b2309	hisJ // b2309 // ECK2303
+hisL	b2018	hisL // b2018 // ECK2013
+hisM	b2307	hisM // b2307 // ECK2301
+hisP	b2306	hisP // b2306 // ECK2300
+hisQ	b2308	hisQ // b2308 // ECK2302
+hisR	b3797	hisR // hisT // b3797 // ECK3790
+hisS	b2514	hisS // b2514 // ECK2510
+hiuH	b1970	UNCLASSIFIED
+hldE	b3052	hldE // yqiF // rfaE // gmhC // waaE // b3052 // ECK3042
+hlyE	b1182	hlyE // ycgD // clyA // hpr // sheA // b1182 // ECK1170
+hmp	b2552	hmp // fsrB // hmpA // b2552 // ECK2549
+hns	b1237	hns // B1 // H1 // virR // topX // topS // pilG // osmZ // msyA // irk // hnsA // bglY // cur // drc // drdX // drs // fimG // b1237 // ECK1232
+hofB	b0107	UNCLASSIFIED
+hofC	b0106	hofC // yacD // hopC // b0106 // ECK0105
+hofM	b3395	hofM // yrfD // b3395 // ECK3382
+hofN	b3394	hofN // yrfC // b3394 // ECK3381
+hofO	b3393	hofO // yrfB // b3393 // ECK3380
+hofP	b3392	hofP // yrfA // b3392 // ECK3379
+hofQ	b3391	hofQ // hopQ // b3391 // ECK3378
+hokA	b4455	hokA // yiaZ // b4455 // ECK3544
+hokB	b4428	hokB // ydcB // b4428 // ECK1412
+hokC	b4412	hokC // gef // b4412 // ECK0017
+hokD	b1562	hokD // relF // b1562 // ECK1556
+hokE	b4415	UNCLASSIFIED
+holA	b0640	holA // b0640 // ECK0633
+holB	b1099	holB // b1099 // ECK1085
+holC	b4259	holC // b4259 // ECK4252
+holD	b4372	holD // b4372 // ECK4363
+holE	b1842	holE // b1842 // ECK1843
+hpf	b3203	hpf // yhbH // b3203 // ECK3192
+hprR	b1969	hprR // yedW // b1969 // ECK1965
+hprS	b1968	hprS // yedV // b1968 // ECK1964
+hpt	b0125	hpt // b0125 // ECK0124
+hrpA	b1413	hrpA // b1413 // ECK1406
+hrpB	b0148	UNCLASSIFIED
+hscA	b2526	hscA // hsc // b2526 // ECK2523
+hscB	b2527	hscB // yfhE // b2527 // ECK2524
+hscC	b0650	hscC // ybeW // b0650 // ECK0643
+hsdM	b4349	hsdM // hsm // hsp // b4349 // ECK4339
+hsdR	b4350	hsdR // hsp // hsr // b4350 // ECK4340
+hsdS	b4348	hsdS // hsp // hss // rm // b4348 // ECK4338
+hslJ	b1379	hslJ // ydbI // b1379 // ECK1376
+hslO	b3401	hslO // yrfI // b3401 // ECK3388
+hslR	b3400	hslR // hsp15 // yrfH // b3400 // ECK3387
+hslU	b3931	hslU // clpY // htpI // b3931 // ECK3923
+hslV	b3932	hslV // yiiC // clpQ // htpO // b3932 // ECK3924
+hspQ	b0966	hspQ // yccV // b0966 // ECK0957
+hsrA	b3754	hsrA // yieO // b3754 // ECK3748
+htpG	b0473	htpG // b0473 // ECK0467
+htpX	b1829	htpX // b1829 // ECK1828
+htrE	b0139	htrE // b0139 // ECK0138
+htrL	b3618	UNCLASSIFIED
+hupA	b4000	hupA // b4000 // ECK3992
+hupB	b0440	hupB // dpeA // dbhB // hopD // b0440 // ECK0434
+hxpA	b2293	UNCLASSIFIED
+hxpB	b1727	hxpB // yniC // b1727 // ECK1725
+hyaA	b0972	hyaA // b0972 // ECK0963
+hyaB	b0973	hyaB // b0973 // ECK0964
+hyaC	b0974	hyaC // cybH // b0974 // ECK0965
+hyaD	b0975	hyaD // b0975 // ECK0966
+hyaE	b0976	hyaE // b0976 // ECK0967
+hyaF	b0977	hyaF // b0977 // ECK0968
+hybA	b2996	hybA // hydL // b2996 // ECK2990
+hybB	b2995	hybB // b2995 // ECK2989
+hybC	b2994	hybC // b2994 // ECK2988
+hybD	b2993	hybD // b2993 // ECK2987
+hybE	b2992	hybE // b2992 // ECK2986
+hybF	b2991	hybF // b2991 // ECK2985
+hybG	b2990	hybG // b2990 // ECK2984
+hybO	b2997	hybO // yghV // b2997 // ECK2991
+hycA	b2725	hycA // hevA // b2725 // ECK2720
+hycB	b2724	hycB // hevB // b2724 // ECK2719
+hycC	b2723	hycC // hevC // b2723 // ECK2718
+hycD	b2722	hycD // hevD // b2722 // ECK2717
+hycE	b2721	hycE // hevE // b2721 // ECK2716
+hycF	b2720	hycF // hevF // b2720 // ECK2715
+hycG	b2719	hycG // hevG // b2719 // ECK2714
+hycH	b2718	hycH // hevH // b2718 // ECK2713
+hycI	b2717	hycI // b2717 // ECK2712
+hydN	b2713	hydN // b2713 // ECK2708
+hyfA	b2481	hyfA // yffE // b2481 // ECK2477
+hyfB	b2482	hyfB // yffF // b2482 // ECK2478
+hyfC	b2483	hyfC // b2483 // ECK2479
+hyfD	b2484	hyfD // b2484 // ECK2480
+hyfE	b2485	hyfE // b2485 // ECK2481
+hyfF	b2486	hyfF // b2486 // ECK2482
+hyfG	b2487	hyfG // b2487 // ECK2483
+hyfH	b2488	hyfH // b2488 // ECK2484
+hyfI	b2489	hyfI // b2489 // ECK2485
+hyfJ	b2490	hyfJ // b2490 // ECK2486
+hyfR	b2491	hyfR // b2491 // ECK2487
+hyi	b0508	hyi // ybbG // gip // b0508 // ECK0501
+hypA	b2726	hypA // b2726 // ECK2721
+hypB	b2727	hypB // hydB // b2727 // ECK2722
+hypC	b2728	hypC // b2728 // ECK2723
+hypD	b2729	hypD // hydF // b2729 // ECK2724
+hypE	b2730	hypE // hydB // b2730 // ECK2725
+hypF	b2712	hypF // hydA // b2712 // ECK2707
+hypT	b4327	hypT // qseD // yjiE // b4327 // ECK4318
+hyuA	b2873	UNCLASSIFIED
+iaaA	b0828	iaaA // spt // ybiK // b0828 // ECK0818
+iadA	b4328	iadA // yjiF // b4328 // ECK4319
+iap	b2753	iap // b2753 // ECK2748
+ibaG	b3190	UNCLASSIFIED
+ibpA	b3687	ibpA // hslT // htpN // b3687 // ECK3679
+ibpB	b3686	ibpB // hslS // htpE // b3686 // ECK3678
+ibsA	b4667	ibsA // b4667 // ECK4482
+ibsB	b4668	ibsB // b4668 // ECK4483
+ibsC	b4665	ibsC // b4665 // ECK4480
+ibsD	b4664	ibsD // b4664 // ECK4479
+ibsE	b4666	ibsE // b4666 // ECK4481
+icd	b1136	icd // icdE // icdA // b1136 // ECK1122
+icdC	b4519	icdC // b4519 // ECK1146
+iclR	b4018	iclR // b4018 // ECK4010
+idi	b2889	idi // ygfV // b2889 // ECK2884
+idlP	b4722	UNCLASSIFIED
+idnD	b4267	idnD // yjgV // b4267 // ECK4260
+idnK	b4268	idnK // gntV // b4268 // ECK4261
+idnO	b4266	idnO // yjgU // b4266 // ECK4259
+idnR	b4264	idnR // gntS? // gntH // yjgS // b4264 // ECK4257
+idnT	b4265	idnT // gntW // yjgT // b4265 // ECK4258
+igaA	b3398	igaA // yrfF // b3398 // ECK3385
+ihfA	b1712	ihfA // hid // himA // b1712 // ECK1710
+ihfB	b0912	ihfB // hip // himD // b0912 // ECK0903
+ileS	b0026	ileS // ilvS // b0026 // ECK0027
+ileT	b3852	ileT // tilA // b3852 // ECK3844
+ileU	b3277	ileU // tilD // b3277 // ECK3264
+ileV	b0202	ileV // b0202 // ECK0202
+ileX	b3069	ileX // b3069 // ECK3059
+ileY	b2652	ileY // b2652 // ECK2648
+ilvA	b3772	ilvA // ile // b3772 // ECK3764
+ilvB	b3671	ilvB // b3671 // ECK3662
+ilvC	b3774	ilvC // b3774 // ECK3766
+ilvD	b3771	ilvD // b3771 // ECK3763
+ilvE	b3770	ilvE // b3770 // ECK3762
+ilvG	b4488	ilvG // ilvO // b3767 // b3768 // b4488 // ECK3760
+ilvH	b0078	ilvH // brnP // b0078 // ECK0080
+ilvI	b0077	ilvI // b0077 // ECK0079
+ilvL	b3766	ilvL // b3766 // ECK3759
+ilvM	b3769	ilvM // b3769 // ECK3761
+ilvN	b3670	ilvN // b3670 // ECK3661
+ilvX	b4669	ilvX // b4669 // ECK4484
+ilvY	b3773	ilvY // b3773 // ECK3765
+inaA	b2237	inaA // yfaG // b2237 // ECK2229
+infA	b0884	infA // bypA1 // b0884 // ECK0875
+infB	b3168	infB // ssyG // b3168 // ECK3157
+infC	b1718	infC // fit // srjA // b1718 // ECK1716
+insA1	b0022	insA1 // b0022 // ECK0023
+insA2	b0265	insA2 // b0265 // ECK0023
+insA3	b0275	insA3 // b0275 // ECK0023
+insA4	b4516	insA4 // b4516 // ECK0023
+insA5	b1894	insA5 // b1894 // ECK0023
+insA6	b3444	insA6 // b3444 // ECK0023
+insA7	b4294	insA7 // b4294 // ECK0023
+insA9	b4709	insA9 // b4709 // ECK4566
+insAB1		insAB1
+insAB2		insAB2
+insAB3		insAB3
+insAB4		insAB4
+insAB5		insAB5
+insAB6		insAB6
+insB1	b0021	insB1 // b0021 // ECK0022
+insB2	b0264	insB2 // b0264 // ECK0022
+insB3	b0274	insB3 // b0274 // ECK0022
+insB4	b0988	insB4 // b0988 // ECK0022
+insB5	b1893	insB5 // b1893 // ECK0022
+insB6	b3445	insB6 // b3445 // ECK0022
+insB7	b4576	insB7 // b4563 // b4564 // b4576 // ECK0022
+insB9	b4710	insB9 // b4710 // ECK4567
+insC1	b0360	insC1 // yi21-1 // b0360 // ECK0357
+insC2	b1403	insC2 // yi21-2 // b1403 // ECK0357
+insC3	b1997	insC3 // yi21-3 // b1997 // ECK0357
+insC4	b2861	insC4 // yi21-4 // b2861 // ECK0357
+insC5	b3044	insC5 // yi21-5 // b3044 // ECK0357
+insC6	b4272	insC6 // yi21-6 // b4272 // ECK0357
+insCD1		insCD1
+insCD2		insCD2
+insCD3		insCD3
+insCD4		insCD4
+insCD5		insCD5
+insCD6		insCD6
+insD1	b0361	insD1 // yi22-1 // b0361 // ECK0358
+insD2	b1402	insD2 // yi22-2 // b1402 // ECK0358
+insD3	b1996	insD3 // yi22-3 // b1996 // ECK0358
+insD4	b2860	insD4 // yi22-4 // b2860 // ECK0358
+insD5	b3045	insD5 // yi22-5 // b3045 // ECK0358
+insD6	b4273	insD6 // yi22-6 // b4273 // ECK0358
+insD7	b1578	insD7 // insD // b1578 // ECK1572
+insE1	b0298	insE1 // b0298 // ECK0298
+insE2	b0373	insE2 // b0373 // ECK0298
+insE3	b0540	insE3 // b0540 // ECK0298
+insE4	b1027	insE4 // b1027 // ECK0298
+insE5	b2088	insE5 // b2088 // ECK0298
+insEF1		insEF1
+insEF2		insEF2
+insEF3		insEF3
+insEF4		insEF4
+insEF5		insEF5
+insF1	b0299	insF1 // tra5-5 // b0299 // ECK0299
+insF2	b0372	insF2 // tra5-1 // b0372 // ECK0299
+insF3	b0541	insF3 // tra5-2 // b0541 // ECK0299
+insF4	b1026	insF4 // tra5-3 // b1026 // ECK0299
+insF5	b2089	insF5 // tra5-4 // b2089 // ECK0299
+insG	b4278	insG // yi41 // b4278 // ECK4268
+insH1	b0259	insH1 // trs5 // trs5-1 // yi52_1 // b0259 // ECK0261
+insH10	b3218	insH10 // trs5-10 // yi52_10 // b3218 // ECK0261
+insH11	b3505	insH11 // yi52_11 // trs5-11 // b3505 // ECK0261
+insH2	b0552	insH2 // trs5-2 // yi52_2 // b0552 // ECK0261
+insH21	b4711	insH21 // b4711 // ECK4568
+insH3	b0656	insH3 // trs5-3 // yi52_3 // b0656 // ECK0261
+insH4	b1331	insH4 // trs5-4 // yi52_4 // b1331 // ECK0261
+insH5	b1370	insH5 // yi52_5 // trs5-5 // b1370 // ECK0261
+insH6	b1994	insH6 // yi52_6 // trs5-6 // b1994 // ECK0261
+insH7	b2030	insH7 // yi52_7 // trs5-7 // b2030 // ECK0261
+insH8	b2192	insH8 // trs5-8 // yi52_8 // b2192 // ECK0261
+insH9	b2982	insH9 // trs5-9 // yi52_9 // b2982 // ECK0261
+insI1	b0256	insI1 // tra8-1 // b0256 // ECK0258
+insI2	b4708	insI2 // b4708 // ECK4564
+insI2	b1404	insI2 // tra8-2 // b1404 // ECK0258
+insI3	b4284	insI3 // tra8-3 // b4284 // ECK0258
+insJ	b3557	insJ // yi5A // b3557 // ECK3545
+insJK		UNCLASSIFIED
+insK	b3558	insK // dinS // yi5B // t150 // b3558 // ECK3546
+insL1	b0016	insL1 // yi81-1 // b0016 // ECK0016
+insL2	b0582	insL2 // yi81-2 // b0582 // ECK0016
+insL3	b2394	insL3 // yi81-3 // b2394 // ECK0016
+insM	b4561	insM // b4561 // ECK4273
+insN	b4587	insN // yi91a // b0255 // b0257 // b4587 // ECK0257
+insO	b4623	insO // yi91 // yi91b // b4283 // ECK0257 // insN2 // insO2 // b4285 // ECK4274 // b4562 // ECK4275 // yjhW // b4623 // ECK4476
+insQ	b1432	insQ // ydcM // tnpB // b1432 // ECK1426
+insX	b4505	insX // ykgN // ECK0266 // b4505 // ECK4473
+insZ	b4573	insZ // ychG // b1240 // b1239 // b4573 // ECK1234
+intA	b2622	intA // intX // slpA // b2622 // ECK2618
+intB	b4271	intB // int(P4) // yjgC // b4271 // ECK4264
+intD	b0537	intD // int // b0537 // ECK0530
+intE	b1140	intE // int(Lambda) // ycfI // b1140 // ECK1126
+intF	b0281	intF // yagO // b0281 // ECK0280
+intG	b1936	intG // b1936 // ECK1934
+intQ	b1579	intQ // b1579 // ECK1573
+intR	b1345	intR // ydaP // b1345 // ECK1342
+intS	b2349	intS // intC // yfdB // b2349 // ECK2343
+intZ	b2442	intZ // b2442 // ECK2437
+ipeX		UNCLASSIFIED
+iprA	b0375	iprA // yaiV // b0375 // ECK0370
+iraD	b4326	iraD // yjiD // b4326 // ECK4317
+iraM	b1160	iraM // elb1 // ycgW // elbA // b1160 // ECK1147
+iraP	b0382	iraP // yaiB // b0382 // ECK0377
+iroK	b4706	iroK // b4706 // ECK4518
+IS128		IS128
+iscA	b2528	iscA // yfhF // b2528 // ECK2525
+iscR	b2531	iscR // yfhP // b2531 // ECK2528
+iscS	b2530	iscS // nuvC // yzzO // yfhO // b2530 // ECK2527
+iscU	b2529	iscU // yfhN // nifU // b2529 // ECK2526
+iscX	b2524	iscX // yfhJ // b2524 // ECK2521
+ispA	b0421	ispA // b0421 // ECK0415
+ispB	b3187	ispB // cel // yhbD // b3187 // ECK3176
+ispD	b2747	ispD // ygbP // b2747 // ECK2742
+ispE	b1208	ispE // ipk // ychB // b1208 // ECK1196
+ispF	b2746	ispF // ygbB // b2746 // ECK2741
+ispG	b2515	ispG // gcpE // b2515 // ECK2511
+ispH	b0029	ispH // yaaE // lytB // b0029 // ECK0030
+ispU	b0174	ispU // uppS // rth // yaeS // b0174 // ECK0173
+ispZ	b4809	ispZ // b4809 // ECK4666
+isrC	b4435	isrC // IS102 // b4435 // ECK1992
+istR	b4616	istR // psrA19 // istR-1 // istR-2 // b4616 // ECK4425
+istR-1		istR-1
+ivbL	b3672	ivbL // b3672 // ECK3663
+ivy	b0220	ivy // ykfE // b0220 // ECK0221
+jayE	b1152	jayE // ymfP // b1152 // ECK1138
+katE	b1732	katE // b1732 // ECK1730
+katG	b3942	katG // b3942 // ECK3934
+kbaY	b3137	kbaY // yraC // kba // agaY // b3137 // ECK3125
+kbaZ	b3132	kbaZ // yhaX // agaZ // b3132 // ECK3120
+kbl	b3617	kbl // b3617 // ECK3607
+kbp	b2665	kbp // yzzM // ygaU // b2665 // ECK2659
+kch	b1250	kch // b1250 // ECK1244
+kdgK	b3526	kdgK // yhjI // b3526 // ECK3511
+kdgR	b1827	kdgR // yebP // b1827 // ECK1826
+kdgT	b3909	kdgT // b3909 // ECK3902
+kdpA	b0698	kdpA // kac // b0698 // ECK0686
+kdpB	b0697	kdpB // kac // b0697 // ECK0685
+kdpC	b0696	kdpC // kac // b0696 // ECK0684
+kdpD	b0695	kdpD // kac // b0695 // ECK0683
+kdpE	b0694	kdpE // b0694 // ECK0682
+kdpF	b4513	kdpF // b4513 // ECK0687
+kdsA	b1215	kdsA // b1215 // ECK1203
+kdsB	b0918	kdsB // b0918 // ECK0909
+kdsC	b3198	kdsC // yrbJ // yrbI // b3198 // ECK3187
+kdsD	b3197	kdsD // yrbH // b3197 // ECK3186
+kduD	b2842	kduD // yqeD // ygeC // b2842 // ECK2840
+kduI	b2843	kduI // yqeE // b2843 // ECK2841
+kefB	b3350	kefB // trkB // b3350 // ECK3338
+kefC	b0047	kefC // trkC // b0047 // ECK0048
+kefF	b0046	kefF // yabF // b0046 // ECK0047
+kefG	b3351	kefG // yheR // b3351 // ECK3339
+kgtP	b2587	kgtP // witA // b2587 // ECK2585
+kilR	b1352	kilR // ydaD // kil // b1352 // ECK1350
+kilS	b4833	UNCLASSIFIED
+kptA	b4331	kptA // yjiI // b4331 // ECK4322
+kup	b3747	kup // trkD // b3747 // ECK3741
+lacA	b0342	lacA // b0342 // ECK0339
+lacI	b0345	lacI // b0345 // ECK0342
+lacY	b0343	lacY // b0343 // ECK0340
+lacZ	b0344	lacZ // b0344 // ECK0341
+lafU	b0230	lafU // mbhA // b0230 // ECK0231
+lamB	b4036	lamB // malL // malB // b4036 // ECK4028
+lapA	b1279	lapA // yciS // b1279 // ECK1274
+lapB	b1280	lapB // yciM // b1280 // ECK1275
+lapC	b2188	lapC // yejN // pbgA // yejM // b2188 // ECK2182
+ldcA	b1192	ldcA // ycgQ // b1192 // ECK1180
+ldcC	b0186	ldcC // ldc // ldcH // b0186 // ECK0185
+ldhA	b1380	ldhA // htpH // hslF // hslI // b1380 // ECK1377
+ldrA	b4419	ldrA // b4419 // ECK1204
+ldrB	b4421	ldrB // b4421 // ECK1206
+ldrC	b4423	ldrC // b4423 // ECK1208
+ldrD	b4453	ldrD // b4453 // ECK3524
+ldtA	b1990	ldtA // yzzT // yeeG // erfK // b1990 // ECK1985
+ldtB	b0819	ldtB // ybiS // b0819 // ECK0809
+ldtC	b1113	ldtC // ycfS // b1113 // ECK1099
+ldtD	b0925	ldtD // ycbB // b0925 // ECK0916
+ldtE	b1678	ldtE // ynhG // b1678 // ECK1674
+lepA	b2569	lepA // b2569 // ECK2567
+lepB	b2568	lepB // lep // b2568 // ECK2566
+letA	b1833	letA // yebS // b1833 // ECK1832
+letB	b1834	letB // yebT // b1834 // ECK1833
+leuA	b0074	leuA // b0074 // ECK0076
+leuB	b0073	leuB // b0073 // ECK0075
+leuC	b0072	leuC // b0072 // ECK0074
+leuD	b0071	leuD // b0071 // ECK0073
+leuE	b1798	leuE // yeaS // b1798 // ECK1796
+leuL	b0075	leuL // leuLP // leulL // leulLP // leuIP // b0075 // ECK0077
+leuO	b0076	leuO // b0076 // ECK0078
+leuP	b4369	leuP // leuV-beta // leuVbeta // b4369 // ECK4360
+leuQ	b4370	leuQ // leuVgamma // b4370 // ECK4361
+leuS	b0642	leuS // syl // b0642 // ECK0635
+leuT	b3798	leuT // b3798 // ECK3791
+leuU	b3174	leuU // b3174 // ECK3163
+leuV	b4368	leuV // leuValpha // b4368 // ECK4359
+leuW	b0672	leuW // feeB // b0672 // ECK0660
+leuX	b4270	leuX // Su-6 // supP // b4270 // ECK4263
+leuZ	b1909	leuZ // b1909 // ECK1908
+lexA	b4043	lexA // exrA // spr // tsl // umuA // b4043 // ECK4035
+lfgA	b2643	lfgA // yfjX // b2643 // ECK2639
+lfgB	b2644	lfgB // yfjY // b2644 // ECK2640
+lfhA	b0229	lfhA // fhiA // b0229 // ECK0230
+lgoD	b4358	lgoD // yjjN // b4358 // ECK4348
+lgoR	b4357	lgoR // yjjM // b4357 // ECK4347
+lgoT	b4356	lgoT // yjiZ // yjjL // b4356 // ECK4346
+lgt	b2828	lgt // umpA // b2828 // ECK2824
+lhgD	b2660	lhgD // ygaF // lhgO // b2660 // ECK2654
+lhr	b1653	UNCLASSIFIED
+ligA	b2411	ligA // dnaL // lig // lop // pdeC // b2411 // ECK2406
+ligB	b3647	ligB // yicF // b3647 // ECK3637
+lipA	b0628	lipA // lip // b0628 // ECK0621
+lipB	b0630	lipB // cde // lip // b0630 // ECK0623
+lit	b1139	lit // b1139 // ECK1125
+livF	b3454	livF // b3454 // ECK3438
+livG	b3455	livG // hrbD // hrbC // hrbB // b3455 // ECK3439
+livH	b3457	livH // hrbD // hrbC // hrbB // b3457 // ECK3441
+livJ	b3460	livJ // hrbD // hrbC // hrbB // b3460 // ECK3444
+livK	b3458	livK // hrbD // hrbC // hrbB // b3458 // ECK3442
+livM	b3456	livM // b3456 // ECK3440
+lldD	b3605	lldD // lct // lctD // b3605 // ECK3595
+lldP	b3603	lldP // lct // lctP // b3603 // ECK3593
+lldR	b3604	lldR // lct // lctR // b3604 // ECK3594
+lnt	b0657	lnt // cutE // b0657 // ECK0649
+loiP	b2936	loiP // yggG // b2936 // ECK2931
+lolA	b0891	lolA // yzzV // lplA // b0891 // ECK0882
+lolB	b1209	lolB // hemM // ychC // b1209 // ECK1197
+lolC	b1116	lolC // ycfU // b1116 // ECK1102
+lolD	b1117	lolD // ycfV // b1117 // ECK1103
+lolE	b1118	lolE // ycfW // b1118 // ECK1104
+lomR	b4570	lomR // b1369 // b1371 // b4570 // ECK1366
+lon	b0439	lon // capR // deg // dir // lopA // muc // b0439 // ECK0433
+lpd	b0116	lpd // dhl // lpdA // b0116 // ECK0115
+lplA	b4386	lplA // yjjF // slr // b4386 // ECK4378
+lplT	b2835	lplT // ygeD // b2835 // ECK2831
+lpoA	b3147	lpoA // yraM // b3147 // ECK3135
+lpoB	b1105	lpoB // ycfM // b1105 // ECK1091
+lpp	b1677	lpp // mlpA // b1677 // ECK1673
+lptA	b3200	lptA // yhbN // b3200 // ECK3189
+lptB	b3201	lptB // yhbG // b3201 // ECK3190
+lptC	b3199	lptC // yrbK // b3199 // ECK3188
+lptD	b0054	lptD // yabG // ostA // imp // b0054 // ECK0055
+lptE	b0641	lptE // rlpB // b0641 // ECK0634
+lptF	b4261	lptF // yjgP // b4261 // ECK4254
+lptG	b4262	lptG // yjgQ // b4262 // ECK4255
+lptM	b4558	UNCLASSIFIED
+lpxA	b0181	lpxA // b0181 // ECK0180
+lpxB	b0182	lpxB // pgsB // b0182 // ECK0181
+lpxC	b0096	lpxC // asmB // envA // b0096 // ECK0097
+lpxD	b0179	lpxD // omsA // firA // b0179 // ECK0178
+lpxH	b0524	lpxH // ybbF // b0524 // ECK0517
+lpxK	b0915	lpxK // ycaH // b0915 // ECK0906
+lpxL	b1054	lpxL // htrB // waaM // b1054 // ECK1039
+lpxM	b1855	lpxM // mlt // waaN // msbB // b1855 // ECK1856
+lpxP	b2378	lpxP // ddg // b2378 // ECK2374
+lpxT	b2174	lpxT // yeiU // b2174 // ECK2168
+lrhA	b2289	lrhA // genR // b2289 // ECK2283
+lrp	b0889	lrp // rblA // oppI // mbf // lstR // alsB // ihb // livR // lrs // lss // b0889 // ECK0880
+lspA	b0027	lspA // lsp // b0027 // ECK0028
+lsrA	b1513	lsrA // ego // ydeX // b1513 // ECK1506
+lsrB	b1516	lsrB // yneA // b1516 // ECK1509
+lsrC	b1514	lsrC // ydeY // b1514 // ECK1507
+lsrD	b1515	lsrD // ydeZ // b1515 // ECK1508
+lsrF	b1517	lsrF // yneB // b1517 // ECK1510
+lsrG	b1518	lsrG // yneC // b1518 // ECK1511
+lsrK	b1511	lsrK // ydeV // b1511 // ECK1504
+lsrR	b1512	lsrR // ydeW // b1512 // ECK1505
+ltaE	b0870	ltaE // ltaA // ybjU // b0870 // ECK0861
+luxS	b2687	luxS // ygaG // b2687 // ECK2681
+lysA	b2838	lysA // b2838 // ECK2836
+lysC	b4024	lysC // apk // b4024 // ECK4016
+lysO	b0874	lysO // ybjE // b0874 // ECK0865
+lysP	b2156	lysP // cadR // b2156 // ECK2149
+lysQ	b0749	lysQ // b0749 // ECK0738
+lysR	b2839	lysR // b2839 // ECK2837
+lysS	b2890	lysS // asuD // herC // b2890 // ECK2885
+lysT	b0743	lysT // supL // supG // sua // lysTalpha // Su[beta] // b0743 // ECK0732
+lysU	b4129	lysU // b4129 // ECK4123
+lysV	b2404	lysV // supN // b2404 // ECK2398
+lysW	b0745	lysW // lysT-beta // lysTbeta // su // b0745 // ECK0734
+lysY	b0747	lysY // lysTg // lysTgamma // b0747 // ECK0736
+lysZ	b0748	lysZ // b0748 // ECK0737
+lyxK	b3580	lyxK // lyx // xylK // sgbK // yiaP // b3580 // ECK3569
+maa	b0459	maa // ylaD // b0459 // ECK0453
+macA	b0878	macA // ybjY // b0878 // ECK0869
+macB	b0879	macB // ybjZ // b0879 // ECK0870
+maeA	b1479	maeA // sfcA // b1479 // ECK1473
+maeB	b2463	maeB // ypfF // b2463 // ECK2458
+mak	b0394	mak // yajF // b0394 // ECK0389
+malE	b4034	malE // b4034 // ECK4026
+malF	b4033	malF // b4033 // ECK4025
+malG	b4032	malG // b4032 // ECK4024
+malH	b4807	malH // b4807 // ECK4664
+malI	b1620	malI // b1620 // ECK1615
+malK	b4035	malK // malB // b4035 // ECK4027
+malM	b4037	malM // molA // b4037 // ECK4029
+malP	b3417	malP // malA // blu // b3417 // ECK3404
+malQ	b3416	malQ // malA // b3416 // ECK3403
+malS	b3571	malS // b3571 // ECK3560
+malT	b3418	malT // malA // b3418 // ECK3405
+malX	b1621	malX // b1621 // ECK1616
+malY	b1622	malY // b1622 // ECK1617
+malZ	b0403	malZ // b0403 // ECK0397
+manA	b1613	manA // pmi // b1613 // ECK1608
+manX	b1817	manX // gptB // mpt // ptsL // ptsX // b1817 // ECK1815
+manY	b1818	manY // pel // ptsP // ptsX // b1818 // ECK1816
+manZ	b1819	manZ // gptB // mpt // ptsM // ptsX // b1819 // ECK1817
+maoP	b3764	maoP // yifE // b3764 // ECK3757
+map	b0168	map // b0168 // ECK0166
+marA	b1531	marA // norB // inaR // cfxB // nfxC // soxQ // b1531 // ECK1524
+marB	b1532	marB // b1532 // ECK1525
+marC	b1529	marC // ydeC // ydeB // b1529 // ECK1522
+marR	b1530	marR // cfxB // inaR // soxQ // b1530 // ECK1523
+matA	b0294	matA // ykgK // ecpR // b0294 // ECK0293
+matP	b0956	matP // ycbG // b0956 // ECK0947
+mazE	b2783	mazE // chpAI // chpR // b2783 // ECK2777
+mazF	b2782	mazF // chpAK // chpA // b2782 // ECK2776
+mazG	b2781	mazG // b2781 // ECK2775
+mbiA	b0012	mbiA // htpY // htgA // b0012 // ECK0012
+mcaS	b4426	mcaS // IS061 // isrA // b4426 // ECK1336
+mcbA	b0806	mcbA // ybiM // b0806 // ECK0795
+mcbR	b1450	mcbR // yncC // b1450 // ECK1444
+mcrA	b1159	mcrA // rglA // b1159 // ECK1145
+mcrB	b4346	mcrB // rglB // b4346 // ECK4336
+mcrC	b4345	mcrC // b4345 // ECK4335
+mdaB	b3028	mdaB // mda66 // b3028 // ECK3019
+mdfA	b0842	mdfA // cmlA // cmr // b0842 // ECK0832
+mdh	b3236	mdh // b3236 // ECK3225
+mdlA	b0448	mdlA // mdl // b0448 // ECK0442
+mdlB	b0449	mdlB // mdl // b0449 // ECK0443
+mdtA	b2074	mdtA // yegM // b2074 // ECK2070
+mdtB	b2075	mdtB // yegN // b2075 // ECK2071
+mdtC	b2076	mdtC // yegO // b2076 // ECK2072
+mdtD	b2077	mdtD // yegB // iceT // b2077 // ECK2073
+mdtE	b3513	mdtE // yhiU // b3513 // ECK3497
+mdtF	b3514	mdtF // yhiV // b3514 // ECK3498
+mdtG	b1053	mdtG // yceE // b1053 // ECK1038
+mdtH	b1065	mdtH // yceL // b1065 // ECK1050
+mdtI	b1599	mdtI // ydgE // b1599 // ECK1594
+mdtJ	b1600	mdtJ // ydgF // b1600 // ECK1595
+mdtK	b1663	mdtK // norE // norM // ydhE // b1663 // ECK1659
+mdtL	b3710	mdtL // yidY // b3710 // ECK3703
+mdtM	b4337	mdtM // yjiO // b4337 // ECK4328
+mdtN	b4082	mdtN // yjcR // sdsR // b4082 // ECK4075
+mdtO	b4081	mdtO // yjcQ // sdsQ // b4081 // ECK4074
+mdtP	b4080	mdtP // yjcP // sdsP // b4080 // ECK4073
+mdtQ	b2139	mdtQ // yohH // yohG // b2138 // ECK2132 // b2139 // ECK2131
+mdtU	b4777	mdtU // ydgV // b4777 // ECK4634
+melA	b4119	melA // mel-7 // b4119 // ECK4112
+melB	b4120	melB // mel-4 // b4120 // ECK4113
+melR	b4118	melR // b4118 // ECK4111
+menA	b3930	menA // yiiW // b3930 // ECK3922
+menB	b2262	menB // b2262 // ECK2256
+menC	b2261	menC // b2261 // ECK2255
+menD	b2264	menD // b2264 // ECK2258
+menE	b2260	menE // b2260 // ECK2254
+menF	b2265	menF // yfbA // b2265 // ECK2259
+menH	b2263	menH // yfbB // b2263 // ECK2257
+menI	b1686	menI // ydiI // b1686 // ECK1683
+mepA	b2328	mepA // b2328 // ECK2322
+mepH	b1655	mepH // ydhO // b1655 // ECK1651
+mepK	b0926	mepK // ycbK // b0926 // ECK0917
+mepM	b1856	mepM // yebA // b1856 // ECK1857
+mepS	b2175	mepS // yeiV // spr // b2175 // ECK2169
+metA	b4013	metA // b4013 // ECK4005
+metB	b3939	metB // met-1 // b3939 // ECK3931
+metC	b3008	metC // b3008 // ECK3000
+metE	b3829	metE // metB12 // b3829 // ECK3823
+metF	b3941	metF // b3941 // ECK3933
+metG	b2114	metG // b2114 // ECK2107
+metH	b4019	metH // b4019 // ECK4011
+metI	b0198	metI // metD // yaeE // b0198 // ECK0198
+metJ	b3938	metJ // b3938 // ECK3930
+metK	b2942	metK // metX // b2942 // ECK2937
+metL	b3940	metL // metM // b3940 // ECK3932
+metN	b0199	metN // metD // abc // b0199 // ECK0199
+metQ	b0197	metQ // metD // yaeC // b0197 // ECK0197
+metR	b3828	metR // b3828 // ECK3822
+metT	b0673	metT // metTalpha // b0673 // ECK0661
+metU	b0666	metU // metT-beta // metTbeta // b0666 // ECK0657
+metV	b2816	metV // metZbeta // metX // metZ-beta // metZb // b2816 // ECK2812
+metW	b2815	metW // b2815 // ECK2811
+metY	b3171	metY // b3171 // ECK3160
+metZ	b2814	metZ // metZalpha // b2814 // ECK2810
+mfd	b1114	mfd // b1114 // ECK1100
+mglA	b2149	mglA // mglP // mgl // b2149 // ECK2142
+mglB	b2150	mglB // b2150 // ECK2143
+mglC	b2148	mglC // mglP // b2148 // ECK2141
+mgrB	b1826	mgrB // yobG // b1826 // ECK1824
+mgrR	b4698	mgrR // b4698 // ECK4510
+mgsA	b0963	mgsA // mgs // yccG // b0963 // ECK0954
+mgtA	b4242	mgtA // atmA // corB // mgt // mtg // b4242 // ECK4237
+mgtL	b4702	mgtL // b4702 // ECK4513
+mgtS	b4599	mgtS // yneM // b4599 // ECK4409
+mgtT	b4775	mgtT // b4775 // ECK4632
+mhpA	b0347	mhpA // b0347 // ECK0344
+mhpB	b0348	mhpB // b0348 // ECK0345
+mhpC	b0349	mhpC // b0349 // ECK0346
+mhpD	b0350	mhpD // mhpS // b0350 // ECK0347
+mhpE	b0352	mhpE // b0352 // ECK0349
+mhpF	b0351	mhpF // b0351 // ECK0348
+mhpR	b0346	mhpR // b0346 // ECK0343
+mhpT	b0353	mhpT // yaiK // b0353 // ECK0350
+miaA	b4171	miaA // trpX // b4171 // ECK4167
+miaB	b0661	miaB // yleA // b0661 // ECK0653
+micA	b4442	micA // sraD // psrA10 // b4442 // ECK2682
+micC	b4427	micC // IS063 // tke8 // b4427 // ECK1373
+micF	b4439	micF // stc // b4439 // ECK2208
+micL	b4717	UNCLASSIFIED
+minC	b1176	minC // minB // b1176 // ECK1164
+minD	b1175	minD // minB // b1175 // ECK1163
+minE	b1174	minE // minB // b1174 // ECK1162
+mioC	b3742	mioC // yieB // b3742 // ECK3736
+mipA	b1782	mipA // yeaF // b1782 // ECK1780
+mlaA	b2346	mlaA // vacJ // b2346 // ECK2340
+mlaB	b3191	mlaB // yrbB // b3191 // ECK3180
+mlaC	b3192	mlaC // yrbC // b3192 // ECK3181
+mlaD	b3193	mlaD // yrbD // b3193 // ECK3182
+mlaE	b3194	mlaE // yrbE // b3194 // ECK3183
+mlaF	b3195	mlaF // yrbF // b3195 // ECK3184
+mlc	b1594	mlc // dgsA // b1594 // ECK1589
+mliC	b1639	UNCLASSIFIED
+mlrA	b2127	mlrA // yehV // b2127 // ECK2119
+mltA	b2813	mltA // ygdM // mlt // b2813 // ECK2809
+mltB	b2701	mltB // slt // b2701 // ECK2696
+mltC	b2963	mltC // yggZ // b2963 // ECK2958
+mltD	b0211	mltD // yafG // dniR // b0211 // ECK0211
+mltF	b2558	mltF // yfhD // b2558 // ECK2556
+mltG	b1097	mltG // yceG // b1097 // ECK1083
+mmuM	b0261	mmuM // yagD // b0261 // ECK0263
+mmuP	b0260	mmuP // ykfD // b0260 // ECK0262
+mnaT	b1448	UNCLASSIFIED
+mngA	b0731	mngA // frx // hrsA // b0731 // ECK0719
+mngB	b0732	mngB // ybgG // b0732 // ECK0720
+mngR	b0730	mngR // ybgB // farR // b0730 // ECK0718
+mnmA	b1133	mnmA // asuE // ycfB // trmU // b1133 // ECK1119
+mnmC	b2324	mnmC // yfcK // trmC // b2324 // ECK2318
+mnmE	b3706	mnmE // trmE // thdF // b3706 // ECK3699
+mnmG	b3741	mnmG // gidA // trmF // b3741 // ECK3734
+mntH	b2392	mntH // mntA // yfeP // b2392 // ECK2387
+mntP	b1821	mntP // yebN // b1821 // ECK1819
+mntR	b0817	mntR // ybiQ // b0817 // ECK0807
+mntS	b4705	UNCLASSIFIED
+moaA	b0781	moaA // bisA // chlA // chlA1 // narA // b0781 // ECK0770
+moaB	b0782	moaB // chlA2 // b0782 // ECK0771
+moaC	b0783	moaC // chlA3 // b0783 // ECK0772
+moaD	b0784	moaD // chlA4 // chlM // b0784 // ECK0773
+moaE	b0785	moaE // chlA5 // b0785 // ECK0774
+mobA	b3857	mobA // chlB // mob // narB // b3857 // ECK3849
+mobB	b3856	mobB // yihC // b3856 // ECK3848
+mocA	b2877	mocA // ygfJ // b2877 // ECK2873
+modA	b0763	modA // b0763 // ECK0752
+modB	b0764	modB // chlJ // tslJ // b0764 // ECK0753
+modC	b0765	modC // chlD // narD // b0765 // ECK0754
+modE	b0761	modE // chlD // modR // b0761 // ECK0750
+modF	b0760	modF // chlD // phrA // b0760 // ECK0749
+moeA	b0827	moeA // bisB // chlE // narE // b0827 // ECK0817
+moeB	b0826	moeB // chlN // b0826 // ECK0816
+mog	b0009	mog // yaaG // bisD // chlG // mogA // b0009 // ECK0009
+mokA	b4647	mokA // b4647 // ECK4448
+mokB	b1420	mokB // b1420 // ECK1413
+mokC	b0018	mokC // gefL // b0018 // ECK0018
+motA	b1890	motA // flaJ // b1890 // ECK1891
+motB	b1889	motB // flaJ // b1889 // ECK1890
+motR	b4828	UNCLASSIFIED
+mpaA	b1326	mpaA // ycjI // b1326 // ECK1322
+mpl	b4233	mpl // tpl // yjfG // b4233 // ECK4228
+mppA	b1329	mppA // ynaH // b1329 // ECK1326
+mprA	b2684	mprA // emrR // b2684 // ECK2678
+mqo	b2210	mqo // yojH // b2210 // ECK2202
+mqsA	b3021	mqsA // ygiT // b3021 // ECK3012
+mqsR	b3022	mqsR // ygiU // b3022 // ECK3013
+mraY	b0087	mraY // murX // b0087 // ECK0088
+mraZ	b0081	UNCLASSIFIED
+mrcA	b3396	mrcA // ponA // b3396 // ECK3383
+mrcB	b0149	mrcB // pbpF // ponB // b0149 // ECK0148
+mrdA	b0635	mrdA // pbpA // b0635 // ECK0628
+mrdB	b0634	mrdB // rodA // b0634 // ECK0627
+mreB	b3251	mreB // rodY // envB // mon // mreB_1 // b3251 // ECK3239
+mreC	b3250	mreC // b3250 // ECK3238
+mreD	b3249	mreD // b3249 // ECK3237
+mrp	b2113	mrp // b2113 // ECK2106
+mrr	b4351	mrr // b4351 // ECK4341
+msbA	b0914	msbA // b0914 // ECK0905
+mscK	b0465	mscK // aefA // kefA // b0465 // ECK0459
+mscL	b3291	mscL // yhdC // b3291 // ECK3277
+mscM	b4159	mscM // yjeP // b4159 // ECK4155
+mscS	b2924	mscS // yggB // b2924 // ECK2920
+msrA	b4219	msrA // pms // pmsR // b4219 // ECK4215
+msrB	b1778	msrB // yeaA // b1778 // ECK1776
+msrC	b1832	UNCLASSIFIED
+msrP	b1971	msrP // yedY // b1971 // ECK1967
+msrQ	b1972	msrQ // yedZ // b1972 // ECK1968
+msyB	b1051	UNCLASSIFIED
+mtfA	b1976	mtfA // yeeI // b1976 // ECK1972
+mtgA	b3208	mtgA // mgt // yrbM // b3208 // ECK3197
+mtlA	b3599	mtlA // mtlC // b3599 // ECK3588
+mtlD	b3600	mtlD // b3600 // ECK3589
+mtlR	b3601	mtlR // b3601 // ECK3590
+mtn	b0159	mtn // pfs // yadA // mtnN // b0159 // ECK0158
+mtr	b3161	mtr // b3161 // ECK3149
+mug	b3068	mug // ygjF // b3068 // ECK3058
+mukB	b0924	mukB // b0924 // ECK0915
+mukE	b0923	mukE // kicA // ycbA // b0923 // ECK0914
+mukF	b0922	mukF // kicB // b0922 // ECK0913
+murA	b3189	murA // mrbA // murZ // b3189 // ECK3178
+murB	b3972	murB // yijB // b3972 // ECK3964
+murC	b0091	murC // b0091 // ECK0092
+murD	b0088	murD // b0088 // ECK0089
+murE	b0085	murE // b0085 // ECK0086
+murF	b0086	murF // mra // b0086 // ECK0087
+murG	b0090	murG // b0090 // ECK0091
+murI	b3967	murI // yijA // dga // glr // b3967 // ECK3959
+murJ	b1069	murJ // mviN // yceN // b1069 // ECK1054
+murP	b2429	murP // yfeV // b2429 // ECK2424
+murQ	b2428	murQ // yfeU // b2428 // ECK2423
+murR	b2427	murR // yfeT // b2427 // ECK2422
+mutH	b2831	mutH // mutR // prv // b2831 // ECK2827
+mutL	b4170	mutL // b4170 // ECK4166
+mutM	b3635	mutM // fpg // b3635 // ECK3625
+mutS	b2733	mutS // ant // plm // fdv // b2733 // ECK2728
+mutT	b0099	mutT // nudA // b0099 // ECK0100
+mutY	b2961	mutY // micA // b2961 // ECK2956
+mzrA	b3096	mzrA // ecfM // yqjB // b3096 // ECK3087
+nac	b1988	nac // b1988 // ECK1983
+nadA	b0750	nadA // nicA // b0750 // ECK0739
+nadB	b2574	nadB // nic // nicB // b2574 // ECK2572
+nadC	b0109	nadC // b0109 // ECK0108
+nadD	b0639	nadD // ybeN // fusB // b0639 // ECK0632
+nadE	b1740	nadE // efg // ntrL // b1740 // ECK1738
+nadK	b2615	nadK // yfjE // yfjB // b2615 // ECK2611
+nadR	b4390	nadR // nadI // b4390 // ECK4382
+nagA	b0677	nagA // b0677 // ECK0665
+nagB	b0678	nagB // glmD // b0678 // ECK0666
+nagC	b0676	nagC // nagR // b0676 // ECK0664
+nagE	b0679	nagE // pstN // ptsN // b0679 // ECK0667
+nagK	b1119	nagK // ycfX // b1119 // ECK1105
+nagZ	b1107	nagZ // ycfO // b1107 // ECK1093
+nanA	b3225	nanA // b3225 // ECK3214
+nanC	b4311	nanC // yjhA // b4311 // ECK4302
+nanE	b3223	nanE // yhcJ // b3223 // ECK3212
+nanK	b3222	nanK // yhcI // b3222 // ECK3211
+nanM	b4310	nanM // yjhT // b4310 // ECK4301
+nanQ	b3221	nanQ // yhcH // b3221 // ECK3210
+nanR	b3226	nanR // yhcK // b3226 // ECK3215
+nanS	b4309	nanS // yjhS // b4309 // ECK4300
+nanT	b3224	nanT // b3224 // ECK3213
+nanX	b4279	nanX // yjhB // b4279 // ECK4269
+nanY	b4280	nanY // yjhC // b4280 // ECK4270
+napA	b2206	napA // yojD // yojC // yojE // b2206 // ECK2198
+napB	b2203	napB // yejY // b2203 // ECK2195
+napC	b2202	napC // yejX // b2202 // ECK2194
+napD	b2207	napD // yojF // b2207 // ECK2199
+napF	b2208	napF // yojG // b2208 // ECK2200
+napG	b2205	napG // yojA // yojB // b2205 // ECK2197
+napH	b2204	napH // yejZ // b2204 // ECK2196
+narG	b1224	narG // chlC // narC // b1224 // ECK1218
+narH	b1225	narH // chlC // b1225 // ECK1219
+narI	b1227	narI // chlI // b1227 // ECK1221
+narJ	b1226	narJ // b1226 // ECK1220
+narK	b1223	narK // b1223 // ECK1217
+narL	b1221	narL // frdR // narR // b1221 // ECK1215
+naRNA1		UNCLASSIFIED
+naRNA2		UNCLASSIFIED
+naRNA3		UNCLASSIFIED
+naRNA4		UNCLASSIFIED
+naRNA5		UNCLASSIFIED
+naRNA6		UNCLASSIFIED
+narP	b2193	narP // b2193 // ECK2185
+narQ	b2469	narQ // b2469 // ECK2464
+narS	b4813	UNCLASSIFIED
+narU	b1469	narU // yddF // b1469 // ECK1463
+narV	b1465	narV // chlZ // b1465 // ECK1459
+narW	b1466	narW // chlZ // b1466 // ECK1460
+narX	b1222	narX // frdR // narR // frd1 // b1222 // ECK1216
+narY	b1467	narY // chlZ // b1467 // ECK1461
+narZ	b1468	narZ // chlZ // b1468 // ECK1462
+nc1		UNCLASSIFIED
+ndh	b1109	ndh // b1109 // ECK1095
+ndk	b2518	ndk // b2518 // ECK2514
+nei	b0714	nei // b0714 // ECK0703
+nemA	b1650	nemA // ydhN // b1650 // ECK1646
+nemR	b1649	nemR // ydhM // b1649 // ECK1645
+nepI	b3662	nepI // yicM // b3662 // ECK3653
+nfeF	b3070	nfeF // yqjH // b3070 // ECK3060
+nfeR	b3071	nfeR // yqjI // b3071 // ECK3061
+nfi	b3998	nfi // yjaF // b3998 // ECK3990
+nfo	b2159	nfo // b2159 // ECK2152
+nfrA	b0568	nfrA // b0568 // ECK0560
+nfrB	b0569	nfrB // b0569 // ECK0561
+nfsA	b0851	UNCLASSIFIED
+nfsB	b0578	nfsB // ntr // dprA // nfnB // b0578 // ECK0570
+nfuA	b3414	nfuA // yhgI // gntY // b3414 // ECK3401
+nhaA	b0019	nhaA // ant // antA // b0019 // ECK0020
+nhaB	b1186	nhaB // b1186 // ECK1174
+nhaR	b0020	nhaR // antO // yaaB // b0020 // ECK0021
+nhoA	b1463	UNCLASSIFIED
+nikA	b3476	nikA // hydD // hydC // b3476 // ECK3460
+nikB	b3477	nikB // hydC // hydD // b3477 // ECK3461
+nikC	b3478	nikC // hydD // hydC // b3478 // ECK3462
+nikD	b3479	nikD // hydD // hydC // b3479 // ECK3463
+nikE	b3480	nikE // hydD // hydC // b3480 // ECK3464
+nikR	b3481	nikR // yhhG // b3481 // ECK3465
+nimR	b1790	nimR // yeaM // b1790 // ECK1788
+nimT	b1791	nimT // yeaN // b1791 // ECK1789
+ninE	b0548	ninE // b0548 // ECK0539
+nirB	b3365	nirB // b3365 // ECK3353
+nirC	b3367	nirC // b3367 // ECK3355
+nirD	b3366	nirD // b3366 // ECK3354
+nlpA	b3661	nlpA // b3661 // ECK3651
+nlpC	b1708	UNCLASSIFIED
+nlpD	b2742	nlpD // b2742 // ECK2737
+nlpE	b0192	nlpE // cutF // b0192 // ECK0192
+nlpI	b3163	nlpI // yhbM // b3163 // ECK3151
+nmpC	b0553	nmpC // phmA // b0553 // ECK0544
+nnr	b4167	nnr // yjeF // b4167 // ECK4163
+nohA	b1548	nohA // nohQ // b1548 // ECK1541
+nohD	b0560	nohD // nohB // b0560 // ECK0552
+norR	b2709	norR // ygaA // b2709 // ECK2704
+norV	b2710	norV // ygaJ // ygaI // ygaK // b2710 // ECK2705
+norW	b2711	norW // ygaL // ygbD // b2711 // ECK2706
+npr	b3206	npr // yhbK // ptsO // rpoR // b3206 // ECK3195
+nrdA	b2234	nrdA // dnaF // b2234 // ECK2226
+nrdB	b2235	nrdB // ftsB // b2235 // ECK2227
+nrdD	b4238	nrdD // b4238 // ECK4233
+nrdE	b2675	nrdE // b2675 // ECK2669
+nrdF	b2676	nrdF // ygaD // b2676 // ECK2670
+nrdG	b4237	nrdG // yjgE // b4237 // ECK4232
+nrdH	b2673	nrdH // ygaN // b2673 // ECK2667
+nrdI	b2674	nrdI // ygaO // b2674 // ECK2668
+nrdR	b0413	nrdR // ybaD // b0413 // ECK0407
+nrfA	b4070	nrfA // b4070 // ECK4063
+nrfB	b4071	nrfB // yjcI // b4071 // ECK4064
+nrfC	b4072	nrfC // yjcJ // b4072 // ECK4065
+nrfD	b4073	nrfD // yjcK // b4073 // ECK4066
+nrfE	b4074	nrfE // yjcL // b4074 // ECK4067
+nrfF	b4075	nrfF // yjcM // b4075 // ECK4068
+nrfG	b4076	nrfG // yjcN // aidC // b4076 // ECK4069
+nsrR	b4178	nsrR // yjeB // b4178 // ECK4174
+nth	b1633	nth // b1633 // ECK1629
+nudB	b1865	nudB // yebD // ntpA // b1865 // ECK1866
+nudC	b3996	nudC // yjaD // b3996 // ECK3988
+nudE	b3397	nudE // yrfE // b3397 // ECK3384
+nudF	b3034	nudF // trgB // aspP // yqiE // b3034 // ECK3025
+nudG	b1759	nudG // ynjG // orf135 // b1759 // ECK1757
+nudI	b2251	nudI // yfaO // b2251 // ECK2244
+nudJ	b1134	nudJ // ymfB // b1134 // ECK1120
+nudK	b2467	UNCLASSIFIED
+nudL	b1813	nudL // yeaB // b1813 // ECK1811
+nuoA	b2288	nuoA // b2288 // ECK2282
+nuoB	b2287	nuoB // b2287 // ECK2281
+nuoC	b2286	nuoC // nuoD // b2286 // ECK2280
+nuoE	b2285	nuoE // b2285 // ECK2279
+nuoF	b2284	nuoF // b2284 // ECK2278
+nuoG	b2283	nuoG // b2283 // ECK2277
+nuoH	b2282	nuoH // b2282 // ECK2276
+nuoI	b2281	nuoI // b2281 // ECK2275
+nuoJ	b2280	nuoJ // b2280 // ECK2274
+nuoK	b2279	nuoK // b2279 // ECK2273
+nuoL	b2278	nuoL // b2278 // ECK2272
+nuoM	b2277	nuoM // nuoA // b2277 // ECK2271
+nuoN	b2276	nuoN // b2276 // ECK2270
+nupC	b2393	nupC // cru // b2393 // ECK2388
+nupG	b2964	nupG // gru // b2964 // ECK2959
+nupX	b2161	nupX // yeiJ // b2161 // ECK2154
+nusA	b3169	nusA // b3169 // ECK3158
+nusB	b0416	nusB // groNB // ssaD // ssyB // b0416 // ECK0410
+nusG	b3982	nusG // b3982 // ECK3973
+obgE	b3183	obgE // yhbZ // cgtA // obg // b3183 // ECK3172
+och5		UNCLASSIFIED
+ogrK	b2082	ogrK // b2082 // ECK2079
+ogt	b1335	ogt // b1335 // ECK1331
+ohsC	b4608	ohsC // ryfC // b4608 // ECK4417
+ompA	b0957	ompA // con // tolG // tut // b0957 // ECK0948
+ompC	b2215	ompC // meoA // par // b2215 // ECK2207
+ompF	b0929	ompF // nfxB // tolF // cmlB // cry // b0929 // ECK0920
+ompG	b1319	ompG // b1319 // ECK1315
+ompL	b3875	ompL // yshA // b3875 // ECK3868
+ompN	b1377	ompN // ynaG // b1377 // ECK1372
+ompR	b3405	ompR // cry // kmt // ompB // b3405 // ECK3392
+ompT	b0565	ompT // b0565 // ECK0557
+ompW	b1256	ompW // yciD // b1256 // ECK1250
+ompX	b0814	ompX // ybiG // ompP // b0814 // ECK0803
+omrA	b4444	omrA // psrA12 // rygA // PAIR2a // t59 // sraE // b4444 // ECK2833
+omrB	b4445	omrB // PAIR2b // t59 // rygB // b4445 // ECK2834
+opgB	b4359	opgB // yjjO // mdoB // b4359 // ECK4349
+opgC	b1047	opgC // ymdD // mdoC // b1047 // ECK1033
+opgD	b1424	UNCLASSIFIED
+opgE	b0815	opgE // ybiP // b0815 // ECK0804
+opgG	b1048	opgG // mdoA // mdoG // b1048 // ECK1034
+opgH	b1049	opgH // mdoA // mdoH // b1049 // ECK1035
+oppA	b1243	oppA // b1243 // ECK1237
+oppB	b1244	oppB // b1244 // ECK1238
+oppC	b1245	oppC // b1245 // ECK1239
+oppD	b1246	oppD // b1246 // ECK1240
+oppF	b1247	oppF // b1247 // ECK1241
+orn	b4162	orn // yjeR // b4162 // ECK4158
+ortT	b1445	ortT // ydcX // b1445 // ECK1439
+orzP		UNCLASSIFIED
+osmB	b1283	osmB // b1283 // ECK1278
+osmC	b1482	osmC // b1482 // ECK1476
+osmE	b1739	osmE // anr // b1739 // ECK1737
+osmF	b2131	osmF // yehZ // b2131 // ECK2124
+osmY	b4376	osmY // csi-5 // b4376 // ECK4367
+otsA	b1896	otsA // b1896 // ECK1895
+otsB	b1897	otsB // otsP // b1897 // ECK1896
+oweE	b4692	oweE // b4692 // ECK4507
+oxc	b2373	UNCLASSIFIED
+oxyR	b3961	oxyR // momR // mor // b3961 // ECK3953
+oxyS	b4458	oxyS // b4458 // ECK3952
+paaA	b1388	paaA // ydbO // b1388 // ECK1385
+paaB	b1389	paaB // ynbF // b1389 // ECK1386
+paaC	b1390	paaC // ydbP // b1390 // ECK1387
+paaD	b1391	paaD // ydbQ // b1391 // ECK1388
+paaE	b1392	paaE // ydbR // b1392 // ECK1389
+paaF	b1393	paaF // ydbR // ydbS // b1393 // ECK1390
+paaG	b1394	paaG // ydbT // b1394 // ECK1391
+paaH	b1395	paaH // hbdH // ydbU // b1395 // ECK1392
+paaI	b1396	paaI // ydbV // b1396 // ECK1393
+paaJ	b1397	paaJ // ydbW // b1397 // ECK1394
+paaK	b1398	paaK // b1398 // ECK1395
+paaX	b1399	paaX // ydbY // b1399 // ECK1396
+paaY	b1400	paaY // ydbZ // b1400 // ECK1397
+paaZ	b1387	paaZ // ydbN // maoC // b1387 // ECK1384
+pabA	b3360	pabA // b3360 // ECK3348
+pabB	b1812	pabB // b1812 // ECK1810
+pabC	b1096	pabC // b1096 // ECK1082
+paeA	b4218	paeA // ytfL // b4218 // ECK4214
+pagP	b0622	pagP // ybeG // crcA // b0622 // ECK0615
+pal	b0741	pal // excC // b0741 // ECK0730
+panB	b0134	panB // b0134 // ECK0133
+panC	b0133	panC // b0133 // ECK0132
+panD	b0131	panD // b0131 // ECK0130
+panE	b0425	panE // apbA // b0425 // ECK0419
+panF	b3258	panF // b3258 // ECK3245
+panZ	b3459	panZ // livL // panM // yhhK // b3459 // ECK3443
+paoA	b0286	paoA // yagT // b0286 // ECK0285
+paoB	b0285	paoB // yagS // b0285 // ECK0284
+paoC	b0284	paoC // yagR // b0284 // ECK0283
+paoD	b0283	paoD // yagQ // b0283 // ECK0282
+parC	b3019	parC // b3019 // ECK3010
+parE	b3030	parE // nfxD // b3030 // ECK3021
+patA	b3073	patA // oat // pat // ygjG // b3073 // ECK3063
+patD	b1444	patD // prr // ydcW // b1444 // ECK1438
+patZ	b2584	patZ // yfiQ // pka // b2584 // ECK2582
+pawZ	b4643	pawZ // b4643 // ECK4464
+pbl	b2854	pbl // ygeJ // b2854 // ECK2852
+pbpC	b2519	pbpC // yfgN // b2519 // ECK2515
+pbpG	b2134	pbpG // yohB // b2134 // ECK2127
+pck	b3403	pck // pckA // b3403 // ECK3390
+pcm	b2743	pcm // b2743 // ECK2738
+pcnB	b0143	pcnB // b0143 // ECK0142
+pdeA	b2395	pdeA // yfeA // b2395 // ECK2389
+pdeB	b0457	UNCLASSIFIED
+pdeC	b4061	UNCLASSIFIED
+pdeD	b1815	UNCLASSIFIED
+pdeF	b2503	pdeF // yfgF // b2503 // ECK2499
+pdeG	b1168	UNCLASSIFIED
+pdeH	b3525	pdeH // yhjH // b3525 // ECK3510
+pdeI	b0833	UNCLASSIFIED
+pdeK	b3529	pdeK // yhjK // b3529 // ECK3514
+pdeL	b0315	pdeL // yahA // b0315 // ECK0313
+pdeN	b2176	UNCLASSIFIED
+pdeR	b1285	pdeR // yciR // gmr // b1285 // ECK1280
+pdhR	b0113	pdhR // aceC // genA // yacB // b0113 // ECK0112
+pdxA	b0052	pdxA // b0052 // ECK0053
+pdxB	b2320	pdxB // usg-2 // b2320 // ECK2314
+pdxH	b1638	pdxH // b1638 // ECK1634
+pdxI	b1406	pdxI // ydbC // b1406 // ECK1399
+pdxJ	b2564	pdxJ // b2564 // ECK2562
+pdxK	b2418	pdxK // yfeI // pdxL // b2418 // ECK2413
+pdxY	b1636	pdxY // ydgS // b1636 // ECK1632
+peaD	b4508	peaD // ybcD // b4508 // ECK0532
+pepA	b4260	pepA // carP // xerB // b4260 // ECK4253
+pepB	b2523	pepB // yfhI // b2523 // ECK2520
+pepD	b0237	pepD // pepH // b0237 // ECK0238
+pepE	b4021	pepE // b4021 // ECK4013
+pepN	b0932	pepN // b0932 // ECK0923
+pepP	b2908	pepP // b2908 // ECK2903
+pepQ	b3847	pepQ // b3847 // ECK3839
+pepT	b1127	pepT // b1127 // ECK1113
+perR	b0254	perR // b0254 // ECK0256
+pfkA	b3916	pfkA // b3916 // ECK3908
+pfkB	b1723	pfkB // b1723 // ECK1721
+pflA	b0902	pflA // act // b0902 // ECK0893
+pflB	b0903	pflB // pfl // b0903 // ECK0894
+pflC	b3952	pflC // yijM // b3952 // ECK3943
+pflD	b3951	pflD // yijL // b3951 // ECK3942
+pgaA	b1024	pgaA // hmsH // ycdS // b1024 // ECK1014
+pgaB	b1023	pgaB // hmsF // ycdR // b1023 // ECK1013
+pgaC	b1022	pgaC // hmsR // ycdQ // b1022 // ECK1012
+pgaD	b1021	pgaD // hmsS // ycdP // b1021 // ECK1011
+pgi	b4025	pgi // b4025 // ECK4017
+pgk	b2926	pgk // b2926 // ECK2922
+pgl	b0767	pgl // ybhE // b0767 // ECK0756
+pgm	b0688	pgm // blu // b0688 // ECK0676
+pgpA	b0418	pgpA // yajN // b0418 // ECK0412
+pgpB	b1278	pgpB // b1278 // ECK1273
+pgpC	b2560	pgpC // yfhB // b2560 // ECK2558
+pgrR	b1328	pgrR // ycjZ // b1328 // ECK1325
+pgsA	b1912	pgsA // b1912 // ECK1911
+pheA	b2599	pheA // b2599 // ECK2596
+pheL	b2598	pheL // pheAE // b2598 // ECK2595
+pheM	b1715	pheM // phtL // b1715 // ECK1713
+pheP	b0576	pheP // b0576 // ECK0568
+pheS	b1714	pheS // phe-act // b1714 // ECK1712
+pheT	b1713	pheT // b1713 // ECK1711
+pheU	b4134	pheU // pheR // pheW // b4134 // ECK4128
+pheV	b2967	pheV // pheC // b2967 // ECK2962
+phnC	b4106	phnC // b4106 // ECK4099
+phnD	b4105	phnD // phn // psiD // b4105 // ECK4098
+phnE1	b4583	phnE1 // ECK4097 // b4103 // b4104 // b4583 // ECK4096
+phnF	b4102	phnF // b4102 // ECK4095
+phnG	b4101	phnG // b4101 // ECK4094
+phnH	b4100	phnH // b4100 // ECK4093
+phnI	b4099	phnI // b4099 // ECK4092
+phnJ	b4098	phnJ // b4098 // ECK4091
+phnK	b4097	phnK // b4097 // ECK4090
+phnL	b4096	phnL // b4096 // ECK4089
+phnM	b4095	phnM // b4095 // ECK4088
+phnN	b4094	phnN // b4094 // ECK4087
+phnO	b4093	phnO // b4093 // ECK4086
+phnP	b4092	phnP // b4092 // ECK4085
+phoA	b0383	phoA // psiA // b0383 // ECK0378
+phoB	b0399	phoB // phoRc // phoT // b0399 // ECK0393
+phoE	b0241	phoE // ompE // b0241 // ECK0242
+phoH	b1020	phoH // psiH // b1020 // ECK1010
+phoP	b1130	phoP // b1130 // ECK1116
+phoQ	b1129	phoQ // b1129 // ECK1115
+phoR	b0400	phoR // R1pho // phoR1 // nmpB // b0400 // ECK0394
+phoU	b3724	phoU // phoT // pst // b3724 // ECK3717
+php	b3379	UNCLASSIFIED
+phr	b0708	phr // phrB // b0708 // ECK0697
+pinE	b1158	pinE // pin // b1158 // ECK1144
+pinH	b2648	pinH // ypjG // b2648 // ECK2645
+pinQ	b1545	pinQ // ydfL // b1545 // ECK1538
+pinR	b1374	pinR // ynaD // b1374 // ECK1369
+pitA	b3493	pitA // pit // b3493 // ECK3478
+pitB	b2987	pitB // b2987 // ECK2981
+plaP	b2014	plaP // yeeF // b2014 // ECK2008
+plaR	b3574	plaR // yiaJ // b3574 // ECK3563
+pldA	b3821	pldA // b3821 // ECK3815
+pldB	b3825	pldB // b3825 // ECK3819
+pliG	b1178	pliG // ycgK // b1178 // ECK1166
+plsB	b4041	plsB // b4041 // ECK4033
+plsC	b3018	plsC // parF // b3018 // ECK3009
+plsX	b1090	plsX // b1090 // ECK1076
+plsY	b3059	plsY // ygiH // b3059 // ECK3049
+pmrD	b2259	pmrD // b2259 // ECK2253
+pmrR	b4703	UNCLASSIFIED
+pncA	b1768	pncA // nam // ydjB // b1768 // ECK1766
+pncB	b0931	pncB // b0931 // ECK0922
+pncC	b2700	pncC // ygaD // b2700 // ECK2695
+pnp	b3164	pnp // bfl // b3164 // ECK3152
+pntA	b1603	pntA // b1603 // ECK1598
+pntB	b1602	pntB // b1602 // ECK1597
+pnuC	b0751	pnuC // b0751 // ECK0740
+polA	b3863	polA // resA // b3863 // ECK3855
+polB	b0060	polB // dinA // b0060 // ECK0061
+potA	b1126	potA // b1126 // ECK1112
+potB	b1125	potB // b1125 // ECK1111
+potC	b1124	potC // b1124 // ECK1110
+potD	b1123	potD // b1123 // ECK1109
+potE	b0692	potE // b0692 // ECK0680
+potF	b0854	potF // b0854 // ECK0845
+potG	b0855	potG // b0855 // ECK0846
+potH	b0856	potH // b0856 // ECK0847
+potI	b0857	potI // b0857 // ECK0848
+poxB	b0871	poxB // b0871 // ECK0862
+ppa	b4226	ppa // b4226 // ECK4222
+ppc	b3956	ppc // asp // glu // b3956 // ECK3947
+ppdA	b2826	ppdA // b2826 // ECK2822
+ppdB	b2825	ppdB // ygdC // b2825 // ECK2821
+ppdC	b2823	ppdC // ygdA // b2823 // ECK2819
+ppdD	b0108	ppdD // b0108 // ECK0107
+pphA	b1838	pphA // yebX // prpA // b1838 // ECK1837
+pphB	b2734	pphB // ygbH // prpB // b2734 // ECK2729
+pphC	b2072	pphC // yegK // b2072 // ECK2066
+ppiA	b3363	ppiA // rot // rotA // b3363 // ECK3351
+ppiB	b0525	ppiB // b0525 // ECK0518
+ppiC	b3775	ppiC // parvA // b3775 // ECK3767
+ppiD	b0441	ppiD // ybaU // b0441 // ECK0435
+ppk	b2501	ppk // b2501 // ECK2497
+ppnN	b2795	ppnN // ygdH // b2795 // ECK2790
+ppnP	b0391	UNCLASSIFIED
+pppA	b2972	pppA // yghH // b2972 // ECK2967
+ppsA	b1702	ppsA // pps // b1702 // ECK1700
+ppsR	b1703	ppsR // ydiA // b1703 // ECK1701
+pptA	b1461	pptA // ydcE // b1461 // ECK1455
+ppx	b2502	ppx // b2502 // ECK2498
+pqiA	b0950	pqiA // pqi5 // pqi5A // b0950 // ECK0941
+pqiB	b0951	pqiB // pqi5 // pqi5B // b0951 // ECK0942
+pqiC	b0952	pqiC // ymbA // b0952 // ECK0943
+pqqL	b1494	UNCLASSIFIED
+pqqU	b1451	pqqU // yncD // b1451 // ECK1445
+prc	b1830	prc // tsp // b1830 // ECK1829
+preA	b2147	preA // yeiA // b2147 // ECK2140
+preT	b2146	preT // yeiT // b2146 // ECK2139
+prfA	b1211	prfA // ups? // sueB // uar // b1211 // ECK1199
+prfB	b2891	prfB // supK // b2891 // ECK2886
+prfC	b4375	prfC // miaD // tos // b4375 // ECK4366
+prfH	b0236	prfH // b0236 // ECK0237
+priA	b3935	priA // srgA // b3935 // ECK3927
+priB	b4201	priB // b4201 // ECK4197
+priC	b0467	priC // b0467 // ECK0461
+prkB	b3355	UNCLASSIFIED
+prlC	b3498	prlC // opdA // b3498 // ECK3483
+prlF	b3129	prlF // sohA // prlFA // b3129 // ECK3117
+prmA	b3259	prmA // yhdI // prm-1 // b3259 // ECK3246
+prmB	b2330	prmB // yfcB // b2330 // ECK2324
+prmC	b1212	prmC // hemK // b1212 // ECK1200
+proA	b0243	proA // pro(1) // pro1 // b0243 // ECK0244
+proB	b0242	proB // pro(2) // pro2 // b0242 // ECK0243
+proC	b0386	proC // pro(3) // Pro2 // pro3 // b0386 // ECK0381
+proK	b3545	proK // proV // b3545 // ECK3532
+proL	b2189	proL // proW // b2189 // ECK2183
+proM	b3799	proM // proU // b3799 // ECK3792
+proP	b4111	proP // b4111 // ECK4104
+proQ	b1831	proQ // yoeC // yobE // yebJ // b1831 // ECK1830
+proS	b0194	proS // drp // drpA // b0194 // ECK0194
+proV	b2677	proV // osrA // proU // b2677 // ECK2671
+proW	b2678	proW // osrA // proU // b2678 // ECK2672
+proX	b2679	proX // osrA // proU // b2679 // ECK2673
+proY	b0402	proY // yajM // b0402 // ECK0396
+prpB	b0331	prpB // yahQ // b0331 // ECK0329
+prpC	b0333	prpC // yzzD // yahS // b0333 // ECK0330
+prpD	b0334	prpD // yahT // acnC // b0334 // ECK0331
+prpE	b0335	prpE // yahU // b0335 // ECK0332
+prpR	b0330	prpR // yahP // b0330 // ECK0328
+prs	b1207	prs // dnaR // prsA // b1207 // ECK1195
+psaA	b4645	psaA // b4645 // ECK4465
+psd	b4160	psd // b4160 // ECK4156
+psiE	b4030	psiE // yjbA // b4030 // ECK4022
+psiF	b0384	psiF // b0384 // ECK0379
+pspA	b1304	pspA // cog // b1304 // ECK1299
+pspB	b1305	pspB // b1305 // ECK1300
+pspC	b1306	pspC // b1306 // ECK1301
+pspD	b1307	pspD // b1307 // ECK1302
+pspE	b1308	UNCLASSIFIED
+pspF	b1303	pspF // ycjB // b1303 // ECK1298
+pspG	b4050	pspG // yjbO // b4050 // ECK4042
+pspH	b4758	pspH // b4758 // ECK4615
+pssA	b2585	pssA // pss // b2585 // ECK2583
+pssL	b4782	pssL // b4782 // ECK4639
+pstA	b3726	pstA // R2pho // phoR2 // phoR2b // phoT // b3726 // ECK3719
+pstB	b3725	pstB // phoT // b3725 // ECK3718
+pstC	b3727	pstC // phoW // b3727 // ECK3720
+pstS	b3728	pstS // R2pho // T // nmpA // phoR2a // phoS // b3728 // ECK3721
+psuG	b2165	psuG // yeiN // pscG // b2165 // ECK2158
+psuK	b2166	psuK // yeiC // pscK // b2166 // ECK2159
+psuT	b2164	psuT // pscT // yeiM // b2164 // ECK2157
+pta	b2297	pta // b2297 // ECK2291
+pth	b1204	pth // rap // b1204 // ECK1192
+ptrA	b2821	ptrA // ptr // b2821 // ECK2817
+ptrB	b1845	ptrB // tlp // b1845 // ECK1846
+ptrR	b1526	ptrR // yneJ // b1526 // ECK1519
+ptsA	b3947	ptsA // yijH // frwA // pt1A // b3947 // ECK3939
+ptsG	b1101	ptsG // umgC // umg // tgl // Cr // car // cat // catB2 // glcA // gptA // b1101 // ECK1087
+ptsH	b2415	ptsH // ctr // hpr // b2415 // ECK2410
+ptsI	b2416	ptsI // ctr // b2416 // ECK2411
+ptsN	b3204	ptsN // yhbI // rpoP // b3204 // ECK3193
+ptsP	b2829	ptsP // ygdO // ygdF // b2829 // ECK2825
+punC	b1660	punC // ydhC // b1660 // ECK1656
+punR	b1659	punR // ydhB // b1659 // ECK1655
+purA	b4177	purA // adeK // b4177 // ECK4173
+purB	b1131	purB // ade(h) // ade // b1131 // ECK1117
+purC	b2476	purC // ade(g) // ade // b2476 // ECK2472
+purD	b4005	purD // adth(a) // adth // b4005 // ECK3997
+purE	b0523	purE // ade(f) // Pur2 // ade3 // ade // b0523 // ECK0516
+purF	b2312	purF // ade // purC // b2312 // ECK2306
+purH	b4006	purH // b4006 // ECK3998
+purK	b0522	purK // purE2 // b0522 // ECK0515
+purL	b2557	purL // purI // b2557 // ECK2555
+purM	b2499	purM // purG // purI // b2499 // ECK2495
+purN	b2500	purN // ade(c) // ade // b2500 // ECK2496
+purR	b1658	purR // b1658 // ECK1654
+purT	b1849	purT // b1849 // ECK1850
+purU	b1232	purU // ychI // tgs // b1232 // ECK1227
+putA	b1014	putA // putC // poaA // b1014 // ECK1005
+putP	b1015	putP // putC // b1015 // ECK1006
+puuA	b1297	puuA // ycjK // b1297 // ECK1292
+puuB	b1301	puuB // ycjA // ordL // b1301 // ECK1296
+puuC	b1300	puuC // aldH // b1300 // ECK1295
+puuD	b1298	puuD // ycjL // b1298 // ECK1293
+puuE	b1302	puuE // goaG // b1302 // ECK1297
+puuP	b1296	puuP // ycjJ // b1296 // ECK1291
+puuR	b1299	puuR // ycjC // b1299 // ECK1294
+pxpA	b0713	pxpA // ybgL // b0713 // ECK0702
+pxpB	b0711	pxpB // ybgJ // b0711 // ECK0700
+pxpC	b0712	pxpC // ybgK // b0712 // ECK0701
+pykA	b1854	pykA // b1854 // ECK1855
+pykF	b1676	pykF // b1676 // ECK1672
+pyrB	b4245	pyrB // b4245 // ECK4240
+pyrC	b1062	pyrC // b1062 // ECK1047
+pyrD	b0945	pyrD // b0945 // ECK0936
+pyrE	b3642	pyrE // b3642 // ECK3632
+pyrF	b1281	pyrF // b1281 // ECK1276
+pyrG	b2780	pyrG // b2780 // ECK2774
+pyrH	b0171	pyrH // umk // smbA // b0171 // ECK0170
+pyrI	b4244	pyrI // b4244 // ECK4239
+pyrL	b4246	pyrL // pyrE- // pyrE-LP // b4246 // ECK4241
+pyrR	b2381	pyrR // ypdB // b2381 // ECK2377
+pyrS	b2380	pyrS // ypdA // b2380 // ECK2376
+qmcA	b0489	qmcA // ybbK // b0489 // ECK0483
+qorA	b4051	qorA // hzc // hcz // qor // b4051 // ECK4043
+qorB	b4211	qorB // ytfG // b4211 // ECK4207
+qseB	b3025	qseB // ygiX // b3025 // ECK3016
+qseC	b3026	qseC // ygiY // b3026 // ECK3017
+qseG	b2555	UNCLASSIFIED
+queA	b0405	queA // tsaA // b0405 // ECK0399
+queC	b0444	queC // ybaX // b0444 // ECK0438
+queD	b2765	queD // ygcM // sscR // b2765 // ECK2760
+queE	b2777	UNCLASSIFIED
+queF	b2794	queF // yqcD // b2794 // ECK2789
+queG	b4166	queG // yjeS // b4166 // ECK4162
+quuD	b0551	quuD // ybcQ // b0551 // ECK0543
+racC	b1351	racC // sbcA // b1351 // ECK1348
+racR	b1356	racR // rarC // ydaR // b1356 // ECK1354
+radA	b4389	radA // sms // b4389 // ECK4381
+radD	b2184	radD // yejJ // yejI // yejH // b2184 // ECK2178
+raiA	b2597	raiA // urf1 // yfiA // pY // b2597 // ECK2594
+raiZ	b4805	UNCLASSIFIED
+ralA	b4714	ralA // b4714 // ECK4571
+ralR	b1348	ralR // ydaB // lar // b1348 // ECK1345
+rapA	b0059	rapA // yabA // hepA // b0059 // ECK0060
+rapZ	b3205	rapZ // yhbJ // b3205 // ECK3194
+rarA	b0892	rarA // ycaJ // mgsA // b0892 // ECK0883
+rarD	b3819	rarD // yigH // b3819 // ECK3813
+ratA	b2619	ratA // yfjG // b2619 // ECK2615
+ravA	b3746	ravA // yieN // b3746 // ECK3740
+rayT	b0228	rayT // yafM // b0228 // ECK0229
+rbbA	b3486	rbbA // yhiG // yhiH // b3486 // ECK3471
+rbfA	b3167	rbfA // sdr-43 // yhbB // b3167 // ECK3156
+rbn	b2268	rbn // zipD // ecoZ // rnz // elaC // b2268 // ECK2262
+rbsA	b3749	rbsA // rbsT // rbsP // b3749 // ECK3743
+rbsB	b3751	rbsB // prlB // rbsP // b3751 // ECK3745
+rbsC	b3750	rbsC // rbsP // rbsT // b3750 // ECK3744
+rbsD	b3748	rbsD // rbsP // b3748 // ECK3742
+rbsK	b3752	rbsK // b3752 // ECK3746
+rbsR	b3753	rbsR // b3753 // ECK3747
+rbsZ	b4804	rbsZ // b4804 // ECK4661
+rcbA	b1347	rcbA // ydaC // b1347 // ECK1344
+rcdA	b0846	rcdA // ybjK // b0846 // ECK0836
+rcdB	b3521	rcdB // yhjC // b3521 // ECK3506
+rclA	b0304	rclA // ykgC // b0304 // ECK0303
+rclB	b0303	rclB // ykgI // b0303 // ECK0302
+rclC	b0301	rclC // ykgB // b0301 // ECK0301
+rclR	b0305	rclR // ykgD // b0305 // ECK0304
+rcnA	b2106	rcnA // yohM // b2106 // ECK2099
+rcnB	b2107	rcnB // yohN // b2107 // ECK2100
+rcnR	b2105	rcnR // yohL // b2105 // ECK2098
+rcsA	b1951	rcsA // cpsR // b1951 // ECK1949
+rcsB	b2217	rcsB // b2217 // ECK2210
+rcsC	b2218	rcsC // b2218 // ECK2211
+rcsD	b2216	rcsD // yojP // yojQ // yojN // b2216 // ECK2209
+rcsF	b0196	rcsF // b0196 // ECK0196
+rdcA	b4109	rdcA // yjdA // crfC // b4109 // ECK4102
+rdcB	b4110	rdcB // yjcZ // b4110 // ECK4103
+rdgB	b2954	rdgB // yggV // b2954 // ECK2949
+rdgC	b0393	rdgC // yaiD // b0393 // ECK0388
+rdlA	b4420	rdlA // b4420 // ECK1205
+rdlB	b4422	rdlB // b4422 // ECK1207
+rdlC	b4424	rdlC // b4424 // ECK1209
+rdlD	b4454	rdlD // b4454 // ECK3525
+recA	b2699	recA // zab // umuB // tif // lexB // recH // rnmB // srf // b2699 // ECK2694
+recB	b2820	recB // ior // rorA // b2820 // ECK2816
+recC	b2822	recC // b2822 // ECK2818
+recD	b2819	recD // hopE // b2819 // ECK2815
+recE	b1350	recE // rmuB // rac // sbcA // b1350 // ECK1347
+recF	b3700	recF // uvrF // b3700 // ECK3692
+recG	b3652	recG // radC // spoV // b3652 // ECK3642
+recJ	b2892	recJ // b2892 // ECK2887
+recN	b2616	recN // radB // b2616 // ECK2612
+recO	b2565	recO // b2565 // ECK2563
+recQ	b3822	recQ // b3822 // ECK3816
+recR	b0472	recR // b0472 // ECK0466
+recT	b1349	recT // b1349 // ECK1346
+recX	b2698	recX // oraA // b2698 // ECK2693
+relA	b2784	relA // RC // b2784 // ECK2778
+relB	b1564	relB // RC // b1564 // ECK1558
+relE	b1563	relE // b1563 // ECK1557
+rem	b1561	rem // b1561 // ECK1555
+renD	b0542	renD // ybcE // b0542 // ECK0533
+rep	b3778	rep // dasC // mbrA // mmrA // b3778 // ECK3770
+rfaD	b3619	rfaD // waaD // hldD // htrM // nbsB // b3619 // ECK3609
+rfaH	b3842	rfaH // hlyT // sfrB // b3842 // ECK3834
+rfbA	b2039	rfbA // rmlA // som // b2039 // ECK2033
+rfbB	b2041	rfbB // som // rmlB // b2041 // ECK2035
+rfbC	b2038	rfbC // rfbD // rmlC // b2038 // ECK2032
+rfbD	b2040	rfbD // rmlD // b2040 // ECK2034
+rfbX	b2037	rfbX // wzx // wzxB // b2037 // ECK2031
+rfe	b3784	rfe // wecA // b3784 // ECK3776
+rffC	b3790	rffC // rff // wecD // yifH // b3790 // ECK3782
+rffG	b3788	rffG // rff // b3788 // ECK3780
+rffH	b3789	rffH // yifG // b3789 // ECK3781
+rffM	b3794	rffM // rff // wecG // b3794 // ECK3787
+rflP	b1707	rflP // ydiV // b1707 // ECK1705
+rhaA	b3903	rhaA // b3903 // ECK3896
+rhaB	b3904	rhaB // b3904 // ECK3897
+rhaD	b3902	rhaD // b3902 // ECK3895
+rhaM	b3901	rhaM // yiiL // b3901 // ECK3894
+rhaR	b3906	rhaR // rhaC1 // b3906 // ECK3899
+rhaS	b3905	rhaS // rhaC2 // b3905 // ECK3898
+rhaT	b3907	rhaT // b3907 // ECK3900
+rhlB	b3780	rhlB // mmrA // b3780 // ECK3772
+rhlE	b0797	rhlE // b0797 // ECK0786
+rhmD	b2247	rhmD // yfaW // b2247 // ECK2240
+rho	b3783	rho // nusD // sun // tsu // rnsC // nitA // psu // psuA // sbaA // b3783 // ECK3775
+rhoL	b3782	rhoL // b3782 // ECK3774
+rhsA	b3593	UNCLASSIFIED
+rhsB	b3482	UNCLASSIFIED
+rhsC	b0700	rhsC // b0700 // ECK0689
+rhsD	b0497	UNCLASSIFIED
+rhsE	b1456	rhsE // b1456 // ECK1450
+rhtA	b0813	rhtA // ybiF // b0813 // ECK0802
+rhtB	b3824	rhtB // yigK // b3824 // ECK3818
+rhtC	b3823	rhtC // yigJ // b3823 // ECK3817
+ribA	b1277	ribA // b1277 // ECK1272
+ribB	b3041	ribB // luxH // htrP // luxH-l // b3041 // ECK3032
+ribC	b1662	ribC // ribE // b1662 // ECK1658
+ribD	b0414	ribD // nusII // ribG // ybaE // b0414 // ECK0408
+ribE	b0415	ribE // nusIII // ribH // ybaF // b0415 // ECK0409
+ribF	b0025	ribF // yaaC // b0025 // ECK0026
+ridA	b4243	ridA // yjgF // b4243 // ECK4238
+rihA	b0651	rihA // ybeK // b0651 // ECK0644
+rihB	b2162	rihB // yeiK // b2162 // ECK2155
+rihC	b0030	rihC // yaaF // b0030 // ECK0031
+rimI	b4373	rimI // b4373 // ECK4364
+rimJ	b1066	rimJ // tcp // b1066 // ECK1051
+rimK	b0852	rimK // nek // b0852 // ECK0843
+rimL	b1427	rimL // b1427 // ECK1420
+rimM	b2608	rimM // yfjA // b2608 // ECK2605
+rimO	b0835	rimO // yliG // b0835 // ECK0825
+rimP	b3170	rimP // yhbC // b3170 // ECK3159
+rirA	b4760	rirA // b4760 // ECK4617
+rlhA	b1435	rlhA // ydcP // b1435 // ECK1429
+rlmA	b1822	rlmA // rrmA // yebH // b1822 // ECK1820
+rlmB	b4180	rlmB // yjfH // b4180 // ECK4176
+rlmC	b0859	rlmC // ybjF // rumB // b0859 // ECK0850
+rlmD	b2785	rlmD // ygcA // rumA // b2785 // ECK2779
+rlmE	b3179	rlmE // ftsJ // mrsF // rrmJ // b3179 // ECK3168
+rlmF	b0807	rlmF // ybiN // b0807 // ECK0796
+rlmG	b3084	rlmG // ygjO // b3084 // ECK3074
+rlmH	b0636	rlmH // ybeA // b0636 // ECK0629
+rlmI	b0967	rlmI // yccW // b0967 // ECK0958
+rlmJ	b3499	rlmJ // yhiR // b3499 // ECK3484
+rlmL	b0948	rlmL // ycbY // rlmK // rlmKL // b0948 // ECK0939
+rlmM	b2806	rlmM // ygdE // b2806 // ECK2801
+rlmN	b2517	rlmN // yfgB // b2517 // ECK2513
+rlpA	b0633	UNCLASSIFIED
+rluA	b0058	rluA // yabO // b0058 // ECK0059
+rluB	b1269	rluB // yciL // b1269 // ECK1263
+rluC	b1086	rluC // yceC // b1086 // ECK1071
+rluD	b2594	rluD // yfiI // sfhB // b2594 // ECK2592
+rluE	b1135	rluE // ymfC // b1135 // ECK1121
+rluF	b4022	rluF // yjbC // b4022 // ECK4014
+rmf	b0953	rmf // res // rimF // b0953 // ECK0944
+rmuC	b3832	UNCLASSIFIED
+rna	b0611	rna // rnsA // b0611 // ECK0604
+rnb	b1286	rnb // b1286 // ECK1281
+rnc	b2567	rnc // b2567 // ECK2565
+rnd	b1804	rnd // b1804 // ECK1802
+rne	b1084	rne // smbB // ams // hmp1 // b1084 // ECK1069
+rng	b3247	rng // adhR // cafA // yhdF // b3247 // ECK3235
+rnhA	b0214	rnhA // cer // sin // dasF // herA // rnh // sdrA // b0214 // ECK0214
+rnhB	b0183	rnhB // b0183 // ECK0182
+rnk	b0610	rnk // b0610 // ECK0603
+rnlA	b2630	rnlA // yfjN // std // b2630 // ECK2626
+rnlB	b2631	rnlB // yfjO // b2631 // ECK2627
+rnm	b1266	rnm // trpH // yciV // b1266 // ECK1260
+rnpA	b3704	rnpA // b3704 // ECK3696
+rnpB	b3123	rnpB // b3123 // ECK3111
+rnr	b4179	rnr // vacB // yjeC // b4179 // ECK4175
+rnt	b1652	rnt // b1652 // ECK1648
+rob	b4396	rob // cbpB // robA // b4396 // ECK4388
+rodZ	b2516	UNCLASSIFIED
+rof	b0189	rof // yaeO // b0189 // ECK0188
+roxA	b1128	roxA // ycfD // b1128 // ECK1114
+rpe	b3386	rpe // dod // yhfD // b3386 // ECK3373
+rph	b3643	rph // b3643 // ECK3633
+rpiA	b2914	rpiA // ygfC // b2914 // ECK2910
+rpiB	b4090	rpiB // yjcA // alsI // b4090 // ECK4083
+rplA	b3984	rplA // rpy // b3984 // ECK3975
+rplB	b3317	rplB // b3317 // ECK3304
+rplC	b3320	rplC // b3320 // ECK3307
+rplD	b3319	rplD // eryA // b3319 // ECK3306
+rplE	b3308	rplE // b3308 // ECK3295
+rplF	b3305	rplF // b3305 // ECK3292
+rplI	b4203	rplI // b4203 // ECK4199
+rplJ	b3985	rplJ // b3985 // ECK3976
+rplK	b3983	rplK // relC // b3983 // ECK3974
+rplL	b3986	rplL // b3986 // ECK3977
+rplM	b3231	rplM // b3231 // ECK3220
+rplN	b3310	rplN // b3310 // ECK3297
+rplO	b3301	rplO // b3301 // ECK3288
+rplP	b3313	rplP // b3313 // ECK3300
+rplQ	b3294	rplQ // b3294 // ECK3281
+rplR	b3304	rplR // b3304 // ECK3291
+rplS	b2606	rplS // b2606 // ECK2603
+rplT	b1716	rplT // pdzA // b1716 // ECK1714
+rplU	b3186	rplU // b3186 // ECK3175
+rplV	b3315	rplV // eryB // b3315 // ECK3302
+rplW	b3318	rplW // b3318 // ECK3305
+rplX	b3309	rplX // b3309 // ECK3296
+rplY	b2185	rplY // b2185 // ECK2179
+rpmA	b3185	rpmA // rpz // b3185 // ECK3174
+rpmB	b3637	rpmB // b3637 // ECK3627
+rpmC	b3312	rpmC // b3312 // ECK3299
+rpmD	b3302	rpmD // b3302 // ECK3289
+rpmE	b3936	rpmE // b3936 // ECK3928
+rpmF	b1089	rpmF // b1089 // ECK1075
+rpmG	b3636	rpmG // b3636 // ECK3626
+rpmH	b3703	rpmH // rimA // ssaF // b3703 // ECK3695
+rpmI	b1717	rpmI // b1717 // ECK1715
+rpmJ	b3299	rpmJ // secX // b3299 // ECK3286
+rpnA	b3411	rpnA // yhgA // b3411 // ECK3398
+rpnB	b2305	rpnB // yfcI // b2305 // ECK2299
+rpnC	b0132	rpnC // yadD // b0132 // ECK0131
+rpnD	b4584	rpnD // yjiP // b4338 // ECK4330 // yjiQ // b4339 // b4584 // ECK4329
+rpnE	b2244	UNCLASSIFIED
+rpoA	b3295	rpoA // pez // phs // sez // b3295 // ECK3282
+rpoB	b3987	rpoB // sdgB // tabD // stv // stl // ftsR // groN // nitB // rif // ron // b3987 // ECK3978
+rpoC	b3988	rpoC // tabB // b3988 // ECK3979
+rpoD	b3067	rpoD // alt // b3067 // ECK3057
+rpoE	b2573	rpoE // sigE // b2573 // ECK2571
+rpoH	b3461	rpoH // fam // hin // htpR // b3461 // ECK3445
+rpoN	b3202	rpoN // glnF // ntrA // b3202 // ECK3191
+rpoS	b2741	rpoS // sigS // otsX // abrD // appR // csi2 // dpeB // katF // nur // b2741 // ECK2736
+rpoZ	b3649	rpoZ // spoS // b3649 // ECK3639
+rppH	b2830	rppH // ygdP // nudH // b2830 // ECK2826
+rprA	b4431	rprA // psrA5 // IS083 // b4431 // ECK1686
+rpsA	b0911	rpsA // ssyF // b0911 // ECK0902
+rpsB	b0169	rpsB // b0169 // ECK0168
+rpsC	b3314	rpsC // b3314 // ECK3301
+rpsD	b3296	rpsD // ramA // sud(2) // sud2 // b3296 // ECK3283
+rpsE	b3303	rpsE // spc // eps // spcA // b3303 // ECK3290
+rpsF	b4200	rpsF // sdgH // b4200 // ECK4196
+rpsG	b3341	rpsG // b3341 // ECK3328
+rpsH	b3306	rpsH // b3306 // ECK3293
+rpsI	b3230	rpsI // b3230 // ECK3219
+rpsJ	b3321	rpsJ // nusE // b3321 // ECK3308
+rpsK	b3297	rpsK // b3297 // ECK3284
+rpsL	b3342	rpsL // asuB // strA // b3342 // ECK3329
+rpsM	b3298	rpsM // b3298 // ECK3285
+rpsN	b3307	rpsN // b3307 // ECK3294
+rpsO	b3165	rpsO // secC // b3165 // ECK3154
+rpsP	b2609	rpsP // b2609 // ECK2606
+rpsQ	b3311	rpsQ // neaA // b3311 // ECK3298
+rpsR	b4202	rpsR // b4202 // ECK4198
+rpsS	b3316	rpsS // b3316 // ECK3303
+rpsT	b0023	rpsT // supS // sup(s20) // supS20 // b0023 // ECK0024
+rpsU	b3065	rpsU // b3065 // ECK3055
+rraA	b3929	rraA // menG // yiiV // b3929 // ECK3921
+rraB	b4255	rraB // yjgD // b4255 // ECK4248
+rrfA	b3855	rrfA // b3855 // ECK3847
+rrfB	b3971	rrfB // b3971 // ECK3963
+rrfC	b3759	rrfC // b3759 // ECK3753
+rrfD	b3274	rrfD // b3274 // ECK3261
+rrfE	b4010	rrfE // b4010 // ECK4002
+rrfF	b3272	rrfF // rrfDbeta // rrvD // b3272 // ECK3259
+rrfG	b2588	rrfG // b2588 // ECK2586
+rrfH	b0205	rrfH // b0205 // ECK0205
+rrlA	b3854	rrlA // b3854 // ECK3846
+rrlB	b3970	rrlB // b3970 // ECK3962
+rrlC	b3758	rrlC // b3758 // ECK3752
+rrlD	b3275	rrlD // b3275 // ECK3262
+rrlE	b4009	rrlE // b4009 // ECK4001
+rrlG	b2589	rrlG // b2589 // ECK2587
+rrlH	b0204	rrlH // b0204 // ECK0204
+rrrD	b0555	rrrD // lycV // ybcS // b0555 // ECK0546
+rrrQ	b1554	rrrQ // ydfQ // b1554 // ECK1548
+rrsA	b3851	rrsA // b3851 // ECK3843
+rrsB	b3968	rrsB // b3968 // ECK3960
+rrsC	b3756	rrsC // b3756 // ECK3750
+rrsD	b3278	rrsD // b3278 // ECK3265
+rrsE	b4007	rrsE // b4007 // ECK3999
+rrsG	b2591	rrsG // b2591 // ECK2589
+rrsH	b0201	rrsH // b0201 // ECK0201
+rsd	b3995	rsd // yjaE // b3995 // ECK3987
+rseA	b2572	rseA // yfiJ // mclA // b2572 // ECK2570
+rseB	b2571	rseB // b2571 // ECK2569
+rseC	b2570	rseC // b2570 // ECK2568
+rseD	b4725	UNCLASSIFIED
+rseP	b0176	rseP // ecfE // yaeL // b0176 // ECK0175
+rseX	b4603	rseX // IS096 // b4603 // ECK4412
+rsfS	b0637	rsfS // ybeB // rsfA // b0637 // ECK0630
+rsgA	b4161	rsgA // yjeQ // b4161 // ECK4157
+rsmA	b0051	rsmA // ksgA // b0051 // ECK0052
+rsmB	b3289	rsmB // yhdB // rrmB // fmu // fmv // sun // b3289 // ECK3275
+rsmC	b4371	rsmC // yjjT // b4371 // ECK4362
+rsmD	b3465	rsmD // yhhF // b3465 // ECK3449
+rsmE	b2946	rsmE // yggJ // b2946 // ECK2941
+rsmF	b1835	rsmF // yebU // b1835 // ECK1834
+rsmG	b3740	rsmG // gidB // b3740 // ECK3733
+rsmH	b0082	rsmH // yabC // mraW // b0082 // ECK0083
+rsmI	b3146	rsmI // yraL // b3146 // ECK3134
+rsmJ	b3497	rsmJ // yhiQ // b3497 // ECK3482
+rspA	b1581	rspA // b1581 // ECK1576
+rspB	b1580	rspB // b1580 // ECK1575
+rspR	b1540	rspR // ydfH // b1540 // ECK1533
+rssA	b1234	rssA // ychK // b1234 // ECK1229
+rssB	b1235	rssB // ychL // sprE // hnr // b1235 // ECK1230
+rstA	b1608	rstA // urpT // b1608 // ECK1603
+rstB	b1609	rstB // uspT // b1609 // ECK1604
+rsuA	b2183	rsuA // yejD // b2183 // ECK2177
+rsxA	b1627	rsxA // ydgL // b1627 // ECK1623
+rsxB	b1628	rsxB // ydgM // b1628 // ECK1624
+rsxC	b1629	rsxC // ydgN // b1629 // ECK1625
+rsxD	b1630	rsxD // ydgO // b1630 // ECK1626
+rsxE	b1632	rsxE // ydgQ // b1632 // ECK1628
+rsxG	b1631	rsxG // ydgP // b1631 // ECK1627
+rtcA	b4475	rtcA // yhgJ // yhgK // b3420 // b3419 // b4475 // ECK3406
+rtcB	b3421	rtcB // yhgL // b3421 // ECK3407
+rtcR	b3422	rtcR // yhgB // b3422 // ECK3408
+rttR	b4425	UNCLASSIFIED
+rusA	b0550	rusA // ybcP // rus // b0550 // ECK0541
+rutA	b1012	rutA // ycdM // b1012 // ECK1003
+rutB	b1011	rutB // ycdL // b1011 // ECK1002
+rutC	b1010	rutC // ycdK // b1010 // ECK1001
+rutD	b1009	rutD // ycdJ // b1009 // ECK1000
+rutE	b1008	rutE // ycdI // b1008 // ECK0999
+rutF	b1007	rutF // ycdH // b1007 // ECK0998
+rutG	b1006	rutG // ycdG // b1006 // ECK0997
+rutR	b1013	rutR // ycdC // b1013 // ECK1004
+ruvA	b1861	ruvA // b1861 // ECK1862
+ruvB	b1860	ruvB // b1860 // ECK1861
+ruvC	b1863	ruvC // b1863 // ECK1864
+rybA	b4416	rybA // b4416 // ECK0806
+rybB	b4417	rybB // p25 // b4417 // ECK0837
+rydB	b4430	rydB // tpe7 // IS082 // b4430 // ECK1681
+rydC	b4597	rydC // b4597 // ECK4407
+ryeA	b4432	ryeA // sraC // psrA8 // tkpe79 // IS091 // b4432 // ECK1838
+ryeG		UNCLASSIFIED
+ryfA	b4440	ryfA // PAIR3b // tp1 // b4440 // ECK2518
+ryfB	b4607	ryfB // shoB // b4607 // ECK4416
+ryfD	b4609	ryfD // b4609 // ECK4418
+ryhB	b4451	ryhB // psrA18 // IS176 // sraI // b4451 // ECK3426
+ryjA	b4459	ryjA // psrA24 // sraL // b4459 // ECK4056
+ryjB	b4624	ryjB // b4624 // ECK4431
+rzoD	b4510	rzoD // b4510 // ECK0548
+rzoQ	b4689	rzoQ // b4689 // ECK4503
+rzoR	b4528	rzoR // b4528 // ECK1361
+rzpD	b0556	rzpD // ybcT // b0556 // ECK0547
+rzpQ	b1553	rzpQ // ydfP // b1553 // ECK1547
+rzpR	b1362	rzpR // ydaX // b1362 // ECK1360
+sad	b1525	sad // yneI // b1525 // ECK1518
+safA	b1500	safA // yneN // b1500 // ECK4475
+sanA	b2144	sanA // sfiXSt // yeiF // b2144 // ECK2137
+sapA	b1294	sapA // b1294 // ECK1289
+sapB	b1293	sapB // b1293 // ECK1288
+sapC	b1292	sapC // b1292 // ECK1287
+sapD	b1291	sapD // trkE // b1291 // ECK1286
+sapF	b1290	sapF // b1290 // ECK1285
+satP	b0010	satP // yaaH // b0010 // ECK0010
+sbcB	b2011	sbcB // exoI // rmuA // cpeA // xonA // b2011 // ECK2005
+sbcC	b0397	sbcC // b0397 // ECK0391
+sbcD	b0398	sbcD // yajA // b0398 // ECK0392
+sbmA	b0377	sbmA // b0377 // ECK0372
+sbmC	b2009	sbmC // dgi // gyrI // yeeB // b2009 // ECK2003
+sbp	b3917	sbp // b3917 // ECK3909
+scpA	b2917	scpA // yliK // sbm // b2917 // ECK2913
+scpB	b2919	scpB // ygfG // b2919 // ECK2915
+scpC	b2920	scpC // ygfH // b2920 // ECK2916
+sdaA	b1814	sdaA // b1814 // ECK1812
+sdaB	b2797	sdaB // b2797 // ECK2792
+sdaC	b2796	sdaC // dcrA // b2796 // ECK2791
+sdhA	b0723	sdhA // dhsA // b0723 // ECK0712
+sdhB	b0724	sdhB // dhsB // b0724 // ECK0713
+sdhC	b0721	sdhC // cybL // cybA // dhsC // b0721 // ECK0710
+sdhD	b0722	sdhD // cybS // dhsD // b0722 // ECK0711
+sdhE	b2897	sdhE // ygfY // cptB // b2897 // ECK2892
+sdhX	b4764	sdhX // rybD // b4764 // ECK4621
+sdiA	b1916	sdiA // b1916 // ECK1915
+sdsN	b4719	sdsN // b4719 // ECK4576
+sdsR	b4433	sdsR // tkpe79 // ryeB // b4433 // ECK1839
+secA	b0098	secA // azi // pea // prlD // b0098 // ECK0099
+secB	b3609	secB // b3609 // ECK3599
+secD	b0408	secD // b0408 // ECK0402
+secE	b3981	secE // mbrC // prlG // b3981 // ECK3972
+secF	b0409	secF // b0409 // ECK0403
+secG	b3175	secG // prlH // b3175 // ECK3164
+secM	b0097	secM // srrA // yacA // b0097 // ECK0098
+secY	b3300	secY // prlA // b3300 // ECK3287
+selA	b3591	selA // fdhA // b3591 // ECK3580
+selB	b3590	selB // fdhA // b3590 // ECK3579
+selC	b3658	selC // fdhC // b3658 // ECK3648
+selD	b1764	selD // fdhB // b1764 // ECK1762
+selO	b1706	selO // ydiU // b1706 // ECK1704
+selU	b0503	selU // ybbB // mnmH // b0503 // ECK0496
+seqA	b0687	seqA // hsm-1 // b0687 // ECK0675
+serA	b2913	serA // b2913 // ECK2909
+serB	b4388	serB // b4388 // ECK4380
+serC	b0907	serC // pdxC // pdxF // b0907 // ECK0898
+serS	b0893	serS // b0893 // ECK0884
+serT	b0971	serT // divE // b0971 // ECK0962
+serU	b1975	serU // supH // Su-1 // ftsM // su1 // supD // b1975 // ECK1971
+serV	b2695	serV // supD // b2695 // ECK2690
+serW	b0883	serW // b0883 // ECK0874
+serX	b1032	serX // b1032 // ECK1018
+setA	b0070	setA // yabM // b0070 // ECK0072
+setB	b2170	setB // yeiO // b2170 // ECK2163
+setC	b3659	setC // yicK // b3659 // ECK3649
+sfmA	b0530	sfmA // b0530 // ECK0523
+sfmC	b0531	sfmC // b0531 // ECK0524
+sfmD	b0532	UNCLASSIFIED
+sfmF	b0534	sfmF // ybcG // b0534 // ECK0527
+sfmH	b0533	sfmH // b0533 // ECK0526
+sfsA	b0146	sfsA // sfs // sfs1 // b0146 // ECK0145
+sfsB	b3188	sfsB // nlp // sfs7 // b3188 // ECK3177
+sgbE	b3583	sgbE // yiaS // b3583 // ECK3572
+sgbH	b3581	sgbH // yiaQ // b3581 // ECK3570
+sgbU	b3582	sgbU // yiaR // b3582 // ECK3571
+sgcA	b4302	sgcA // yjhL // b4302 // ECK4291
+sgcB	b4565	sgcB // b4565 // ECK4294
+sgcC	b4304	sgcC // yjhN // b4304 // ECK4293
+sgcE	b4301	sgcE // yjhK // b4301 // ECK4290
+sgcQ	b4303	UNCLASSIFIED
+sgcR	b4300	sgcR // yjhJ // b4300 // ECK4289
+sgcX	b4305	sgcX // yjhO // b4305 // ECK4295
+sgrR	b0069	sgrR // yabN // b0069 // ECK0070
+sgrS	b4577	sgrS // ryaA // b4577 // ECK0071
+sgrT	b4662	sgrT // b4662 // ECK4477
+shiA	b1981	shiA // yeeM // b1981 // ECK1976
+shoB	b4687	shoB // yphI // ryfB // b4681 // b4687 // ECK4502
+sibA	b4436	sibA // QUAD1a // tp11 // ryeC // b4436 // ECK2068
+sibB	b4437	sibB // QUAD1b // tpe60 // ryeD // b4437 // ECK2069
+sibC	b4446	sibC // QUAD1c // t27 // rygC // b4446 // ECK2908
+sibD	b4447	sibD // tp8 // C0730 // IS156 // QUAD1d // rygD // b4447 // ECK3041
+sibE	b4611	sibE // QUAD1e // rygE // b4611 // ECK4420
+sieB	b1353	sieB // b1353 // ECK1351
+sixA	b2340	sixA // yfcW // b2340 // ECK2334
+skp	b0178	skp // ompH // hlpA // firA // b0178 // ECK0177
+slmA	b3641	slmA // yicB // ttk // b3641 // ECK3631
+slp	b3506	slp // b3506 // ECK3490
+slt	b4392	slt // sltY // b4392 // ECK4384
+slyA	b1642	slyA // b1642 // ECK1638
+slyB	b1641	UNCLASSIFIED
+slyD	b3349	slyD // b3349 // ECK3336
+slyX	b3348	slyX // b3348 // ECK3335
+smf	b4473	UNCLASSIFIED
+smg	b3284	smg // b3284 // ECK3271
+smpB	b2620	smpB // smqB // b2620 // ECK2616
+smrA	b1340	UNCLASSIFIED
+smrB	b2331	UNCLASSIFIED
+sodA	b3908	sodA // b3908 // ECK3901
+sodB	b1656	sodB // b1656 // ECK1652
+sodC	b1646	sodC // b1646 // ECK1642
+sohB	b1272	sohB // b1272 // ECK1266
+sokA	b4614	sokA // b4614 // ECK4423
+sokB	b4429	sokB // b4429 // ECK1414
+sokC	b4413	sokC // sof // b4413 // ECK0019
+sokE	b4835	UNCLASSIFIED
+sokX	b4701	sokX // b4701 // ECK4514
+solA	b1059	solA // b1059 // ECK1044
+soxR	b4063	soxR // marC // b4063 // ECK4055
+soxS	b4062	soxS // b4062 // ECK4054
+speA	b2938	speA // b2938 // ECK2933
+speB	b2937	speB // b2937 // ECK2932
+speC	b2965	speC // b2965 // ECK2960
+speD	b0120	speD // b0120 // ECK0119
+speE	b0121	speE // b0121 // ECK0120
+speF	b0693	speF // b0693 // ECK0681
+speFL	b4803	speFL // b4803 // ECK4660
+speG	b1584	speG // b1584 // ECK1579
+spf	b3864	spf // b3864 // ECK3856
+spfP	b4837	UNCLASSIFIED
+spoT	b3650	spoT // b3650 // ECK3640
+sppA	b1766	sppA // b1766 // ECK1764
+spy	b1743	spy // b1743 // ECK1741
+sra	b1480	sra // rpsV // b1480 // ECK1474
+sraA		sraA // psrA3 // t15
+sraB	b4418	sraB // psrA4 // pke20 // psrD // b4418 // ECK1073
+sraF	b4448	sraF // psrA14 // tpk1 // IS160 // psrN // b4448 // ECK3078
+sraG	b4449	sraG // psrA15 // p3 // psrO // b4449 // ECK3153
+srkA	b3859	srkA // orfA // yihE // b3859 // ECK3851
+srlA	b2702	srlA // gutA // sbl // srlA-1 // b2702 // ECK2697
+srlB	b2704	srlB // gutB // b2704 // ECK2699
+srlD	b2705	srlD // gutD // b2705 // ECK2700
+srlE	b2703	srlE // sbl // gutA // gutE // srlA // srlA-2 // b2703 // ECK2698
+srlR	b2707	srlR // gutR // b2707 // ECK2702
+srmB	b2576	srmB // rbaB // rhlA // b2576 // ECK2574
+sroA	b4762	sroA // tpe79 // b4762 // ECK4619
+sroC	b4763	sroC // HB_314 // b4763 // ECK4620
+sroD		sroD // p24
+sroE	b4761	sroE // k20 // b4761 // ECK4618
+sroG		sroG // HB_456/7
+sroH	b4691	sroH // b4691 // ECK4505
+srsR	b2921	srsR // ygfI // b2921 // ECK2917
+ssb	b4059	ssb // exrB // lexC // b4059 // ECK4051
+sseA	b2521	sseA // mstA // b2521 // ECK2517
+sseB	b2522	sseB // b2522 // ECK2519
+ssnA	b2879	UNCLASSIFIED
+sspA	b3229	sspA // ssp // pog // b3229 // ECK3218
+sspB	b3228	sspB // b3228 // ECK3217
+ssrA	b2621	ssrA // sipB // b2621 // ECK2617
+ssrS	b2911	ssrS // ssr // b2911 // ECK2906
+sstT	b3089	sstT // ygjU // b3089 // ECK3080
+ssuA	b0936	ssuA // ycbO // b0936 // ECK0927
+ssuB	b0933	ssuB // ycbE // b0933 // ECK0924
+ssuC	b0934	ssuC // ycbM // b0934 // ECK0925
+ssuD	b0935	ssuD // ssi6 // ycbN // b0935 // ECK0926
+ssuE	b0937	ssuE // ssi4 // ycbP // b0937 // ECK0928
+stfE	b1157	stfE // ycfE // b1157 // ECK1143
+stfQ	b1547	stfQ // ydfN // b1547 // ECK1540
+stfR	b1372	stfR // ynaB // b1372 // ECK1367
+stfZ	b4840	stfZ // b4840 // ECK4697
+sthA	b3962	sthA // sth // udhA // b3962 // ECK3954
+stpA	b2669	stpA // hnsB // b2669 // ECK2663
+sucA	b0726	sucA // lys+met // b0726 // ECK0714
+sucB	b0727	sucB // b0727 // ECK0715
+sucC	b0728	sucC // b0728 // ECK0716
+sucD	b0729	sucD // b0729 // ECK0717
+sufA	b1684	sufA // ydiC // b1684 // ECK1680
+sufB	b1683	sufB // ynhE // b1683 // ECK1679
+sufC	b1682	sufC // ynhD // b1682 // ECK1678
+sufD	b1681	sufD // ynhC // b1681 // ECK1677
+sufE	b1679	sufE // ynhA // b1679 // ECK1675
+sufS	b1680	sufS // csdB // ynhB // b1680 // ECK1676
+suhB	b2533	suhB // ssyA // b2533 // ECK2530
+sulA	b0958	sulA // sfiA // suf // b0958 // ECK0949
+surA	b0053	surA // b0053 // ECK0054
+sutR	b1434	sutR // ydcN // b1434 // ECK1428
+sxy	b0959	sxy // yccR // b0959 // ECK0950
+syd	b2793	UNCLASSIFIED
+symE	b4347	symE // yjiW // dinL // sosC // b4347 // ECK4337
+symR	b4625	symR // ryjC // b4625 // ECK4432
+tabA	b4252	tabA // yjgK // b4252 // ECK4245
+tadA	b2559	tadA // yfhC // b2559 // ECK2557
+tag	b3549	tag // tagA // b3549 // ECK3536
+talA	b2464	talA // b2464 // ECK2459
+talB	b0008	talB // yaaK // b0008 // ECK0008
+tam	b1519	tam // yneD // lsrE // b1519 // ECK1512
+tamA	b4220	tamA // ytfM // b4220 // ECK4216
+tamB	b4221	tamB // ytfO // ytfN // b4221 // ECK4217
+tap	b1885	tap // b1885 // ECK1886
+tapT	b2583	tapT // yfiP // tuaA // b2583 // ECK2581
+tar	b1886	tar // cheM // b1886 // ECK1887
+tas	b2834	tas // ygdS // b2834 // ECK2830
+tatA	b3836	tatA // yigT // mttA1 // b3836 // ECK3830
+tatB	b3838	tatB // ysgB // mttA2 // b3838 // ECK3831
+tatC	b3839	tatC // mttB // yigU // yigV // b3839 // ECK3832
+tatD	b4483	tatD // b3841 // yigX // b3840 // mttC // yigW // b4483 // ECK3833
+tatE	b0627	tatE // ybeC // b0627 // ECK0620
+tauA	b0365	tauA // yaiR // ssiA // b0365 // ECK0362
+tauB	b0366	tauB // yaiQ // ssiB // b0366 // ECK0363
+tauC	b0367	tauC // yaiJ // ssiC // b0367 // ECK0364
+tauD	b0368	tauD // ssiD // yaiG // b0368 // ECK0365
+tcdA	b2812	tcdA // ygdL // csdL // b2812 // ECK2808
+tcyJ	b1920	tcyJ // yzzR // ssi7 // fliY // b1920 // ECK1919
+tcyL	b1918	tcyL // yecS // b1918 // ECK1917
+tcyN	b1917	tcyN // yecC // b1917 // ECK1916
+tcyP	b1729	tcyP // ydjN // b1729 // ECK1727
+tdcA	b3118	tdcA // b3118 // ECK3107
+tdcB	b3117	tdcB // tdc // b3117 // ECK3106
+tdcC	b3116	tdcC // b3116 // ECK3105
+tdcD	b3115	tdcD // yhaA // b3115 // ECK3104
+tdcE	b3114	tdcE // yhaS // b3114 // ECK3103
+tdcF	b3113	tdcF // yhaR // b3113 // ECK3102
+tdcG	b4471	tdcG // b3111 // yhaQ // b3112 // tdcGa // yhaP // sdhY // b4471 // ECK3101
+tdcR	b3119	tdcR // b3119 // ECK3108
+tdh	b3616	tdh // b3616 // ECK3606
+tdk	b1238	tdk // b1238 // ECK1233
+tehA	b1429	tehA // b1429 // ECK1422
+tehB	b1430	tehB // b1430 // ECK1423
+tesA	b0494	UNCLASSIFIED
+tesB	b0452	tesB // b0452 // ECK0446
+tfaD	b0561	tfaD // ybcX // b0561 // ECK0553
+tfaE	b1156	tfaE // ycfA // b1156 // ECK1142
+tfaP	b1155	tfaP // ymfS // b1155 // ECK1141
+tfaQ	b1546	tfaQ // ydfM // b1546 // ECK1539
+tfaR	b1373	tfaR // ynaC // b1373 // ECK1368
+tfaS	b2353	tfaS // yfdJ // b2353 // ECK2347
+tfaX	b0563	tfaX // ylcE // b0563 // ECK0555
+tff	b4414	tff // t44 // b4414 // ECK0167
+tgt	b0406	tgt // vacC(S.f.) // b0406 // ECK0400
+thiB	b0068	thiB // yabL // sfuA // tbpA // b0068 // ECK0069
+thiC	b3994	thiC // b3994 // ECK3986
+thiD	b2103	thiD // thiA // thiJ // b2103 // ECK2096
+thiE	b3993	thiE // thiA // b3993 // ECK3985
+thiF	b3992	thiF // thiA // b3992 // ECK3984
+thiG	b3991	thiG // thiB // b3991 // ECK3982
+thiH	b3990	thiH // thiB // b3990 // ECK3981
+thiI	b0423	thiI // nuvA // yajK // b0423 // ECK0417
+thiK	b1106	thiK // ycfN // b1106 // ECK1092
+thiL	b0417	thiL // thiJ // b0417 // ECK0411
+thiM	b2104	thiM // b2104 // ECK2097
+thiP	b0067	thiP // sfuB // yabK // b0067 // ECK0068
+thiQ	b0066	thiQ // sfuC // yabJ // b0066 // ECK0067
+thiS	b4407	thiS // thiG1 // b4407 // ECK3983
+thpR	b0147	thpR // yadP // ligT // b0147 // ECK0146
+thrA	b0002	thrA // thrA2 // Hs // thrA1 // thrD // b0002 // ECK0002
+thrB	b0003	thrB // b0003 // ECK0003
+thrC	b0004	thrC // b0004 // ECK0004
+thrL	b0001	thrL // b0001 // ECK0001
+thrP	b3795	thrP // yifK // b3795 // ECK3788
+thrS	b1719	thrS // b1719 // ECK1717
+thrT	b3979	thrT // b3979 // ECK3970
+thrU	b3976	thrU // b3976 // ECK3967
+thrV	b3273	thrV // b3273 // ECK3260
+thrW	b0244	thrW // b0244 // ECK0245
+thyA	b2827	thyA // b2827 // ECK2823
+tig	b0436	tig // b0436 // ECK0430
+tilS	b0188	tilS // yaeN // mesJ // b0188 // ECK0187
+timP	b4812	UNCLASSIFIED
+timR	b4811	UNCLASSIFIED
+tisA	b4617	tisA // ysdA // b4617 // ECK4426
+tisB	b4618	tisB // ysdB // b4618 // ECK4427
+tktA	b2935	tktA // tkt // b2935 // ECK2930
+tktB	b2465	tktB // b2465 // ECK2460
+tldD	b3244	tldD // yhdO // b3244 // ECK3233
+tldE	b4235	tldE // mcb // pmbA // b4235 // ECK4230
+tmaR	b2007	tmaR // yeeX // b2007 // ECK2001
+tmcA	b2474	tmcA // ypfI // b2474 // ECK2470
+tmk	b1098	tmk // ycfG // b1098 // ECK1084
+tnaA	b3708	tnaA // ind // tnaR // b3708 // ECK3701
+tnaB	b3709	tnaB // tnaP // trpP // b3709 // ECK3702
+tnaC	b3707	tnaC // tnaL // b3707 // ECK3700
+tolA	b0739	tolA // cim // excC // lky // tol-2 // b0739 // ECK0728
+tolB	b0740	tolB // lky // lkyA // tol-3 // b0740 // ECK0729
+tolC	b3035	tolC // weeA // colE1-i // mtcB // mukA // refI // toc // b3035 // ECK3026
+tolQ	b0737	tolQ // fii // tolP // b0737 // ECK0726
+tolR	b0738	tolR // b0738 // ECK0727
+tomB	b0461	tomB // ybaJ // b0461 // ECK0455
+tonB	b1252	tonB // T1rec // exbA // b1252 // ECK1246
+topA	b1274	topA // supX // b1274 // ECK1268
+topAI	b4566	topAI // yjhX // b4566 // ECK4298
+topB	b1763	topB // mutR // b1763 // ECK1761
+torA	b0997	torA // b0997 // ECK0988
+torC	b0996	torC // b0996 // ECK0987
+torD	b0998	torD // b0998 // ECK0989
+torI	b4501	torI // b4501 // ECK2359
+torR	b0995	torR // b0995 // ECK0986
+torS	b0993	torS // yccI // b0993 // ECK0984
+torT	b0994	torT // yccH // b0994 // ECK0985
+torY	b1873	torY // yecK // b1873 // ECK1874
+torZ	b1872	torZ // bisZ // b1872 // ECK1873
+tp2		tp2
+tpiA	b3919	tpiA // tpi // b3919 // ECK3911
+tpke11		tpke11
+tpke70		tpke70
+tpr	b1229	tpr // b1229 // ECK1224
+tpx	b1324	tpx // yzzJ // b1324 // ECK1320
+tqsA	b1601	tqsA // ydgG // b1601 // ECK1596
+treA	b1197	treA // osmA // tre // b1197 // ECK1185
+treB	b4240	treB // b4240 // ECK4235
+treC	b4239	treC // treE // olgH // b4239 // ECK4234
+treF	b3519	treF // b3519 // ECK3504
+treR	b4241	treR // b4241 // ECK4236
+trg	b1421	trg // b1421 // ECK1415
+trhA	b2899	trhA // yqfA // b2899 // ECK2894
+trhO	b1055	trhO // yceA // b1055 // ECK1040
+trhP	b2081	trhP // yegQ // b2081 // ECK2077
+trkA	b3290	trkA // b3290 // ECK3276
+trkG	b1363	trkG // b1363 // ECK1362
+trkH	b3849	trkH // b3849 // ECK3841
+trmA	b3965	trmA // rT // rumT // b3965 // ECK3957
+trmB	b2960	trmB // trmI // yggH // b2960 // ECK2955
+trmD	b2607	trmD // b2607 // ECK2604
+trmH	b3651	trmH // spoU // b3651 // ECK3641
+trmJ	b2532	trmJ // yfhQ // b2532 // ECK2529
+trmL	b3606	trmL // yibK // b3606 // ECK3596
+trmO	b0195	trmO // tsaA // yaeB // b0195 // ECK0195
+trpA	b1260	trpA // try // tryp // b1260 // ECK1254
+trpB	b1261	trpB // b1261 // ECK1255
+trpC	b1262	trpC // trpF // trpCF // b1262 // ECK1256
+trpD	b1263	trpD // trpGD // b1263 // ECK1257
+trpE	b1264	trpE // anth // tryD // tryp-4 // b1264 // ECK1258
+trpL	b1265	trpL // trpEE // b1265 // ECK1259
+trpR	b4393	trpR // rtrY // b4393 // ECK4385
+trpS	b3384	trpS // b3384 // ECK3371
+trpT	b3761	trpT // su7 // su8 // su9 // supU // supV // b3761 // ECK3755
+truA	b2318	truA // asuC // hisT // leuK // b2318 // ECK2312
+truB	b3166	truB // yhbA // b3166 // ECK3155
+truC	b2791	truC // yqcB // b2791 // ECK2785
+truD	b2745	truD // ygbO // b2745 // ECK2740
+trxA	b3781	trxA // dasC // fipA // tsnC // b3781 // ECK3773
+trxB	b0888	trxB // trxR // b0888 // ECK0879
+trxC	b2582	trxC // yfiG // b2582 // ECK2580
+tsaB	b1807	tsaB // yeaZ // b1807 // ECK1805
+tsaC	b3282	tsaC // yrdC // rimN // b3282 // ECK3269
+tsaD	b3064	tsaD // gcp // ygjD // b3064 // ECK3054
+tsaE	b4168	tsaE // yjeE // b4168 // ECK4164
+tsf	b0170	tsf // b0170 // ECK0169
+tsgA	b3364	tsgA // yhfH // gutS // yhfC // b3364 // ECK3352
+tsr	b4355	tsr // cheD // b4355 // ECK4345
+tsuA	b2013	tsuA // yeeE // b2013 // ECK2007
+tsuB	b2012	UNCLASSIFIED
+tsx	b0411	tsx // T6rec // nupA // b0411 // ECK0405
+ttcA	b1344	ttcA // ydaO // b1344 // ECK1341
+ttcC	b4638	ttcC // b4638 // ECK4447
+ttdA	b3061	ttdA // ygjA // b3061 // ECK3051
+ttdB	b3062	ttdB // ygjB // b3062 // ECK3052
+ttdR	b3060	ttdR // dan // ygiP // b3060 // ECK3050
+ttdT	b3063	ttdT // ygjC // ygjE // b3063 // ECK3053
+tufA	b3339	tufA // pulT // kirT // b3339 // ECK3326
+tufB	b3980	tufB // pulT // kirT // b3980 // ECK3971
+tus	b1610	tus // tau // b1610 // ECK1605
+tusA	b3470	tusA // yhhP // sirA // b3470 // ECK3454
+tusB	b3343	tusB // yheL // b3343 // ECK3330
+tusC	b3344	tusC // yheM // b3344 // ECK3331
+tusD	b3345	tusD // yheN // b3345 // ECK3332
+tusE	b0969	tusE // yccK // b0969 // ECK0960
+tynA	b1386	tynA // feaA // maoA // b1386 // ECK1383
+tyrA	b2600	tyrA // b2600 // ECK2597
+tyrB	b4054	tyrB // b4054 // ECK4046
+tyrP	b1907	tyrP // b1907 // ECK1906
+tyrR	b1323	tyrR // b1323 // ECK1319
+tyrS	b1637	tyrS // b1637 // ECK1633
+tyrT	b1231	tyrT // tyrTalpha // supFsupO // Su-3 // Su-4 // su(c) // suIII // supC // b1231 // ECK1226
+tyrU	b3977	tyrU // sup15B // supM // supZ // b3977 // ECK3968
+tyrV	b1230	tyrV // tyrTbeta // b1230 // ECK1225
+uacT	b2888	uacT // ygfU // b2888 // ECK2883
+ubiA	b4040	ubiA // cyr // b4040 // ECK4032
+ubiB	b3835	ubiB // yigS // yigQ // yigR // aarF // b3835 // ECK3829
+ubiC	b4039	ubiC // b4039 // ECK4031
+ubiD	b3843	ubiD // yigY // yigC // b3843 // ECK3835
+ubiE	b3833	ubiE // yigO // b3833 // ECK3827
+ubiF	b0662	ubiF // yleB // b0662 // ECK0654
+ubiG	b2232	ubiG // pufX // yfaB // b2232 // ECK2224
+ubiH	b2907	ubiH // acd // visB // b2907 // ECK2902
+ubiI	b2906	ubiI // visC // b2906 // ECK2901
+ubiJ	b3834	ubiJ // yigP // b3834 // ECK3828
+ubiK	b3042	ubiK // yqiC // b3042 // ECK3033
+ubiT	b3157	ubiT // yhbT // b3157 // ECK3145
+ubiU	b3158	ubiU // yhbU // b3158 // ECK3146
+ubiV	b3159	ubiV // yhbV // b3159 // ECK3147
+ubiX	b2311	ubiX // dedF // b2311 // ECK2305
+ucpA	b2426	ucpA // yfeF // b2426 // ECK2421
+udk	b2066	udk // b2066 // ECK2060
+udp	b3831	udp // b3831 // ECK3825
+ugd	b2028	ugd // yefA // udg // UDG8 // pmrE // b2028 // ECK2023
+ugpA	b3452	ugpA // psiB // psiC // ugp // b3452 // ECK3436
+ugpB	b3453	ugpB // psiB // psiC // b3453 // ECK3437
+ugpC	b3450	ugpC // b3450 // ECK3434
+ugpE	b3451	ugpE // b3451 // ECK3435
+ugpQ	b3449	ugpQ // b3449 // ECK3433
+uhpA	b3669	uhpA // b3669 // ECK3660
+uhpB	b3668	uhpB // b3668 // ECK3659
+uhpC	b3667	uhpC // b3667 // ECK3658
+uhpT	b3666	uhpT // b3666 // ECK3657
+uhpU	b4829	UNCLASSIFIED
+uidA	b1617	uidA // gurA // gusA // b1617 // ECK1612
+uidB	b1616	uidB // gusB // uidP // b1616 // ECK1611
+uidC	b1615	UNCLASSIFIED
+uidR	b1618	uidR // gusR // b1618 // ECK1613
+ulaA	b4193	ulaA // yjfS // sgaT // b4193 // ECK4189
+ulaB	b4194	ulaB // yjfT // sgaB // b4194 // ECK4190
+ulaC	b4195	ulaC // ptxA // yjfU // sgaA // b4195 // ECK4191
+ulaD	b4196	ulaD // yjfV // sgaH // b4196 // ECK4192
+ulaE	b4197	ulaE // sgaU // yjfW // b4197 // ECK4193
+ulaF	b4198	ulaF // yjfX // sgaE // b4198 // ECK4194
+ulaG	b4192	ulaG // yjfR // b4192 // ECK4188
+ulaR	b4191	ulaR // yjfQ // b4191 // ECK4187
+umpG	b2744	umpG // ygbC // surE // b2744 // ECK2739
+umpH	b0675	umpH // nagD // b0675 // ECK0663
+umuC	b1184	umuC // uvm // b1184 // ECK1172
+umuD	b1183	umuD // b1183 // ECK1171
+ung	b2580	ung // b2580 // ECK2578
+uof	b4637	uof // b4637 // ECK4461
+upp	b2498	upp // uraP // b2498 // ECK2494
+uraA	b2497	uraA // b2497 // ECK2493
+usg	b2319	usg // usg-1 // b2319 // ECK2313
+ushA	b0480	ushA // b0480 // ECK0474
+uspA	b3495	uspA // b3495 // ECK3480
+uspB	b3494	uspB // yhiO // b3494 // ECK3479
+uspC	b1895	uspC // yecG // b1895 // ECK1894
+uspD	b3923	uspD // yiiT // b3923 // ECK3915
+uspE	b1333	uspE // ydaA // b1333 // ECK1329
+uspF	b1376	UNCLASSIFIED
+uspG	b0607	uspG // UP12 // yzzU // ybdQ // b0607 // ECK0601
+uup	b0949	uup // ycbI // ycbH // b0949 // ECK0940
+uvrA	b4058	uvrA // dar // dinE // b4058 // ECK4050
+uvrB	b0779	uvrB // dar-1 // dar-6 // b0779 // ECK0768
+uvrC	b1913	uvrC // b1913 // ECK1912
+uvrD	b3813	uvrD // uvr502 // srjC // uvrE // dar-2 // dda // mutU // pdeB // rad // recL // b3813 // ECK3808
+uvrY	b1914	uvrY // yecB // b1914 // ECK1913
+uxaA	b3091	uxaA // ygjW // b3091 // ECK3082
+uxaB	b1521	uxaB // b1521 // ECK1514
+uxaC	b3092	uxaC // ygjY // ygjX // ygjZ // b3092 // ECK3083
+uxuA	b4322	uxuA // b4322 // ECK4313
+uxuB	b4323	uxuB // b4323 // ECK4314
+uxuR	b4324	uxuR // b4324 // ECK4315
+valS	b4258	valS // val-act // b4258 // ECK4251
+valT	b0744	valT // valTa // valTalpha // b0744 // ECK0733
+valU	b2401	valU // valUalpha // b2401 // ECK2395
+valV	b1665	valV // b1665 // ECK1661
+valW	b1666	valW // b1666 // ECK1662
+valX	b2402	valX // valU-beta // valUbeta // b2402 // ECK2396
+valY	b2403	valY // valUgamma // b2403 // ECK2397
+valZ	b0746	valZ // valTb // valTbeta // b0746 // ECK0735
+ves	b1742	ves // ydjR // b1742 // ECK1740
+viaA	b3745	viaA // yieD // yieD_1 // yieD_2 // yieM // b3745 // ECK3739
+vsr	b1960	vsr // b1960 // ECK1958
+waaA	b3633	waaA // kdtA // b3633 // ECK3623
+waaB	b3628	waaB // lps // syn // rfaB // b3628 // ECK3618
+waaC	b3621	waaC // rfa-2 // rfaC // yibC // b3621 // ECK3611
+waaF	b3620	waaF // rfaF // b3620 // ECK3610
+waaG	b3631	waaG // rfaG // b3631 // ECK3621
+waaH	b3615	waaH // yibD // b3615 // ECK3605
+waaJ	b3626	waaJ // rfaJ // waaR // b3626 // ECK3616
+waaL	b3622	waaL // rfaL // b3622 // ECK3612
+waaO	b3627	waaO // waaI // rfaI // b3627 // ECK3617
+waaP	b3630	waaP // rfaP // b3630 // ECK3620
+waaQ	b3632	waaQ // rfaQ // b3632 // ECK3622
+waaS	b3629	waaS // rfaS // b3629 // ECK3619
+waaU	b3623	waaU // rfaK // b3623 // ECK3613
+waaY	b3625	waaY // rfaY // b3625 // ECK3615
+waaZ	b3624	waaZ // rfaZ // b3624 // ECK3614
+wbbH	b2035	wbbH // yefF // rfc // b2035 // ECK2029
+wbbI	b2034	wbbI // yefG // b2034 // ECK2028
+wbbJ	b2033	wbbJ // yefH // b2033 // ECK2027
+wbbK	b2032	wbbK // yefI // b2032 // ECK2026
+wbbL	b4571	wbbL // yefJ // b2031 // b4540 // b4571 // ECK2025
+wcaA	b2059	wcaA // b2059 // ECK2053
+wcaB	b2058	wcaB // b2058 // ECK2052
+wcaC	b2057	wcaC // b2057 // ECK2051
+wcaD	b2056	wcaD // b2056 // ECK2050
+wcaE	b2055	wcaE // b2055 // ECK2049
+wcaF	b2054	wcaF // b2054 // ECK2048
+wcaI	b2050	wcaI // yefD // b2050 // ECK2044
+wcaJ	b2047	wcaJ // b2047 // ECK2041
+wcaK	b2045	wcaK // b2045 // ECK2039
+wcaL	b2044	wcaL // yefL // b2044 // ECK2038
+wcaM	b2043	wcaM // yefK // b2043 // ECK2037
+wecB	b3786	wecB // yifF // nfrC // rffE // mnaA // b3786 // ECK3778
+wecC	b3787	wecC // rff // rffD // mnaB // b3787 // ECK3779
+wecE	b3791	wecE // rff // fcnA // rffA // yifI // b3791 // ECK3783
+wecF	b4481	wecF // yifM // b4404 // rff // rffT // b4405 // b4481 // ECK3785
+wecH	b3561	wecH // yiaH // b3561 // ECK3550
+wrbA	b1004	UNCLASSIFIED
+wza	b2062	wza // b2062 // ECK2056
+wzb	b2061	wzb // b2061 // ECK2055
+wzc	b2060	wzc // b2060 // ECK2054
+wzxC	b2046	wzxC // wzx // b2046 // ECK2040
+wzxE	b3792	wzxE // wzx // yifJ // b3792 // ECK3784
+wzyE	b3793	wzyE // rffT // b3793 // ECK3786
+wzzB	b2027	wzzB // wzz // rol // cld // b2027 // ECK2022
+wzzE	b3785	wzzE // wzz // yifC // b3785 // ECK3777
+xanP	b3654	xanP // yicE // b3654 // ECK3644
+xanQ	b2882	xanQ // ygfO // b2882 // ECK2878
+xapA	b2407	xapA // pndA // b2407 // ECK2401
+xapB	b2406	xapB // b2406 // ECK2400
+xapR	b2405	xapR // pRndR // pndR // yfeB // b2405 // ECK2399
+xdhA	b2866	xdhA // ygeS // b2866 // ECK2862
+xdhB	b2867	xdhB // ygeT // b2867 // ECK2863
+xdhC	b2868	xdhC // ygeU // b2868 // ECK2864
+xdhD	b2881	xdhD // ygfN // b2881 // ECK2877
+xerC	b3811	xerC // b3811 // ECK3806
+xerD	b2894	xerD // xprB // b2894 // ECK2889
+xisD	b4633	xisD // ybcB // b4633 // ECK4435
+xisE	b1141	xisE // ymfG // b1141 // ECK1127
+xisR	b1346	xisR // ydaQ // b1346 // ECK1343
+xseA	b2509	xseA // xse // b2509 // ECK2505
+xseB	b0422	xseB // yajE // b0422 // ECK0416
+xthA	b1749	xthA // xth // b1749 // ECK1747
+xtpA	b4845	UNCLASSIFIED
+xylA	b3565	xylA // b3565 // ECK3554
+xylB	b3564	xylB // b3564 // ECK3553
+xylE	b4031	xylE // b4031 // ECK4023
+xylF	b3566	xylF // xylT // b3566 // ECK3555
+xylG	b3567	xylG // b3567 // ECK3556
+xylH	b3568	xylH // b3568 // ECK3557
+xylR	b3569	xylR // b3569 // ECK3558
+xylZ	b4834	UNCLASSIFIED
+xynR	b0272	xynR // yagI // b0272 // ECK0273
+yaaA	b0006	yaaA // b0006 // ECK0006
+yaaI	b0013	yaaI // b0013 // ECK0013
+yaaJ	b0007	yaaJ // b0007 // ECK0007
+yaaU	b0045	yaaU // yabE // b0045 // ECK0046
+yaaW	b0011	UNCLASSIFIED
+yaaX	b0005	yaaX // b0005 // ECK0005
+yaaY	b0024	yaaY // b0024 // ECK0025
+yabI	b0065	UNCLASSIFIED
+yabP	b0056	yabP // b4659 // b0056 // ECK0057
+yabQ	b0057	yabQ // b4659 // b0057 // ECK0058
+yabR	b4726	yabR // b4726 // ECK4583
+yacC	b0122	yacC // b0122 // ECK0121
+yacG	b0101	yacG // b0101 // ECK0101
+yacH	b0117	yacH // b0117 // ECK0116
+yacL	b0119	UNCLASSIFIED
+yacM	b4727	yacM // b4727 // ECK4584
+yadC	b0135	yadC // b0135 // ECK0134
+yadE	b0130	yadE // b0130 // ECK0129
+yadG	b0127	yadG // b0127 // ECK0126
+yadH	b0128	yadH // b0128 // ECK0127
+yadI	b0129	yadI // agaX // b0129 // ECK0128
+yadK	b0136	yadK // b0136 // ECK0135
+yadL	b0137	yadL // b0137 // ECK0136
+yadM	b0138	yadM // b0138 // ECK0137
+yadN	b0141	yadN // b0141 // ECK0140
+yadS	b0157	yadS // b0157 // ECK0156
+yadV	b0140	yadV // ecpD // b0140 // ECK0139
+yadW	b4728	yadW // b4728 // ECK4585
+yadX	b4765	yadX // b4765 // ECK4622
+yaeF	b0193	yaeF // yaeK // b0193 // ECK0193
+yaeH	b0163	UNCLASSIFIED
+yaeI	b0164	UNCLASSIFIED
+yaeP	b4406	yaeP // b4406 // ECK0189
+yaeQ	b0190	UNCLASSIFIED
+yaeR	b0187	yaeR // b0187 // ECK0186
+yafC	b0208	yafC // b0208 // ECK0208
+yafD	b0209	yafD // b0209 // ECK0209
+yafE	b0210	UNCLASSIFIED
+yafF	b4503	yafF // b4503 // ECK0219
+yafJ	b0223	yafJ // b0223 // ECK0224
+yafL	b0227	yafL // b0227 // ECK0228
+yafN	b0232	yafN // b0232 // ECK0233
+yafO	b0233	yafO // b0233 // ECK0234
+yafP	b0234	yafP // b0234 // ECK0235
+yafQ	b0225	yafQ // b0225 // ECK0226
+yafS	b0213	yafS // b0213 // ECK0213
+yafT	b0217	yafT // b0217 // ECK0217
+yafU	b0218	yafU // b0218 // ECK0218
+yafV	b0219	UNCLASSIFIED
+yafW	b0246	yafW // b0246 // ECK0247
+yafX	b0248	yafX // b0248 // ECK0250
+yafY	b0251	UNCLASSIFIED
+yafZ	b0252	yafZ // b0252 // ECK0254
+yagA	b0267	yagA // b0267 // ECK0268
+yagB	b0266	yagB // b0266 // ECK0267
+yagE	b0268	yagE // b0268 // ECK0269
+yagF	b0269	yagF // b0269 // ECK0270
+yagG	b0270	yagG // b0270 // ECK0271
+yagH	b0271	yagH // b0271 // ECK0272
+yagJ	b0276	yagJ // b0276 // ECK0275
+yagK	b0277	yagK // b0277 // ECK0276
+yagL	b0278	yagL // b0278 // ECK0277
+yagM	b0279	yagM // b0279 // ECK0278
+yagN	b0280	yagN // b0280 // ECK0279
+yagP	b0282	yagP // ykgT // b4695 // b0282 // ECK0281
+yagU	b0287	yagU // b0287 // ECK0286
+yahB	b0316	yahB // b0316 // ECK0314
+yahC	b0317	yahC // b0317 // ECK0315
+yahD	b0318	yahD // b0318 // ECK0316
+yahE	b0319	yahE // b0319 // ECK0317
+yahF	b0320	yahF // b0320 // ECK0318
+yahG	b0321	UNCLASSIFIED
+yahH	b0322	yahH // b0322 // ECK0320
+yahI	b0323	yahI // b0323 // ECK0321
+yahJ	b0324	yahJ // b0324 // ECK0322
+yahK	b0325	UNCLASSIFIED
+yahL	b0326	yahL // b0326 // ECK0324
+yahM	b0327	yahM // b0327 // ECK0325
+yahN	b0328	yahN // b0328 // ECK0326
+yahO	b0329	yahO // b0329 // ECK0327
+yahV	b4730	yahV // b4730 // ECK4587
+yaiA	b0389	yaiA // b0389 // ECK0384
+yaiI	b0387	UNCLASSIFIED
+yaiL	b0354	UNCLASSIFIED
+yaiO	b0358	UNCLASSIFIED
+yaiP	b0363	yaiP // b0363 // ECK0360
+yaiS	b0364	yaiS // b0364 // ECK0361
+yaiT	b4580	yaiT // yaiU // b0371 // b0374 // ECK0369 // b4580 // ECK0368
+yaiW	b0378	yaiW // b0378 // ECK0373
+yaiX	b4579	yaiX // yaiF // b0362 // b0359 // ECK0359 // b4579 // ECK0356
+yaiY	b0379	yaiY // b0379 // ECK0374
+yaiZ	b0380	yaiZ // b0380 // ECK0375
+yajC	b0407	yajC // b0407 // ECK0401
+yajD	b0410	UNCLASSIFIED
+yajG	b0434	yajG // b0434 // ECK0428
+yajI	b0412	UNCLASSIFIED
+yajL	b0424	yajL // thiJ // b0424 // ECK0418
+yajO	b0419	yajO // b0419 // ECK0413
+yajQ	b0426	UNCLASSIFIED
+yajR	b0427	yajR // b0427 // ECK0421
+ybaA	b0456	UNCLASSIFIED
+ybaB	b0471	ybaB // b0471 // ECK0465
+ybaE	b0445	ybaE // b0445 // ECK0439
+ybaK	b0481	ybaK // b0481 // ECK0475
+ybaL	b0478	ybaL // ylaA // b0478 // ECK0472
+ybaM	b0466	ybaM // b0466 // ECK0460
+ybaN	b0468	UNCLASSIFIED
+ybaP	b0482	UNCLASSIFIED
+ybaQ	b0483	ybaQ // b0483 // ECK0477
+ybaT	b0486	ybaT // b0486 // ECK0480
+ybaV	b0442	UNCLASSIFIED
+ybaY	b0453	ybaY // b0453 // ECK0447
+ybaZ	b0454	ybaZ // atl // b0454 // ECK0448
+ybbA	b0495	ybbA // b0495 // ECK0489
+ybbC	b0498	ybbC // b0498 // ECK0492
+ybbD	b0501	ybbD // b0500 // b0501 // ECK0494
+ybbJ	b0488	UNCLASSIFIED
+ybbO	b0493	UNCLASSIFIED
+ybbP	b0496	ybbP // b0496 // ECK0490
+ybbY	b0513	ybbY // glxB4 // b0513 // ECK0506
+ybcF	b0521	ybcF // arcC // b0521 // ECK0514
+ybcH	b0567	ybcH // b0567 // ECK0559
+ybcI	b0527	UNCLASSIFIED
+ybcJ	b0528	ybcJ // b0528 // ECK0521
+ybcK	b0544	ybcK // b0544 // ECK0535
+ybcL	b0545	ybcL // b0545 // ECK0536
+ybcM	b0546	ybcM // b0546 // ECK0537
+ybcN	b0547	ybcN // b0547 // ECK0538
+ybcO	b0549	ybcO // b0549 // ECK0540
+ybcV	b0558	ybcV // b0558 // ECK0550
+ybcW	b0559	ybcW // b0559 // ECK0551
+ybcY	b0562	ybcY // b0562 // ECK0554
+ybdD	b4512	UNCLASSIFIED
+ybdF	b0579	UNCLASSIFIED
+ybdG	b0577	ybdG // b0577 // ECK0569
+ybdJ	b0580	ybdJ // b0580 // ECK0572
+ybdK	b0581	ybdK // b0581 // ECK0573
+ybdL	b0600	UNCLASSIFIED
+ybdM	b0601	UNCLASSIFIED
+ybdN	b0602	ybdN // b0602 // ECK0596
+ybdR	b0608	ybdR // b0608 // ECK0602
+ybdZ	b4511	ybdZ // b4511 // ECK0578
+ybeD	b0631	ybeD // b0631 // ECK0624
+ybeF	b0629	ybeF // b0629 // ECK0622
+ybeL	b0643	UNCLASSIFIED
+ybeM	b4581	ybeM // ybeH // b0626 // b0625 // ECK0619 // b4581 // ECK0618
+ybeQ	b0644	ybeQ // b0644 // ECK0637
+ybeR	b0645	ybeR // b0645 // ECK0638
+ybeT	b0647	ybeT // b0647 // ECK0640
+ybeU	b0648	UNCLASSIFIED
+ybeX	b0658	ybeX // b0658 // ECK0650
+ybeY	b0659	ybeY // b0659 // ECK0651
+ybeZ	b0660	UNCLASSIFIED
+ybfA	b0699	ybfA // b0699 // ECK0688
+ybfB	b0702	UNCLASSIFIED
+ybfC	b0704	ybfC // b0704 // ECK0692
+ybfD	b0706	UNCLASSIFIED
+ybfE	b0685	UNCLASSIFIED
+ybfF	b0686	UNCLASSIFIED
+ybfG	b0691	ybfG // b0690 // ECK0679 // ybfH // b0691 // ECK0678
+ybfI	b4636	ybfI // b4636 // ECK4436
+ybfK	b4590	ybfK // b4590 // ECK4400
+ybfL	b0705	ybfL // b0705 // ECK0694
+ybfO	b0703	ybfO // b0703 // ECK0691
+ybfP	b0689	ybfP // b0689 // ECK0677
+ybfQ	b4514	UNCLASSIFIED
+ybgA	b0707	UNCLASSIFIED
+ybgC	b0736	UNCLASSIFIED
+ybgD	b0719	ybgD // b0719 // ECK0708
+ybgE	b0735	ybgE // b0735 // ECK0724
+ybgI	b0710	UNCLASSIFIED
+ybgO	b0716	ybgO // b0716 // ECK0705
+ybgP	b0717	ybgP // b0717 // ECK0706
+ybgQ	b0718	UNCLASSIFIED
+ybgS	b0753	UNCLASSIFIED
+ybgU	b4735	ybgU // b4735 // ECK4592
+ybgV	b4768	ybgV // b4768 // ECK4625
+ybhA	b0766	ybhA // b0766 // ECK0755
+ybhB	b0773	ybhB // b0773 // ECK0762
+ybhC	b0772	UNCLASSIFIED
+ybhD	b0768	ybhD // b0768 // ECK0757
+ybhF	b0794	ybhF // b0794 // ECK0783
+ybhG	b0795	ybhG // b0795 // ECK0784
+ybhH	b0769	UNCLASSIFIED
+ybhI	b0770	ybhI // b0770 // ECK0759
+ybhJ	b0771	ybhJ // b0771 // ECK0760
+ybhK	b0780	ybhK // b0780 // ECK0769
+ybhL	b0786	UNCLASSIFIED
+ybhM	b0787	ybhM // b0787 // ECK0776
+ybhN	b0788	UNCLASSIFIED
+ybhP	b0790	ybhP // b0790 // ECK0779
+ybhQ	b0791	ybhQ // b0791 // ECK0780
+ybhR	b0792	ybhR // b0792 // ECK0781
+ybhS	b0793	ybhS // b0793 // ECK0782
+ybhU	b4591	ybhU // b4591 // ECK4401
+ybiA	b0798	ybiA // b0798 // ECK0787
+ybiB	b0800	ybiB // b0800 // ECK0789
+ybiE	b4769	ybiE // b4769 // ECK4626
+ybiI	b0803	ybiI // b0803 // ECK0792
+ybiJ	b0802	ybiJ // b0802 // ECK0791
+ybiO	b0808	ybiO // b0808 // ECK0797
+ybiR	b0818	ybiR // b0818 // ECK0808
+ybiT	b0820	UNCLASSIFIED
+ybiU	b0821	ybiU // b0821 // ECK0811
+ybiV	b0822	UNCLASSIFIED
+ybiW	b0823	UNCLASSIFIED
+ybiX	b0804	UNCLASSIFIED
+ybiY	b0824	ybiY // pflE // b0824 // ECK0814
+ybjC	b0850	ybjC // b0850 // ECK0841
+ybjD	b0876	ybjD // b0876 // ECK0867
+ybjG	b0841	ybjG // b0841 // ECK0831
+ybjH	b0843	ybjH // b0843 // ECK0833
+ybjI	b0844	ybjI // b0844 // ECK0834
+ybjJ	b0845	ybjJ // b0845 // ECK0835
+ybjL	b0847	ybjL // b0847 // ECK0838
+ybjM	b0848	ybjM // b0848 // ECK0839
+ybjN	b0853	ybjN // b0853 // ECK0844
+ybjO	b0858	ybjO // b0858 // ECK0849
+ybjP	b0865	ybjP // b0865 // ECK0856
+ybjQ	b0866	UNCLASSIFIED
+ybjS	b0868	ybjS // b0868 // ECK0859
+ybjT	b0869	UNCLASSIFIED
+ybjX	b0877	UNCLASSIFIED
+ycaC	b0897	ycaC // b0897 // ECK0888
+ycaD	b0898	ycaD // b0898 // ECK0889
+ycaI	b0913	UNCLASSIFIED
+ycaK	b0901	ycaK // b0901 // ECK0892
+ycaL	b0909	ycaL // b0909 // ECK0900
+ycaM	b0899	ycaM // b0899 // ECK0890
+ycaN	b0900	ycaN // b0900 // ECK0891
+ycaO	b0905	ycaO // b0905 // ECK0896
+ycaP	b0906	ycaP // b0906 // ECK0897
+ycaQ	b0916	UNCLASSIFIED
+ycaR	b0917	UNCLASSIFIED
+ycbF	b0944	ycbF // b0944 // ECK0935
+ycbJ	b0919	ycbJ // b0919 // ECK0910
+ycbU	b0942	ycbU // b0942 // ECK0933
+ycbV	b0943	ycbV // b0943 // ECK0934
+ycbX	b0947	ycbX // b0947 // ECK0938
+ycbZ	b0955	ycbZ // b0955 // ECK0946
+yccA	b0970	yccA // b0970 // ECK0961
+yccE	b1001	yccE // b1001 // ECK0992
+yccF	b0961	UNCLASSIFIED
+yccJ	b1003	yccJ // b1003 // ECK0994
+yccM	b0992	yccM // b0992 // ECK0983
+yccS	b0960	yccS // b0960 // ECK0951
+yccU	b0965	yccU // b0965 // ECK0956
+yccX	b0968	UNCLASSIFIED
+ycdF	b1005	ycdF // b1005
+ycdU	b1029	ycdU // b1029 // ECK1017
+ycdX	b1034	UNCLASSIFIED
+ycdY	b1035	ycdY // b1035 // ECK1021
+ycdZ	b1036	UNCLASSIFIED
+yceB	b1063	UNCLASSIFIED
+yceD	b1088	yceD // b1088 // ECK1074
+yceF	b1087	yceF // b1087 // ECK1072
+yceH	b1067	yceH // b1067 // ECK1052
+yceI	b1056	yceI // b1056 // ECK1041
+yceJ	b1057	yceJ // b1057 // ECK1042
+yceK	b1050	yceK // b1050 // ECK1036
+yceM	b1068	UNCLASSIFIED
+yceO	b1058	yceO // b1058 // ECK1043
+yceQ	b1085	yceQ // b1085 // ECK1070
+ycfH	b1100	ycfH // b1100 // ECK1086
+ycfJ	b1110	UNCLASSIFIED
+ycfK	b1154	ycfK // stfP // b1154 // ECK1140
+ycfL	b1104	UNCLASSIFIED
+ycfP	b1108	UNCLASSIFIED
+ycfT	b1115	ycfT // b1115 // ECK1101
+ycfZ	b1121	ycfZ // b1121 // ECK1107
+ycgB	b1188	UNCLASSIFIED
+ycgH	b4491	ycgH // b1169 // b1170 // b4491 // ECK1157
+ycgI	b4521	ycgI // ymgH // b1173 // ECK1160 // b4521 // ECK1161
+ycgJ	b1177	ycgJ // b1177 // ECK1165
+ycgL	b1179	UNCLASSIFIED
+ycgM	b1180	ycgM // b1180 // ECK1168
+ycgN	b1181	UNCLASSIFIED
+ycgR	b1194	ycgR // b1194 // ECK1182
+ycgV	b1202	UNCLASSIFIED
+ycgX	b1161	ycgX // b1161 // ECK1148
+ycgY	b1196	ycgY // b1196 // ECK1184
+ycgZ	b1164	ycgZ // b1164 // ECK1151
+ychA	b1214	UNCLASSIFIED
+ychE	b1242	ychE // b1242 // ECK1236
+ychF	b1203	ychF // gtp1 // b1203 // ECK1191
+ychH	b1205	ychH // b1205 // ECK1193
+ychJ	b1233	ychJ // b1233 // ECK1228
+ychN	b1219	ychN // b1219 // ECK1213
+ychO	b1220	ychO // ychP // b1220 // ECK1214
+ychQ	b1213	UNCLASSIFIED
+ychS	b1228	ychS // b1228 // ECK1222
+ychT	b4771	ychT // b4771 // ECK4627
+yciA	b1253	UNCLASSIFIED
+yciB	b1254	UNCLASSIFIED
+yciC	b1255	yciC // b1255 // ECK1249
+yciE	b1257	UNCLASSIFIED
+yciF	b1258	UNCLASSIFIED
+yciG	b1259	yciG // b1259 // ECK1253
+yciH	b1282	yciH // b1282 // ECK1277
+yciI	b1251	yciI // b1251 // ECK1245
+yciK	b1271	yciK // b1271 // ECK1265
+yciN	b1273	yciN // b1273 // ECK1267
+yciO	b1267	UNCLASSIFIED
+yciQ	b1268	yciQ // yciP // b1268 // ECK1262
+yciT	b1284	yciT // deoT // b1284 // ECK1279
+yciU	b1248	yciU // b1248 // ECK1242
+yciW	b1287	yciW // b1287 // ECK1282
+yciX	b4523	yciX // yciX_2 // b4523 // ECK1270
+yciY	b4595	UNCLASSIFIED
+yciZ	b4596	yciZ // deoL // b4596 // ECK4406
+ycjD	b1289	ycjD // b1289 // ECK1284
+ycjF	b1322	ycjF // b1322 // ECK1318
+ycjG	b1325	ycjG // ycjH // b1325 // ECK1321
+ycjM	b1309	ycjM // ggaP // b1309 // ECK1304
+ycjN	b1310	ycjN // b1310 // ECK1305
+ycjO	b1311	ycjO // b1311 // ECK1306
+ycjP	b1312	ycjP // b1312 // ECK1307
+ycjQ	b1313	UNCLASSIFIED
+ycjR	b1314	UNCLASSIFIED
+ycjS	b1315	UNCLASSIFIED
+ycjT	b1316	ycjT // b1316 // ECK1311
+ycjU	b1317	ycjU // pgmB // b1317 // ECK1312
+ycjV	b1318	ycjV // b1318 // ECK1313
+ycjW	b1320	ycjW // b1320 // ECK1316
+ycjX	b1321	ycjX // b1321 // ECK1317
+ycjY	b1327	ycjY // b1327 // ECK1324
+ydaE	b4526	ydaE // b4526 // ECK1349
+ydaF	b4527	UNCLASSIFIED
+ydaG	b1355	ydaG // gatA // b1355 // ECK1353
+ydaS	b1357	ydaS // b1357 // ECK1355
+ydaT	b1358	ydaT // b1358 // ECK1356
+ydaU	b1359	ydaU // b1359 // ECK1357
+ydaV	b1360	ydaV // b1360 // ECK1358
+ydaW	b1361	ydaW // b1361 // ECK1359
+ydaY	b1366	ydaY // b1366 // ECK1364
+ydbA	b4492	ydbA // b1401 // b1405 // b4492 // ECK1398
+ydbD	b1407	ydbD // b1407 // ECK1400
+ydbH	b1381	ydbH // b1381 // ECK1378
+ydbJ	b4529	ydbJ // b4529 // ECK1375
+ydbK	b1378	ydbK // pfo // b1378 // ECK1374
+ydbL	b1383	ydbL // b1383 // ECK1380
+ydcA	b1419	ydcA // b1419 // ECK1411
+ydcC	b1460	UNCLASSIFIED
+ydcD	b1457	ydcD // b1457 // ECK1451
+ydcF	b1414	UNCLASSIFIED
+ydcH	b1426	ydcH // b1426 // ECK1419
+ydcI	b1422	ydcI // b1422 // ECK1416
+ydcJ	b1423	ydcJ // b1423 // ECK1417
+ydcK	b1428	ydcK // b1428 // ECK1421
+ydcL	b1431	UNCLASSIFIED
+ydcO	b1433	ydcO // b1433 // ECK1427
+ydcR	b1439	ydcR // b1439 // ECK1433
+ydcS	b1440	ydcS // b1440 // ECK1434
+ydcT	b1441	ydcT // b1441 // ECK1435
+ydcU	b1442	ydcU // b1442 // ECK1436
+ydcV	b1443	ydcV // b1443 // ECK1437
+ydcY	b1446	ydcY // b1446 // ECK1440
+ydcZ	b1447	UNCLASSIFIED
+yddA	b1496	yddA // b1496 // ECK1490
+yddB	b1495	yddB // b1495 // ECK1489
+yddE	b1464	UNCLASSIFIED
+yddG	b1473	yddG // b1473 // ECK1467
+yddH	b1462	UNCLASSIFIED
+yddJ	b1470	yddJ // b1470 // ECK1464
+yddK	b1471	yddK // b1471 // ECK1465
+yddL	b1472	yddL // b1472 // ECK1466
+yddM	b1477	yddM // b1477 // ECK1471
+yddY	b4746	yddY // b4746 // ECK4603
+ydeA	b1528	ydeA // b1528 // ECK1521
+ydeE	b1534	ydeE // ydeF // b1534 // ECK1527
+ydeI	b1536	ydeI // b1536 // ECK1529
+ydeJ	b1537	UNCLASSIFIED
+ydeM	b1497	ydeM // b1497 // ECK1491
+ydeN	b1498	ydeN // b1498 // ECK1492
+ydeO	b1499	ydeO // b1499 // ECK1493
+ydeP	b1501	ydeP // b1501 // ECK1494
+ydeQ	b1502	ydeQ // b1502 // ECK1495
+ydeR	b1503	ydeR // b1503 // ECK1496
+ydeS	b1504	ydeS // b1504 // ECK1497
+ydeT	b1505	ydeT // fmlC // b1505 // ECK1498
+ydfA	b1571	ydfA // b1571 // ECK1565
+ydfB	b1572	ydfB // b1572 // ECK1566
+ydfC	b1573	ydfC // b1573 // ECK1567
+ydfD	b1576	ydfD // b1576 // ECK1570
+ydfE	b1577	ydfE // b1577 // ECK1571
+ydfG	b1539	ydfG // b1539 // ECK1532
+ydfI	b1542	ydfI // b1542 // ECK1535
+ydfJ	b1543	ydfJ // ydfJ_2 // b1543 // ECK1536
+ydfK	b1544	ydfK // b1544 // ECK1537
+ydfO	b1549	ydfO // b1549 // ECK1543
+ydfR	b1555	ydfR // b1555 // ECK1549
+ydfT	b1559	ydfT // quuQ // b1559 // ECK1553
+ydfU	b1560	ydfU // b1560 // ECK1554
+ydfV	b1565	ydfV // b1565 // ECK1559
+ydfW	b1567	ydfW // intK // b1567 // ECK1561
+ydfX	b1568	ydfX // b1568 // ECK1562
+ydfZ	b1541	ydfZ // b1541 // ECK1534
+ydgA	b1614	UNCLASSIFIED
+ydgC	b1607	ydgC // b1607 // ECK1602
+ydgD	b1598	ydgD // b1598 // ECK1593
+ydgH	b1604	ydgH // b1604 // ECK1599
+ydgI	b1605	ydgI // arcD // b1605 // ECK1600
+ydgJ	b1624	ydgJ // b1624 // ECK1619
+ydgK	b1626	UNCLASSIFIED
+ydgU	b4601	UNCLASSIFIED
+ydhF	b1647	ydhF // b1647 // ECK1643
+ydhI	b1643	ydhI // b1643 // ECK1639
+ydhJ	b1644	UNCLASSIFIED
+ydhK	b1645	ydhK // b1645 // ECK1641
+ydhL	b1648	UNCLASSIFIED
+ydhP	b1657	ydhP // b1657 // ECK1653
+ydhQ	b1664	UNCLASSIFIED
+ydhR	b1667	UNCLASSIFIED
+ydhS	b1668	ydhS // b1668 // ECK1664
+ydhT	b1669	UNCLASSIFIED
+ydhU	b1670	ydhU // b1670 // ECK1666
+ydhV	b1673	ydhV // b1673 // ECK1669
+ydhW	b1672	ydhW // b1672 // ECK1668
+ydhX	b1671	ydhX // b1671 // ECK1667
+ydhY	b1674	ydhY // b1674 // ECK1670
+ydiB	b1692	ydiB // b1692 // ECK1690
+ydiE	b1705	UNCLASSIFIED
+ydiF	b1694	ydiF // b1694 // ECK1692
+ydiH	b1685	ydiH // b1685 // ECK1682
+ydiJ	b1687	ydiJ // b1687 // ECK1684
+ydiK	b1688	UNCLASSIFIED
+ydiL	b1689	UNCLASSIFIED
+ydiM	b1690	ydiM // b1690 // ECK1688
+ydiN	b1691	ydiN // b1691 // ECK1689
+ydiO	b1695	ydiO // b1695 // ECK1693
+ydiP	b1696	ydiP // b1696 // ECK1694
+ydiQ	b1697	ydiQ // b1697 // ECK1695
+ydiR	b1698	ydiR // b1698 // ECK1696
+ydiS	b1699	ydiS // b1699 // ECK1697
+ydiT	b1700	ydiT // b1700 // ECK1698
+ydiY	b1722	ydiY // b1722 // ECK1720
+ydiZ	b1724	ydiZ // b1724 // ECK1722
+ydjA	b1765	UNCLASSIFIED
+ydjE	b1769	ydjE // b1769 // ECK1767
+ydjF	b1770	ydjF // b1770 // ECK1768
+ydjG	b1771	ydjG // b1771 // ECK1769
+ydjH	b1772	ydjH // b1772 // ECK1770
+ydjI	b1773	ydjI // b1773 // ECK1771
+ydjJ	b1774	ydjJ // b1774 // ECK1772
+ydjK	b1775	ydjK // b1775 // ECK1773
+ydjL	b1776	ydjL // b1776 // ECK1774
+ydjM	b1728	ydjM // b1728 // ECK1726
+ydjO	b1730	ydjO // b1730 // ECK1728
+ydjX	b1750	UNCLASSIFIED
+ydjY	b1751	ydjY // b1751 // ECK1749
+ydjZ	b1752	ydjZ // b1752 // ECK1750
+yeaC	b1777	UNCLASSIFIED
+yeaD	b1780	UNCLASSIFIED
+yeaE	b1781	yeaE // b1781 // ECK1779
+yeaG	b1783	yeaG // b1783 // ECK1781
+yeaH	b1784	UNCLASSIFIED
+yeaK	b1787	yeaK // b1787 // ECK1785
+yeaL	b1789	yeaL // b1789 // ECK1787
+yeaO	b1792	yeaO // b1792 // ECK1790
+yeaQ	b1795	UNCLASSIFIED
+yeaR	b1797	UNCLASSIFIED
+yeaV	b1801	yeaV // b1801 // ECK1799
+yeaW	b1802	UNCLASSIFIED
+yeaX	b1803	UNCLASSIFIED
+yeaY	b1806	yeaY // b1806 // ECK1804
+yebB	b1862	yebB // b1862 // ECK1863
+yebC	b1864	UNCLASSIFIED
+yebE	b1846	UNCLASSIFIED
+yebF	b1847	yebF // b1847 // ECK1848
+yebG	b1848	yebG // b1848 // ECK1849
+yebK	b1853	yebK // hexR(P.a.) // b1853 // ECK1854
+yebO	b1825	yebO // b1825 // ECK1823
+yebQ	b1828	yebQ // b1828 // ECK1827
+yebV	b1836	yebV // b1836 // ECK1835
+yebW	b1837	yebW // b1837 // ECK1836
+yebY	b1839	yebY // b1839 // ECK1840
+yebZ	b1840	UNCLASSIFIED
+yecA	b1908	UNCLASSIFIED
+yecD	b1867	yecD // b1867 // ECK1868
+yecE	b1868	UNCLASSIFIED
+yecF	b1915	yecF // b1915 // ECK1914
+yecH	b1906	yecH // b1906 // ECK1905
+yecJ	b4537	yecJ // b4537 // ECK1901
+yecM	b1875	yecM // yecL // b1875 // ECK1876
+yecN	b1869	yecN // b1869 // ECK1870
+yecR	b1904	yecR // b1904 // ECK1903
+yecT	b1877	yecT // b1877 // ECK1878
+yecU	b4752	yecU // b4752 // ECK4609
+yecV	b4778	yecV // b4778 // ECK4635
+yedA	b1959	yedA // b1959 // ECK1957
+yedD	b1928	yedD // b1928 // ECK1927
+yedE	b1929	yedE // b1929 // ECK1928
+yedF	b1930	yedF // b1930 // ECK1929
+yedI	b1958	yedI // b1958 // ECK1956
+yedJ	b1962	UNCLASSIFIED
+yedK	b1931	yedK // yedG // b1931 // ECK1930
+yedL	b1932	yedL // b1932 // ECK1931
+yedN	b4495	yedN // b1934 // yedM // b1935 // ECK1933 // b1933 // b4495 // ECK1932
+yedP	b1955	UNCLASSIFIED
+yedS	b4496	yedS // b1964 // yedT // b1965 // b1966 // b4496 // ECK1962
+yeeA	b2008	yeeA // b2008 // ECK2002
+yeeH	b4639	yeeH // b4639 // ECK4437
+yeeJ	b1978	UNCLASSIFIED
+yeeL	b4497	yeeL // yeeK // b1980 // b1979 // b4497 // ECK1975
+yeeN	b1983	UNCLASSIFIED
+yeeO	b1985	yeeO // b1985 // ECK1980
+yeeP	b1999	yeeP // b1999 // ECK1991
+yeeR	b2001	yeeR // b2001 // ECK1994
+yeeS	b2002	yeeS // b2002 // ECK1995
+yeeT	b2003	yeeT // b2003 // ECK1996
+yeeW	b2006	yeeW // b2006 // ECK1999
+yeeY	b2015	yeeY // b2015 // ECK2009
+yeeZ	b2016	yeeZ // b2016 // ECK2010
+yefM	b2017	yefM // b2017 // ECK2012
+yegD	b2069	yegD // b2069 // ECK2063
+yegH	b2063	yegH // b2063 // ECK2057
+yegI	b2070	yegI // b2070 // ECK2064
+yegJ	b2071	yegJ // b2071 // ECK2065
+yegL	b2073	UNCLASSIFIED
+yegP	b2080	yegP // b2080 // ECK2076
+yegR	b2085	yegR // b2085 // ECK2081
+yegS	b2086	yegS // b2086 // ECK2082
+yegT	b2098	yegT // b2098 // ECK2091
+yegU	b2099	yegU // b2099 // ECK2092
+yegV	b2100	yegV // b2100 // ECK2093
+yegW	b2101	yegW // b2101 // ECK2094
+yegX	b2102	yegX // b2102 // ECK2095
+yegZ	b2083	yegZ // b2083 // ECK2080
+yehA	b2108	yehA // b2108 // ECK2101
+yehB	b2109	yehB // b2109 // ECK2102
+yehC	b2110	yehC // b2110 // ECK2103
+yehD	b2111	yehD // b2111 // ECK2104
+yehE	b2112	yehE // b2112 // ECK2105
+yehF	b2115	yehF // molR_1 // sosF // dinO // b2115 // ECK2108
+yehH	b4499	yehH // molR // b2116 // yehG // b2117 // b4499 // ECK2108
+yehI	b2118	UNCLASSIFIED
+yehK	b4541	yehK // b4541 // ECK2110
+yehL	b2119	UNCLASSIFIED
+yehM	b2120	yehM // yehO // yehN // b2120 // ECK2112
+yehP	b2121	yehP // b2121 // ECK2113
+yehQ	b2122	yehQ // b2122 // ECK2114
+yehR	b2123	yehR // b2123 // ECK2115
+yehS	b2124	UNCLASSIFIED
+yehW	b2128	yehW // b2128 // ECK2121
+yehX	b2129	yehX // b2129 // ECK2122
+yehY	b2130	yehY // b2130 // ECK2123
+yeiB	b2152	yeiB // b2152 // ECK2145
+yeiE	b2157	yeiE // b2157 // ECK2150
+yeiG	b2154	yeiG // b2154 // ECK2147
+yeiH	b2158	yeiH // b2158 // ECK2151
+yeiI	b2160	yeiI // b2160 // ECK2153
+yeiL	b2163	yeiL // b2163 // ECK2156
+yeiP	b2171	yeiP // b2171 // ECK2165
+yeiQ	b2172	yeiQ // b2172 // ECK2166
+yeiR	b2173	UNCLASSIFIED
+yeiS	b2145	yeiS // b2145 // ECK2138
+yeiW	b4502	UNCLASSIFIED
+yejA	b2177	yejA // b2177 // ECK2171
+yejB	b2178	yejB // b2178 // ECK2172
+yejE	b2179	yejE // b2179 // ECK2173
+yejF	b2180	yejF // b2180 // ECK2174
+yejG	b2181	UNCLASSIFIED
+yejK	b2186	yejK // ndpA // b2186 // ECK2180
+yejL	b2187	UNCLASSIFIED
+yejO	b2190	yejO // b2190 // ECK2184
+yfaA	b2230	yfaA // pufY // b2230 // ECK2222
+yfaE	b2236	yfaE // b2236 // ECK2228
+yfaH	b2238	yfaH // b2238 // ECK2230
+yfaL	b2233	UNCLASSIFIED
+yfaP	b2225	yfaP // b2225 // ECK2218
+yfaQ	b2226	yfaQ // b2226 // ECK2219
+yfaS	b4500	yfaS // yfaR // b2228 // b2227 // b4500 // ECK2220
+yfaT	b2229	yfaT // b2229 // ECK2221
+yfaU	b2245	yfaU // b2245 // ECK2238
+yfaV	b2246	yfaV // b2246 // ECK2239
+yfaX	b2248	yfaX // b2248 // ECK2241
+yfaY	b2249	UNCLASSIFIED
+yfaZ	b2250	UNCLASSIFIED
+yfbK	b2270	UNCLASSIFIED
+yfbL	b2271	yfbL // b2271 // ECK2265
+yfbM	b2272	yfbM // b2272 // ECK2266
+yfbN	b2273	yfbN // b2273 // ECK2267
+yfbO	b2274	yfbO // b2274 // ECK2268
+yfbP	b2275	yfbP // b2275 // ECK2269
+yfbR	b2291	yfbR // b2291 // ECK2285
+yfbS	b2292	yfbS // b2292 // ECK2286
+yfbU	b2294	UNCLASSIFIED
+yfbV	b2295	yfbV // b2295 // ECK2289
+yfcA	b2327	UNCLASSIFIED
+yfcC	b2298	yfcC // b2298 // ECK2292
+yfcD	b2299	yfcD // b2299 // ECK2293
+yfcE	b2300	UNCLASSIFIED
+yfcF	b2301	yfcF // b2301 // ECK2295
+yfcG	b2302	yfcG // b2302 // ECK2296
+yfcH	b2304	yfcH // b2304 // ECK2298
+yfcJ	b2322	yfcJ // b2322 // ECK2316
+yfcL	b2325	yfcL // b2325 // ECK2319
+yfcO	b2332	yfcO // b2332 // ECK2326
+yfcP	b2333	yfcP // b2333 // ECK2327
+yfcQ	b2334	yfcQ // b2334 // ECK2328
+yfcR	b2335	yfcR // b2335 // ECK2329
+yfcS	b2336	yfcS // b2336 // ECK2330
+yfcU	b4661	yfcU // ECK2331 // yfcT // b2338 // b2337 // b4661 // ECK2332
+yfcV	b2339	yfcV // b2339 // ECK2333
+yfcZ	b2343	UNCLASSIFIED
+yfdC	b2347	yfdC // b2347 // ECK2341
+yfdE	b2371	yfdE // b2371 // ECK2367
+yfdF	b2345	yfdF // b2345 // ECK2339
+yfdG	b2350	yfdG // gtrA // b2350 // ECK2344
+yfdH	b2351	yfdH // gtrB // b2351 // ECK2345
+yfdI	b2352	yfdI // gtrS // gtrIV // b2352 // ECK2346
+yfdK	b2354	yfdK // b2354 // ECK2348
+yfdL	b2355	yfdL // b2355 // ECK2349
+yfdM	b2356	yfdM // yzyB // b2356 // ECK2350
+yfdN	b2357	yfdN // yzyA // b2357 // ECK2351
+yfdO	b2358	yfdO // oweS // b2358 // ECK2352
+yfdP	b2359	yfdP // b2359 // ECK2353
+yfdQ	b2360	yfdQ // b2360 // ECK2354
+yfdR	b2361	yfdR // b2361 // ECK2355
+yfdS	b2362	yfdS // b2362 // ECK2356
+yfdT	b2363	yfdT // b2363 // ECK2357
+yfdV	b2372	yfdV // b2372 // ECK2368
+yfdX	b2375	UNCLASSIFIED
+yfdY	b2377	yfdY // b2377 // ECK2373
+yfeC	b2398	yfeC // b2398 // ECK2392
+yfeD	b2399	yfeD // b2399 // ECK2393
+yfeH	b2410	yfeH // b2410 // ECK2404
+yfeK	b2419	UNCLASSIFIED
+yfeN	b2408	yfeN // b2408 // ECK2402
+yfeO	b2389	yfeO // b2389 // ECK2385
+yfeR	b2409	yfeR // b2409 // ECK2403
+yfeS	b2420	yfeS // b2420 // ECK2415
+yfeW	b2430	yfeW // b2430 // ECK2425
+yfeX	b2431	UNCLASSIFIED
+yfeY	b2432	yfeY // b2432 // ECK2427
+yfeZ	b2433	yfeZ // b2433 // ECK2428
+yffB	b2471	yffB // b2471 // ECK2466
+yffL	b2443	yffL // b2443 // ECK2438
+yffM	b2444	yffM // b2444 // ECK2439
+yffN	b2445	yffN // b2445 // ECK2440
+yffO	b2446	yffO // b2446 // ECK2441
+yffP	b2447	yffP // b2447 // ECK2442
+yffQ	b2448	yffQ // b2448 // ECK2443
+yffR	b2449	yffR // b2449 // ECK2444
+yffS	b2450	yffS // b2450 // ECK2445
+yfgD	b2495	yfgD // b2495 // ECK2491
+yfgG	b2504	yfgG // b2504 // ECK2500
+yfgH	b2505	UNCLASSIFIED
+yfgI	b2506	UNCLASSIFIED
+yfgJ	b2510	yfgJ // b2510 // ECK2506
+yfgM	b2513	UNCLASSIFIED
+yfgO	b2493	yfgO // perM // b2493 // ECK2489
+yfhH	b2561	yfhH // b2561 // ECK2559
+yfhL	b2562	yfhL // b2562 // ECK2560
+yfhM	b2520	yfhM // b2520 // ECK2516
+yfhR	b2534	yfhR // b2534 // ECK2531
+yfiB	b2605	yfiB // b2605 // ECK2602
+yfiC	b2575	yfiC // trmM // b2575 // ECK2573
+yfiE	b2577	yfiE // b2577 // ECK2575
+yfiF	b2581	yfiF // b2581 // ECK2579
+yfiH	b2593	UNCLASSIFIED
+yfiL	b2602	yfiL // b2602 // ECK2599
+yfiM	b2586	yfiM // b2586 // ECK2584
+yfiR	b2603	yfiR // b2603 // ECK2600
+yfiS	b4783	yfiS // b4783 // ECK4639
+yfjD	b4461	yfjD // b2612 // ypjE // b2613 // b4461 // ECK2609
+yfjF	b2618	yfjF // ratB // b2618 // ECK2614
+yfjH	b2623	yfjH // b2623 // ECK2619
+yfjI	b2625	yfjI // b2625 // ECK2621
+yfjJ	b2626	yfjJ // b2626 // ECK2622
+yfjM	b2629	yfjM // b2629 // ECK2625
+yfjP	b2632	yfjP // b2632 // ECK2628
+yfjQ	b2633	yfjQ // b2633 // ECK2629
+yfjR	b2634	yfjR // b2634 // ECK2630
+yfjS	b2636	UNCLASSIFIED
+yfjT	b2637	yfjT // b2637 // ECK2633
+yfjU	b2638	yfjU // b2638 // ECK2634
+yfjV	b2641	yfjV // ypjM // ypjL // ECK2637 // ECK2636 // b2640 // b2639 // b2641 // ECK2635
+yfjW	b2642	yfjW // b2642 // ECK2638
+yfjZ	b2645	yfjZ // lfgD // b2645 // ECK2642
+ygaC	b2671	ygaC // b2671 // ECK2665
+ygaH	b2683	ygaH // b2683 // ECK2677
+ygaM	b2672	UNCLASSIFIED
+ygaP	b2668	ygaP // b2668 // ECK2662
+ygaQ	b4462	ygaQ // G7393 // yqaD // G7392 // G7391 // ygaR // b2656 // b2655 // yqaC // b2654 // b2657 // b2658 // b4462 // ECK2649
+ygaV	b2667	ygaV // b2667 // ECK2661
+ygaY	b2681	ygaY // ygaX // b2680 // ECK2675 // b2681 // ECK2674
+ygaZ	b2682	ygaZ // b2682 // ECK2676
+ygbA	b2732	ygbA // b2732 // ECK2727
+ygbE	b2749	ygbE // b2749 // ECK2744
+ygbI	b2735	ygbI // b2735 // ECK2730
+ygbJ	b2736	UNCLASSIFIED
+ygbK	b2737	UNCLASSIFIED
+ygbL	b2738	ygbL // b2738 // ECK2733
+ygbM	b2739	ygbM // b2739 // ECK2734
+ygbN	b2740	ygbN // b2740 // ECK2735
+ygcE	b2776	ygcE // b2776 // ECK2770
+ygcG	b2778	ygcG // b2778 // ECK2772
+ygcN	b2766	UNCLASSIFIED
+ygcO	b2767	ygcO // b2767 // ECK2762
+ygcP	b2768	UNCLASSIFIED
+ygcQ	b2769	UNCLASSIFIED
+ygcR	b2770	UNCLASSIFIED
+ygcS	b2771	ygcS // b2771 // ECK2766
+ygcU	b4463	ygcU // ygcT // b2772 // ygcV // b2773 // b4463 // ECK2767
+ygcW	b2774	ygcW // b2774 // ECK2768
+ygdB	b2824	ygdB // b2824 // ECK2820
+ygdD	b2807	ygdD // b2807 // ECK2802
+ygdG	b2798	ygdG // xni // exo // b2798 // ECK2793
+ygdI	b2809	ygdI // b2809 // ECK2805
+ygdQ	b2832	ygdQ // b2832 // ECK2828
+ygdR	b2833	UNCLASSIFIED
+ygdT	b4610	ygdT // b4610 // ECK4419
+ygeA	b2840	UNCLASSIFIED
+ygeF	b2850	ygeF // b2850 // ECK2848
+ygeG	b2851	ygeG // b2851 // ECK2849
+ygeH	b2852	ygeH // b2852 // ECK2850
+ygeI	b2853	ygeI // b2853 // ECK2851
+ygeK	b2855	ygeK // b2855 // ECK2853
+ygeL	b2856	ygeL // b2856 // ECK2854
+ygeN	b2858	ygeN // ygeM // b2857 // ECK2856 // b2858 // ECK2855
+ygeO	b2859	ygeO // b2859 // ECK2857
+ygeP	b2862	ygeP // b2862 // ECK2858
+ygeQ	b2863	ygeQ // b2863 // ECK2859
+ygeV	b2869	ygeV // b2869 // ECK2865
+ygeW	b2870	ygeW // b2870 // ECK2866
+ygeX	b2871	ygeX // b2871 // ECK2867
+ygeY	b2872	ygeY // b2872 // ECK2868
+ygfB	b2909	ygfB // b2909 // ECK2904
+ygfF	b2902	ygfF // yqfD // b2902 // ECK2897
+ygfK	b2878	UNCLASSIFIED
+ygfM	b2880	UNCLASSIFIED
+ygfS	b2886	ygfS // b2886 // ECK2881
+ygfT	b2887	ygfT // b2887 // ECK2882
+ygfX	b2896	ygfX // cptA // b2896 // ECK2891
+ygfZ	b2898	ygfZ // yzzW // b2898 // ECK2893
+yggC	b2928	UNCLASSIFIED
+yggE	b2922	yggE // b2922 // ECK2918
+yggF	b2930	yggF // yggK // b2930 // ECK2926
+yggI	b2944	yggI // sprT // b2944 // ECK2939
+yggL	b2959	yggL // b2959 // ECK2954
+yggM	b2956	UNCLASSIFIED
+yggN	b2958	UNCLASSIFIED
+yggP	b4465	UNCLASSIFIED
+yggR	b2950	yggR // b2950 // ECK2945
+yggS	b2951	yggS // b2951 // ECK2946
+yggT	b2952	yggT // b2952 // ECK2947
+yggU	b2953	UNCLASSIFIED
+yggX	b2962	yggX // b2962 // ECK2957
+yghA	b3003	UNCLASSIFIED
+yghB	b3009	yghB // b3009 // ECK3001
+yghD	b2968	UNCLASSIFIED
+yghE	b2969	yghE // ecfB // b2969 // ECK2964
+yghF	b2970	yghF // ecfA // b2970 // ECK2965
+yghG	b2971	yghG // gspSbeta // b2971 // ECK2966
+yghJ	b4466	yghJ // b2974 // b2973 // sslE // b4466 // ECK2968
+yghO	b2981	yghO // b2981 // ECK2976
+yghQ	b2983	yghQ // b2983 // ECK2977
+yghR	b2984	UNCLASSIFIED
+yghS	b2985	UNCLASSIFIED
+yghT	b2986	yghT // b2986 // ECK2980
+yghU	b2989	yghU // b2989 // ECK2983
+yghW	b2998	yghW // b2998 // ECK2992
+yghX	b4658	yghX // b2999 // yghY // b3000 // ECK2994 // orf_f136 // b4658 // ECK2993
+ygiA	b3036	ygiA // b3036 // ECK3027
+ygiB	b3037	UNCLASSIFIED
+ygiC	b3038	ygiC // b3038 // ECK3029
+ygiD	b3039	UNCLASSIFIED
+ygiF	b3054	UNCLASSIFIED
+ygiL	b3043	ygiL // b3043 // ECK3034
+ygiM	b3055	ygiM // ecfG // htrG // b3055 // ECK3045
+ygiN	b3029	ygiN // b3029 // ECK3020
+ygiQ	b4469	UNCLASSIFIED
+ygiS	b3020	ygiS // b3020 // ECK3011
+ygiV	b3023	ygiV // b3023 // ECK3014
+ygiW	b3024	ygiW // visP // b3024 // ECK3015
+ygiZ	b3027	ygiZ // b3027 // ECK3018
+ygjH	b3074	UNCLASSIFIED
+ygjI	b3078	ygjI // b3078 // ECK3068
+ygjJ	b3079	ygjJ // b3079 // ECK3069
+ygjK	b3080	ygjK // b3080 // ECK3070
+ygjP	b3085	ygjP // b3085 // ECK3075
+ygjQ	b3086	UNCLASSIFIED
+ygjR	b3087	ygjR // b3087 // ECK3077
+ygjV	b3090	UNCLASSIFIED
+yhaB	b3120	UNCLASSIFIED
+yhaC	b3121	UNCLASSIFIED
+yhaH	b3103	yhaH // b3103 // ECK3094
+yhaI	b3104	yhaI // b3104 // ECK3095
+yhaJ	b3105	yhaJ // b3105 // ECK3096
+yhaK	b3106	UNCLASSIFIED
+yhaL	b3107	yhaL // b3107 // ECK3098
+yhaV	b3130	yhaV // b3130 // ECK3118
+yhbE	b3184	yhbE // b3184 // ECK3173
+yhbO	b3153	yhbO // b3153 // ECK3141
+yhbP	b3154	UNCLASSIFIED
+yhbQ	b3155	yhbQ // b3155 // ECK3143
+yhbS	b3156	UNCLASSIFIED
+yhbW	b3160	yhbW // b3160 // ECK3148
+yhbX	b3173	yhbX // b3173 // ECK3162
+yhbY	b3180	yhbY // b3180 // ECK3169
+yhcA	b3215	UNCLASSIFIED
+yhcC	b3211	yhcC // b3211 // ECK3201
+yhcD	b3216	yhcD // b3216 // ECK3206
+yhcE	b4569	yhcE // b3217 // b4549 // b4569 // ECK3207
+yhcF	b3219	yhcF // b3219 // ECK3208
+yhcG	b3220	UNCLASSIFIED
+yhcN	b3238	yhcN // b3238 // ECK3227
+yhcO	b3239	UNCLASSIFIED
+yhdE	b3248	yhdE // b3248 // ECK3236
+yhdH	b3253	UNCLASSIFIED
+yhdJ	b3262	yhdJ // b3262 // ECK3249
+yhdN	b3293	UNCLASSIFIED
+yhdP	b4472	UNCLASSIFIED
+yhdT	b3257	UNCLASSIFIED
+yhdU	b3263	yhdU // b3263 // ECK3250
+yhdV	b3267	yhdV // b3267 // ECK3254
+yhdW	b3268	yhdW // b3268 // ECK3255
+yhdX	b3269	yhdX // b3269 // ECK3256
+yhdY	b3270	yhdY // b3270 // ECK3257
+yhdZ	b3271	yhdZ // b3271 // ECK3258
+yheO	b3346	yheO // b3346 // ECK3333
+yheS	b3352	yheS // b3352 // ECK3340
+yheT	b3353	yheT // b3353 // ECK3341
+yheU	b3354	yheU // b3354 // ECK3342
+yheV	b4551	yheV // b4551 // ECK3337
+yhfA	b3356	UNCLASSIFIED
+yhfG	b3362	yhfG // ficA // b3362 // ECK3350
+yhfK	b3358	yhfK // b3358 // ECK3346
+yhfL	b3369	yhfL // b3369 // ECK3357
+yhfS	b3376	UNCLASSIFIED
+yhfT	b3377	yhfT // b3377 // ECK3364
+yhfU	b3378	yhfU // b3378 // ECK3365
+yhfW	b3380	UNCLASSIFIED
+yhfX	b3381	UNCLASSIFIED
+yhfY	b3382	UNCLASSIFIED
+yhfZ	b3383	yhfZ // b3383 // ECK3370
+yhgE	b3402	yhgE // b3402 // ECK3389
+yhgF	b3407	yhgF // b3407 // ECK3394
+yhgH	b3413	yhgH // gntX // b3413 // ECK3400
+yhgN	b3434	yhgN // b3434 // ECK3420
+yhgO	b4788	yhgO // b4788 // ECK4645
+yhgP	b4789	yhgP // b4789 // ECK4646
+yhhA	b3448	UNCLASSIFIED
+yhhH	b3483	yhhH // b3483 // ECK3467
+yhhI	b3484	yhhI // b3484 // ECK3469
+yhhJ	b3485	yhhJ // b3485 // ECK3470
+yhhL	b3466	UNCLASSIFIED
+yhhM	b3467	yhhM // b3467 // ECK3451
+yhhN	b3468	yhhN // b3468 // ECK3452
+yhhQ	b3471	yhhQ // b3471 // ECK3455
+yhhS	b3473	yhhS // b3473 // ECK3457
+yhhT	b3474	yhhT // b3474 // ECK3458
+yhhW	b3439	UNCLASSIFIED
+yhhX	b3440	yhhX // b3440 // ECK3425
+yhhY	b3441	yhhY // b3441 // ECK3427
+yhhZ	b3442	UNCLASSIFIED
+yhiD	b3508	UNCLASSIFIED
+yhiI	b3487	UNCLASSIFIED
+yhiJ	b3488	UNCLASSIFIED
+yhiL	b4660	yhiL // b3490 // b3489 // ECK3474 // yhiK // b4660 // ECK3475
+yhiM	b3491	yhiM // b3491 // ECK3476
+yhiN	b3492	yhiN // b3492 // ECK3477
+yhiS	b3504	yhiS // b3504 // ECK3489
+yhiY	b4790	yhiY // b4790 // ECK4647
+yhjB	b3520	yhjB // b3520 // ECK3505
+yhjD	b3522	UNCLASSIFIED
+yhjE	b3523	yhjE // b3523 // ECK3508
+yhjG	b3524	UNCLASSIFIED
+yhjJ	b3527	yhjJ // b3527 // ECK3512
+yhjR	b3535	UNCLASSIFIED
+yhjV	b3539	yhjV // b3539 // ECK3526
+yhjX	b3547	yhjX // b3547 // ECK3534
+yhjY	b3548	UNCLASSIFIED
+yiaA	b3562	yiaA // b3562 // ECK3551
+yiaB	b3563	UNCLASSIFIED
+yiaC	b3550	yiaC // b3550 // ECK3537
+yiaD	b3552	yiaD // b3552 // ECK3539
+yiaF	b3554	UNCLASSIFIED
+yiaG	b3555	yiaG // b3555 // ECK3542
+yiaK	b3575	yiaK // b3575 // ECK3564
+yiaL	b3576	UNCLASSIFIED
+yiaM	b3577	yiaM // b3577 // ECK3566
+yiaN	b3578	yiaN // b3578 // ECK3567
+yiaO	b3579	yiaO // b3579 // ECK3568
+yiaT	b3584	yiaT // b3584 // ECK3573
+yiaU	b3585	yiaU // b3585 // ECK3574
+yiaV	b3586	UNCLASSIFIED
+yiaW	b3587	UNCLASSIFIED
+yiaY	b3589	yiaY // b3589 // ECK3578
+yibA	b3594	UNCLASSIFIED
+yibF	b3592	yibF // b3592 // ECK3581
+yibG	b3596	yibG // b3596 // ECK3585
+yibH	b3597	UNCLASSIFIED
+yibI	b3598	yibI // b3598 // ECK3587
+yibJ	b3595	yibJ // rhsJ // b3595 // ECK3584
+yibL	b3602	UNCLASSIFIED
+yibN	b3611	yibN // b3611 // ECK3601
+yibQ	b3614	yibQ // b3614 // ECK3604
+yibS	b4650	yibS // b4650 // ECK4440
+yibT	b4554	yibT // b4554 // ECK3591
+yibU	b4652	yibU // b4652 // ECK4449
+yibV	b4615	yibV // b4615 // ECK4424
+yibW	b4651	yibW // b4651 // ECK4450
+yibX	b4795	yibX // b4795 // ECK4652
+yibY	b4796	yibY // b4796 // ECK4653
+yicC	b3644	yicC // b3644 // ECK3634
+yicG	b3646	yicG // b3646 // ECK3636
+yicH	b3655	UNCLASSIFIED
+yicI	b3656	yicI // b3656 // ECK3646
+yicJ	b3657	yicJ // b3657 // ECK3647
+yicL	b3660	yicL // b3660 // ECK3650
+yicN	b3663	UNCLASSIFIED
+yicR	b3638	yicR // radC // b3638 // ECK3628
+yicS	b4555	yicS // b4555 // ECK3652
+yicT	b4653	yicT // erhM // rhuM // b4653 // ECK4456
+yicU	b4797	yicU // b4797 // ECK4654
+yidA	b3697	UNCLASSIFIED
+yidB	b3698	UNCLASSIFIED
+yidC	b3705	yidC // b3705 // ECK3698
+yidD	b4557	UNCLASSIFIED
+yidE	b3685	yidE // yibE // b3685 // ECK3677
+yidF	b3674	yidF // b3674 // ECK3665
+yidG	b3675	yidG // b3675 // ECK3666
+yidH	b3676	yidH // b3676 // ECK3667
+yidI	b3677	yidI // b3677 // ECK3668
+yidJ	b3678	yidJ // b3678 // ECK3669
+yidK	b3679	yidK // b3679 // ECK3670
+yidL	b3680	yidL // b3680 // ECK3671
+yidP	b3684	yidP // b3684 // ECK3676
+yidQ	b3688	UNCLASSIFIED
+yidR	b3689	UNCLASSIFIED
+yidX	b3696	UNCLASSIFIED
+yidZ	b3711	yidZ // b3711 // ECK3704
+yieE	b3712	UNCLASSIFIED
+yieF	b3713	yieF // chrR // b3713 // ECK3706
+yieH	b3715	UNCLASSIFIED
+yieK	b3718	yieK // b3718 // ECK3711
+yieL	b3719	yieL // b3719 // ECK3712
+yieP	b3755	yieP // b3755 // ECK3749
+yifB	b3765	yifB // b3765 // ECK3758
+yifN	b3777	yifN // ECK3769 // yifO // b3777 // ECK3768
+yigA	b3810	UNCLASSIFIED
+yigB	b3812	yigB // b3812 // ECK3807
+yigE	b4482	yigE // b3815 // b3814 // b4482 // ECK3809
+yigF	b3817	yigF // b3817 // ECK3811
+yigG	b3818	UNCLASSIFIED
+yigI	b3820	UNCLASSIFIED
+yigL	b3826	yigL // b3826 // ECK3820
+yigZ	b3848	yigZ // b3848 // ECK3840
+yihA	b3865	yihA // engB // b3865 // ECK3857
+yihD	b3858	yihD // b3858 // ECK3850
+yihF	b3861	UNCLASSIFIED
+yihG	b3862	yihG // b3862 // ECK3854
+yihI	b3866	yihI // b3866 // ECK3859
+yihL	b3872	yihL // b3872 // ECK3865
+yihM	b3873	UNCLASSIFIED
+yihN	b3874	yihN // b3874 // ECK3867
+yihO	b3876	yihO // squO // b3876 // ECK3869
+yihP	b3877	yihP // b3877 // ECK3870
+yihQ	b3878	yihQ // squQ // b3878 // ECK3871
+yihR	b3879	yihR // squR // b3879 // ECK3872
+yihS	b3880	yihS // squS // b3880 // ECK3873
+yihT	b3881	yihT // squT // b3881 // ECK3874
+yihU	b3882	yihU // squU // b3882 // ECK3875
+yihV	b3883	yihV // squV // b3883 // ECK3876
+yihX	b3885	yihX // b3885 // ECK3878
+yihY	b3886	UNCLASSIFIED
+yiiE	b3889	yiiE // b3889 // ECK3882
+yiiF	b3890	UNCLASSIFIED
+yiiG	b3896	UNCLASSIFIED
+yiiM	b3910	yiiM // b3910 // ECK3903
+yiiQ	b3920	UNCLASSIFIED
+yiiR	b3921	yiiR // b3921 // ECK3913
+yiiS	b3922	yiiS // b3922 // ECK3914
+yiiX	b3937	yiiX // b3937 // ECK3929
+yijD	b3964	yijD // b3964 // ECK3956
+yijE	b3943	yijE // b3943 // ECK3935
+yijF	b3944	yijF // b3944 // ECK3936
+yijO	b3954	yijO // b3954 // ECK3945
+yjaA	b4011	yjaA // b4011 // ECK4003
+yjaB	b4012	yjaB // b4012 // ECK4004
+yjaG	b3999	UNCLASSIFIED
+yjaH	b4001	UNCLASSIFIED
+yjaZ	b3989	yjaZ // htrC // b3989 // ECK3980
+yjbB	b4020	yjbB // b4020 // ECK4012
+yjbD	b4023	UNCLASSIFIED
+yjbE	b4026	yjbE // b4026 // ECK4018
+yjbF	b4027	yjbF // b4027 // ECK4019
+yjbG	b4028	yjbG // b4028 // ECK4020
+yjbH	b4029	yjbH // b4029 // ECK4021
+yjbI	b4038	yjbI // b4038 // ECK4030
+yjbJ	b4045	yjbJ // b4045 // ECK4037
+yjbL	b4047	yjbL // b4047 // ECK4039
+yjbM	b4048	yjbM // b4048 // ECK4040
+yjbQ	b4056	UNCLASSIFIED
+yjbR	b4057	UNCLASSIFIED
+yjbS	b4621	yjbS // b4621 // ECK4429
+yjbT	b4620	yjbT // b4620 // ECK4428
+yjcB	b4060	UNCLASSIFIED
+yjcE	b4065	yjcE // b4065 // ECK4058
+yjcF	b4066	UNCLASSIFIED
+yjcH	b4068	UNCLASSIFIED
+yjcO	b4078	UNCLASSIFIED
+yjcS	b4083	yjcS // b4083 // ECK4076
+yjdF	b4121	UNCLASSIFIED
+yjdI	b4126	UNCLASSIFIED
+yjdJ	b4127	yjdJ // b4127 // ECK4120
+yjdM	b4108	yjdM // phnA // b4108 // ECK4101
+yjdN	b4107	yjdN // phnB // b4107 // ECK4100
+yjdP	b4487	UNCLASSIFIED
+yjdQ	b4654	yjdQ // b4654 // ECK4457
+yjeH	b4141	yjeH // b4141 // ECK4135
+yjeI	b4144	UNCLASSIFIED
+yjeJ	b4145	UNCLASSIFIED
+yjeM	b4156	yjeM // b4156 // ECK4152
+yjeN	b4157	yjeN // b4157 // ECK4153
+yjeO	b4158	UNCLASSIFIED
+yjeT	b4176	UNCLASSIFIED
+yjeV	b4670	yjeV // b4670 // ECK4485
+yjfC	b4186	yjfC // b4186 // ECK4182
+yjfF	b4231	yjfF // b4231 // ECK4226
+yjfI	b4181	UNCLASSIFIED
+yjfJ	b4182	yjfJ // b4182 // ECK4178
+yjfK	b4183	UNCLASSIFIED
+yjfL	b4184	yjfL // b4184 // ECK4180
+yjfM	b4185	UNCLASSIFIED
+yjfN	b4188	yjfN // b4188 // ECK4184
+yjfP	b4190	UNCLASSIFIED
+yjfY	b4199	yjfY // b4199 // ECK4195
+yjfZ	b4204	yjfZ // b4204 // ECK4200
+yjgA	b4234	yjgA // b4234 // ECK4229
+yjgH	b4248	yjgH // b4248 // ECK4242
+yjgL	b4253	yjgL // b4253 // ECK4246
+yjgM	b4256	yjgM // b4256 // ECK4249
+yjgN	b4257	UNCLASSIFIED
+yjgR	b4263	yjgR // b4263 // ECK4256
+yjgW	b4274	yjgW // b4274 // ECK4265
+yjgX	b4575	yjgX // yjgY // b4276 // b4275 // b4560 // b4575 // ECK4266
+yjgZ	b4277	yjgZ // b4277 // ECK4267
+yjhD	b4281	yjhD // b4281 // ECK4271
+yjhE	b4282	yjhE // b4282 // ECK4272
+yjhF	b4296	yjhF // b4296 // ECK4285
+yjhG	b4297	yjhG // b4297 // ECK4286
+yjhH	b4298	yjhH // b4298 // ECK4287
+yjhI	b4299	yjhI // b4299 // ECK4288
+yjhP	b4306	yjhP // b4306 // ECK4296
+yjhQ	b4307	yjhQ // b4307 // ECK4297
+yjhR	b4308	yjhR // b4308 // ECK4299
+yjhU	b4295	yjhU // b4295 // ECK4284
+yjhV	b4286	yjhV // b4286 // ECK4276
+yjhY	b4656	yjhY // b4656 // ECK4453
+yjhZ	b4657	yjhZ // b4657 // ECK4455
+yjiA	b4352	UNCLASSIFIED
+yjiC	b4325	yjiC // b4325 // ECK4316
+yjiG	b4329	yjiG // b4329 // ECK4320
+yjiH	b4330	UNCLASSIFIED
+yjiJ	b4332	yjiJ // b4332 // ECK4323
+yjiK	b4333	UNCLASSIFIED
+yjiL	b4334	yjiL // b4334 // ECK4325
+yjiM	b4335	yjiM // b4335 // ECK4326
+yjiN	b4336	yjiN // b4336 // ECK4327
+yjiR	b4340	yjiR // b4340 // ECK4331
+yjiS	b4341	yjiS // b4341 // ECK4332
+yjiT	b4342	yjiT // b4342 // ECK4333
+yjiV	b4486	yjiV // mcrD // yjiU // b4343 // b4344 // b4486 // ECK4334
+yjiX	b4353	UNCLASSIFIED
+yjjA	b4360	UNCLASSIFIED
+yjjB	b4363	yjjB // b4363 // ECK4353
+yjjG	b4374	yjjG // b4374 // ECK4365
+yjjI	b4380	yjjI // yjjH // b4380 // ECK4372
+yjjP	b4364	yjjP // b4364 // ECK4354
+yjjQ	b4365	yjjQ // b4365 // ECK4355
+yjjU	b4377	UNCLASSIFIED
+yjjV	b4378	yjjV // b4378 // ECK4370
+yjjW	b4379	yjjW // b4379 // ECK4371
+yjjX	b4394	yjjX // b4394 // ECK4386
+yjjY	b4402	yjjY // b4402 // ECK4394
+yjjZ	b4567	yjjZ // b4567 // ECK4358
+yjtD	b4403	UNCLASSIFIED
+ykfA	b0253	ykfA // b0253 // ECK0255
+ykfB	b0250	ykfB // b0250 // ECK0252
+ykfC	b0258	ykfC // b0258 // ECK0260
+ykfF	b0249	ykfF // b0249 // ECK0251
+ykfG	b0247	ykfG // b0247 // ECK0249
+ykfH	b4504	ykfH // b4504 // ECK0248
+ykfI	b0245	ykfI // b0245 // ECK0246
+ykfJ	b0235	ykfJ // b0235 // ECK0236
+ykfK	b4628	ykfK // b4628 // ECK4444
+ykfL	b4627	ykfL // b4627 // ECK4445
+ykfM	b4586	ykfM // b4586 // ECK4397
+ykfN	b4626	ykfN // b4626 // ECK4458
+ykfO	b4815	UNCLASSIFIED
+ykgA	b0300	ykgA // b0300 // ECK0300
+ykgE	b0306	ykgE // b0306 // ECK0305
+ykgF	b0307	ykgF // b0307 // ECK0306
+ykgG	b0308	ykgG // b0308 // ECK0307
+ykgH	b0310	UNCLASSIFIED
+ykgJ	b0288	ykgJ // b0288 // ECK0287
+ykgL	b0295	ykgL // b0295 // ECK0294
+ykgM	b0296	ykgM // b0296 // ECK0296
+ykgO	b4506	ykgO // b4506 // ECK0295
+ykgP	b4630	ykgP // b4630 // ECK4446
+ykgQ	b4631	ykgQ // b4631 // ECK4454
+ykgR	b4671	ykgR // b4671 // ECK4486
+ykgS	b4688	ykgS // b4688 // ECK4504
+ykgV	b4729	ykgV // b4729 // ECK4586
+ykiA	b0392	ykiA // b0392 // ECK0387
+ykiB	b0370	ykiB // b0370 // ECK0367
+ykiC	b4731	ykiC // b4731 // ECK4588
+ykiD	b4732	ykiD // b4732 // ECK4589
+ykiE	b4801	ykiE // b4801 // ECK4658
+ylaC	b0458	ylaC // b0458 // ECK0452
+ylbE	b4572	ylbE // b0519 // G0-10554 // b4507 // b4572 // ECK0512
+ylbF	b0520	UNCLASSIFIED
+ylbG	b0502	ylbG // b0502 // ECK0495
+ylbH	b0499	ylbH // rhsH // b0499 // ECK0493
+ylbI	b4632	ylbI // b4632 // ECK4441
+ylcG	b4509	ylcG // b4509 // ECK0542
+ylcH	b4588	ylcH // b4588 // ECK4398
+ylcI	b4589	ylcI // b4589 // ECK4399
+ylcJ	b4733	ylcJ // b4733 // ECK4590
+yldA	b4734	yldA // b4734 // ECK4591
+yliI	b0837	yliI // b0837 // ECK0827
+yliL	b0816	yliL // b0816 // ECK0805
+yliM	b4736	yliM // b4736 // ECK4593
+yljB	b4770	yljB // b4770 // ECK4627
+ymcE	b0991	ymcE // b0991 // ECK0981
+ymcF	b4723	UNCLASSIFIED
+ymdA	b1044	ymdA // b1044 // ECK1030
+ymdB	b1045	ymdB // b1045 // ECK1031
+ymdE	b1028	ymdE // b1028 // ECK1016
+ymdF	b4518	UNCLASSIFIED
+ymdG	b4737	ymdG // b4737 // ECK4594
+ymfA	b1122	ymfA // b1122 // ECK1108
+ymfD	b1137	ymfD // b1137 // ECK1123
+ymfE	b1138	ymfE // b1138 // ECK1124
+ymfH	b1142	ymfH // b1142 // ECK1128
+ymfI	b1143	ymfI // b1143 // ECK1129
+ymfJ	b1144	ymfJ // b1144 // ECK1130
+ymfK	b1145	ymfK // cohE // b1145 // ECK1131
+ymfL	b1147	ymfL // b1147 // ECK1133
+ymfM	b1148	ymfM // sfiC // b1148 // ECK1134
+ymfN	b1149	ymfN // b1149 // ECK1135
+ymfQ	b1153	ymfQ // b1153 // ECK1139
+ymfR	b1150	ymfR // b1150 // ECK1136
+ymfT	b1146	ymfT // croE // b1146 // ECK1132
+ymgA	b1165	ymgA // b1165 // ECK1152
+ymgC	b1167	ymgC // b1167 // ECK1154
+ymgD	b1171	ymgD // b1171 // ECK1158
+ymgE	b1195	ymgE // tag // b1195 // ECK1183
+ymgF	b4520	ymgF // b4520 // ECK1156
+ymgG	b1172	ymgG // b1172 // ECK1159
+ymgI	b4593	ymgI // b4593 // ECK4403
+ymgJ	b4594	ymgJ // b4594 // ECK4404
+ymgK	b4738	ymgK // b4738 // ECK4595
+ymgL	b4739	ymgL // b4739 // ECK4596
+ymgM	b4740	ymgM // b4740 // ECK4597
+ymgN	b4816	UNCLASSIFIED
+ymiA	b4522	ymiA // yciX_1 // b4522 // ECK4433
+ymiB	b4672	ymiB // b4672 // ECK4487
+ymiC	b4741	ymiC // b4741 // ECK4598
+ymiD	b4772	ymiD // b4772 // ECK4629
+ymjA	b1295	ymjA // b1295 // ECK1290
+ymjB	b4524	ymjB // b4524 // ECK1314
+ymjC	b4525	ymjC // b4525 // ECK1323
+ymjD	b4673	UNCLASSIFIED
+ymjE	b4742	ymjE // b4742 // ECK4599
+ynaA	b1368	ynaA // tmpR // b1368 // ECK1365
+ynaE	b1375	ynaE // b1375 // ECK1370
+ynaI	b1330	ynaI // b1330 // ECK1327
+ynaJ	b1332	ynaJ // b1332 // ECK1328
+ynaK	b1365	ynaK // b1365 // ECK1363
+ynaL	b4743	ynaL // C0343 // b4743 // ECK4600
+ynaM	b4744	ynaM // b4744 // ECK4601
+ynaN	b4773	ynaN // b4773 // ECK4630
+ynbA	b1408	ynbA // b1408 // ECK1401
+ynbB	b1409	UNCLASSIFIED
+ynbC	b1410	ynbC // b1410 // ECK1403
+ynbD	b1411	ynbD // b1411 // ECK1404
+ynbE	b1382	ynbE // b1382 // ECK1379
+ynbG	b4674	ynbG // b4674 // ECK4489
+yncE	b1452	UNCLASSIFIED
+yncG	b1454	yncG // b1454 // ECK1448
+yncH	b1455	yncH // b1455 // ECK1449
+yncI	b1459	yncI // yncM // b1458 // ECK1453 // b1459 // ECK1452
+yncJ	b1436	yncJ // b1436 // ECK1430
+yncK	b4578	yncK // insP // b4531 // b4530 // b4578 // ECK1425
+yncL	b4598	yncL // b4598 // ECK4408
+yncO	b4745	yncO // b4745 // ECK4602
+yncP	b4774	yncP // b4774 // ECK4631
+yneE	b1520	UNCLASSIFIED
+yneG	b1523	yneG // b1523 // ECK1516
+yneK	b1527	UNCLASSIFIED
+yneL	b1506	yneL // b1506 // ECK1499
+yneO	b4696	yneO // orfT // ydeK // ydeU // b1509 // b1510 // ECK1502 // b4696 // ECK1503
+yneP	b4747	yneP // b4747 // ECK4604
+ynfA	b1582	UNCLASSIFIED
+ynfB	b1583	ynfB // b1583 // ECK1578
+ynfC	b1585	ynfC // b1585 // ECK1580
+ynfD	b1586	ynfD // b1586 // ECK1581
+ynfE	b1587	ynfE // b1587 // ECK1582
+ynfF	b1588	ynfF // b1588 // ECK1583
+ynfG	b1589	ynfG // b1589 // ECK1584
+ynfH	b1590	ynfH // b1590 // ECK1585
+ynfL	b1595	ynfL // b1595 // ECK1590
+ynfM	b1596	ynfM // yzyC // b1596 // ECK1591
+ynfN	b1551	ynfN // b1551 // ECK1545
+ynfO	b4533	ynfO // b4533 // ECK1542
+ynfP	b4534	ynfP // ydfJ_1 // b4534 // ECK1574
+ynfQ	b4724	UNCLASSIFIED
+ynfR	b4749	ynfR // b4749 // ECK4606
+ynfS	b4750	ynfS // b4750 // ECK4607
+ynfT	b4748	ynfT // b4748 // ECK4605
+ynfU	b4776	ynfU // b4776 // ECK4633
+ynhH	b4817	UNCLASSIFIED
+yniA	b1725	yniA // b1725 // ECK1723
+yniB	b1726	yniB // b1726 // ECK1724
+yniD	b4535	yniD // b4535 // ECK1719
+ynjA	b1753	UNCLASSIFIED
+ynjB	b1754	ynjB // b1754 // ECK1752
+ynjC	b1755	ynjC // b1755 // ECK1753
+ynjD	b1756	ynjD // b1756 // ECK1754
+ynjE	b1757	ynjE // b1757 // ECK1755
+ynjF	b1758	ynjF // b1758 // ECK1756
+ynjH	b1760	ynjH // b1760 // ECK1758
+ynjI	b1762	UNCLASSIFIED
+yoaA	b1808	yoaA // b1808 // ECK1806
+yoaB	b1809	UNCLASSIFIED
+yoaC	b1810	yoaC // b1810 // ECK1808
+yoaE	b1816	UNCLASSIFIED
+yoaF	b1793	yoaF // b1793 // ECK1791
+yoaG	b1796	yoaG // b1796 // ECK1794
+yoaH	b1811	UNCLASSIFIED
+yoaI	b1788	yoaI // b1788 // ECK1786
+yoaJ	b4675	UNCLASSIFIED
+yoaK	b4676	UNCLASSIFIED
+yoaL	b4751	yoaL // b4751 // ECK4608
+yoaM	b4779	yoaM // b4779 // ECK4636
+yobA	b1841	UNCLASSIFIED
+yobB	b1843	yobB // b1843 // ECK1844
+yobD	b1820	UNCLASSIFIED
+yobF	b1824	yobF // b1824 // ECK1822
+yobH	b4536	yobH // b4536 // ECK1825
+yobI	b4677	yobI // b4677 // ECK4492
+yodB	b1974	yodB // b1974 // ECK1970
+yodC	b1957	yodC // b1957 // ECK1955
+yodD	b1953	yodD // b1953 // ECK1951
+yodE	b4780	yodE // b4780 // ECK4637
+yoeA	b4582	yoeA // yoeE // b1995 // b1998 // ECK1990 // b4582 // ECK1989
+yoeB	b4539	yoeB // b4539 // ECK2011
+yoeD	b4642	yoeD // b4642 // ECK4443
+yoeF	b4538	yoeF // b4538 // ECK2000
+yoeG	b4640	yoeG // b4640 // ECK4451
+yoeH	b4641	yoeH // b4641 // ECK4452
+yoeI	b4678	UNCLASSIFIED
+yoeJ	b4818	UNCLASSIFIED
+yohC	b2135	UNCLASSIFIED
+yohD	b2136	yohD // b2136 // ECK2129
+yohF	b2137	yohF // yohE // b2137 // ECK2130
+yohJ	b2141	yohJ // b2141 // ECK2134
+yohK	b2142	yohK // b2142 // ECK2135
+yohO	b4542	yohO // b4542 // ECK2120
+yohP	b4679	UNCLASSIFIED
+yojI	b2211	yojI // yojJ // b2211 // ECK2203
+yojO	b4604	yojO // b4604 // ECK4413
+ypaA	b4543	ypaA // b4543 // ECK2237
+ypaB	b4605	ypaB // b4605 // ECK4414
+ypdC	b2382	ypdC // b2382 // ECK2378
+ypdE	b2384	ypdE // b2384 // ECK2380
+ypdF	b2385	ypdF // b2385 // ECK2381
+ypdI	b2376	ypdI // b2376 // ECK2372
+ypdJ	b4545	ypdJ // b4545 // ECK2358
+ypdK	b4680	UNCLASSIFIED
+ypeA	b2434	ypeA // b2434 // ECK2429
+ypeB	b4546	ypeB // b4546 // ECK2405
+ypeC	b2390	ypeC // b2390 // ECK2386
+ypeD	b4819	UNCLASSIFIED
+ypfG	b2466	ypfG // b2466 // ECK2461
+ypfH	b2473	UNCLASSIFIED
+ypfJ	b2475	UNCLASSIFIED
+ypfM	b4606	ypfM // b4606 // ECK4415
+ypfN	b4547	ypfN // b4547 // ECK2468
+yphA	b2543	yphA // b2543 // ECK2540
+yphB	b2544	UNCLASSIFIED
+yphC	b2545	yphC // b2545 // ECK2542
+yphD	b2546	yphD // b2546 // ECK2543
+yphE	b2547	yphE // b2547 // ECK2544
+yphF	b2548	yphF // b2548 // ECK2545
+yphG	b2549	yphG // b2549 // ECK2546
+yphH	b2550	yphH // b2550 // ECK2547
+ypjA	b2647	UNCLASSIFIED
+ypjB	b2649	UNCLASSIFIED
+ypjC	b2650	ypjC // b2650 // ECK2647
+ypjD	b2611	ypjD // b2611 // ECK2608
+ypjF	b2646	ypjF // lfgE // b2646 // ECK2643
+ypjI	b4644	ypjI // b4644 // ECK4438
+ypjJ	b4548	ypjJ // lfgC // b4548 // ECK2641
+ypjK	b2635	ypjK // b2635 // ECK2631
+yqaA	b2689	yqaA // b2689 // ECK2684
+yqaB	b2690	yqaB // b2690 // ECK2685
+yqaE	b2666	UNCLASSIFIED
+yqcA	b2790	yqcA // b2790 // ECK2784
+yqcC	b2792	UNCLASSIFIED
+yqcE	b2775	yqcE // yqcF // b2775 // ECK2769
+yqcG	b4682	yqcG // b4682 // ECK4497
+yqeA	b2874	yqeA // b2874 // ECK2870
+yqeB	b2875	yqeB // b2875 // ECK2871
+yqeC	b2876	UNCLASSIFIED
+yqeF	b2844	yqeF // b2844 // ECK2842
+yqeG	b2845	yqeG // b2845 // ECK2843
+yqeH	b2846	yqeH // b2846 // ECK2844
+yqeI	b2847	yqeI // b2847 // ECK2845
+yqeJ	b2848	yqeJ // b2848 // ECK2846
+yqeK	b2849	yqeK // b2849 // ECK2847
+yqeL	b4683	yqeL // b4683 // ECK4498
+yqfB	b2900	yqfB // b2900 // ECK2895
+yqfE	b2915	yqfE // b2915 // ECK2911
+yqfG	b4684	yqfG // b4684 // ECK4499
+yqfH	b4753	yqfH // b4753 // ECK4610
+yqfI	b4754	yqfI // b4754 // ECK4611
+yqgA	b2966	yqgA // b2966 // ECK2961
+yqgB	b2939	yqgB // b2939 // ECK2934
+yqgC	b2940	yqgC // b2940 // ECK2935
+yqgD	b2941	yqgD // b2941 // ECK2936
+yqgE	b2948	UNCLASSIFIED
+yqgF	b2949	yqgF // b2949 // ECK2944
+yqgG	b4784	yqgG // b4784 // ECK4641
+yqgH	b4785	yqgH // b4785 // ECK4642
+yqhA	b3002	yqhA // b3002 // ECK2996
+yqhC	b3010	yqhC // b3010 // ECK3002
+yqhD	b3011	yqhD // b3011 // ECK3003
+yqhG	b3013	yqhG // yqhF // b3013 // ECK3005
+yqhH	b3014	UNCLASSIFIED
+yqhI	b4755	yqhI // b4755 // ECK4612
+yqhJ	b4786	yqhJ // b4786 // ECK4643
+yqiA	b3031	yqiA // yzzI // b3031 // ECK3022
+yqiB	b3033	yqiB // yzzH // b3033 // ECK3024
+yqiD	b4756	yqiD // b4756 // ECK4613
+yqiG	b3046	yqiG // b3046 // ECK3035
+yqiH	b3047	yqiH // b3047 // ECK3036
+yqiI	b3048	yqiI // b3048 // ECK3037
+yqiJ	b3050	yqiJ // b3050 // ECK3039
+yqiK	b3051	yqiK // b3051 // ECK3040
+yqiM	b4787	yqiM // b4787 // ECK4644
+yqjA	b3095	yqjA // ecfL // b3095 // ECK3086
+yqjC	b3097	UNCLASSIFIED
+yqjD	b3098	UNCLASSIFIED
+yqjE	b3099	UNCLASSIFIED
+yqjF	b3101	UNCLASSIFIED
+yqjG	b3102	UNCLASSIFIED
+yqjK	b3100	yqjK // b3100 // ECK3091
+yraH	b3142	yraH // b3142 // ECK3130
+yraI	b3143	yraI // b3143 // ECK3131
+yraJ	b3144	UNCLASSIFIED
+yraK	b3145	yraK // b3145 // ECK3133
+yraN	b3148	yraN // b3148 // ECK3136
+yraQ	b3151	yraQ // b3151 // ECK3139
+yraR	b3152	yraR // b3152 // ECK3140
+yrbG	b3196	yrbG // b3196 // ECK3185
+yrbL	b3207	yrbL // b3207 // ECK3196
+yrbN	b4685	UNCLASSIFIED
+yrdA	b3279	UNCLASSIFIED
+yrdB	b3280	UNCLASSIFIED
+yrdD	b3283	UNCLASSIFIED
+yrdE	b4646	yrdE // b4646 // ECK4442
+yrdF	b4697	yrdF // b4697 // ECK4509
+yrdG	b4846	UNCLASSIFIED
+yrfG	b3399	UNCLASSIFIED
+yrfJ	b4820	UNCLASSIFIED
+yrhA	b3443	yrhA // b3443 // ECK3429
+yrhB	b3446	yrhB // b3446 // ECK3430
+yrhC	b4552	yrhC // b4552 // ECK3468
+yrhD	b4612	yrhD // b4612 // ECK4421
+yriA	b4791	yriA // b4791 // ECK4648
+yriB	b4792	yriB // b4792 // ECK4649
+ysaA	b3573	ysaA // yiaI // b3573 // ECK3562
+ysaB	b4553	ysaB // b4553 // ECK3549
+ysaC	b4648	ysaC // b4648 // ECK4459
+ysaD	b4649	ysaD // b4649 // ECK4460
+ysaE	b4793	ysaE // b4793 // ECK4650
+ysdD	b4757	ysdD // b4757 // ECK4614
+ysdE	b4798	ysdE // b4798 // ECK4655
+ysgA	b3830	ysgA // b3830 // ECK3824
+ysgD	b4799	ysgD // b4799 // ECK4656
+yshB	b4686	UNCLASSIFIED
+ytcA	b4622	ytcA // b4622 // ECK4430
+ytcB	b4821	UNCLASSIFIED
+ytfA	b4205	ytfA // b4205 // ECK4201
+ytfB	b4206	ytfB // b4206 // ECK4202
+ytfE	b4209	ytfE // dnrN // b4209 // ECK4205
+ytfF	b4210	ytfF // b4210 // ECK4206
+ytfH	b4212	ytfH // b4212 // ECK4208
+ytfI	b4215	ytfI // b4215 // ECK4211
+ytfJ	b4216	UNCLASSIFIED
+ytfK	b4217	ytfK // b4217 // ECK4213
+ytfP	b4222	UNCLASSIFIED
+ytfQ	b4227	ytfQ // b4227 // ECK4223
+ytfR	b4485	ytfR // ytfS // b4228 // b4229 // b4485 // ECK4224
+ytfT	b4230	ytfT // b4230 // ECK4225
+ytgA	b4800	ytgA // b4800 // ECK4657
+ytgB	b4822	UNCLASSIFIED
+ythA	b4655	ythA // b4655 // ECK4434
+ythB	b4802	ythB // b4802 // ECK4659
+ytiA	b4715	ytiA // b4715 // ECK4572
+ytiB	b4767	ytiB // b4767 // ECK4624
+ytiC	b4720	UNCLASSIFIED
+ytiD	b4721	UNCLASSIFIED
+ytiE	b4823	UNCLASSIFIED
+ytjA	b4568	ytjA // b4568 // ECK4368
+ytjB	b4387	UNCLASSIFIED
+ytjC	b4395	ytjC // gpmB // b4395 // ECK4387
+ytjE	b4824	UNCLASSIFIED
+yzcX	b3808	yzcX // b3808 // ECK3802
+yzfA	b4223	yzfA // yjfA // ileR // b4223 // ECK4219
+yzgL	b3427	yzgL // b3427 // ECK3413
+zapA	b2910	zapA // ygfE // b2910 // ECK2905
+zapB	b3928	zapB // yiiU // b3928 // ECK3920
+zapC	b0946	zapC // ycbW // b0946 // ECK0937
+zapD	b0102	zapD // yacF // b0102 // ECK0102
+zapE	b3232	zapE // yhcM // b3232 // ECK3221
+zapG	b3233	zapG // yhcB // lapD // b3233 // ECK3222
+zbiJ	b4814	UNCLASSIFIED
+zinT	b1973	zinT // yodA // b1973 // ECK1969
+zipA	b2412	zipA // b2412 // ECK2407
+zitB	b0752	zitB // ybgR // b0752 // ECK0741
+zntA	b3469	zntA // yhhO // b3469 // ECK3453
+zntB	b1342	zntB // ydaN // b1342 // ECK1339
+zntR	b3292	zntR // yhdM // b3292 // ECK3279
+znuA	b1857	znuA // yzzP // yebL // b1857 // ECK1858
+znuB	b1859	znuB // yebI // b1859 // ECK1860
+znuC	b1858	znuC // yebM // b1858 // ECK1859
+zraP	b4002	zraP // yjaI // zra // b4002 // ECK3994
+zraR	b4004	zraR // hydG // b4004 // ECK3996
+zraS	b4003	zraS // hydH // b4003 // ECK3995
+zupT	b3040	zupT // ygiE // b3040 // ECK3031
+zur	b4046	zur // yjbK // znuR // b4046 // ECK4038
+zwf	b1852	zwf // b1852 // ECK1853

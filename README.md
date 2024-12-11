@@ -1,2 +1,1 @@
-# ICA_Mechanisms
-Code for analyses related to the "ICA Mechanisms" project
+# Bacterial_TRN_Dominance_and_Independence
