@@ -1,6 +1,6 @@
-# Dominance and Independence within Bacterial Transcriptional Regulation
+# Regulator Independence and Dominance are Emergent Properties of Bacterial Transcriptional Regulation
 
-This repository contains the codes and data for the manuscript 'Dominance and Independence within Bacterial Transcriptional Regulation'.
+This repository contains the codes and data for the manuscript 'Regulator Independence and Dominance are Emergent Properties of Bacterial Transcriptional Regulation'.
 
 ## Repository Structure
 
