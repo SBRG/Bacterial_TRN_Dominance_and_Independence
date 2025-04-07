@@ -52,10 +52,6 @@ Bacterial_TRN_Dominance_and_Independence/
 │
 ├── 4_Case_Study/
 │   ├── Figure_4_ArgR.ipynb
-│
-├── 5_Co_expression_confidence/
-    ├── A_confidence_P1K.ipynb
-    └── A_confidence_case_study_plotting.ipynb
 ````
 
 ## Datasets
