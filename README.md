@@ -1,6 +1,6 @@
-# Regulator Independence and Dominance are Emergent Properties of Bacterial Transcriptional Regulation
+# Regulator Dominance creates a Simple Structure within Complex Transcriptional Regulatory Networks
 
-This repository contains the codes and data for the manuscript 'Regulator Independence and Dominance are Emergent Properties of Bacterial Transcriptional Regulation'.
+This repository contains the codes and data for the manuscript.
 
 ## Repository Structure
 
