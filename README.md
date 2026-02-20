@@ -1,4 +1,4 @@
-# Regulator Dominance creates a Simple Structure within Complex Transcriptional Regulatory Networks
+# Disentangling factors affecting bacterial transcriptional regulatory network inference
 
 This repository contains the codes and data for the manuscript.
 
